@@ -2,9 +2,9 @@
 layout: post
 title: "First Blog Post"
 author: sweta_shrestha
-modified:
+modified: 2015-08-05
 excerpt: "Young Innovation First Blog Post"
-tags: []
+tags: [page,blog]
 ---
 
 ### Welcome to Young Innovations first blog.

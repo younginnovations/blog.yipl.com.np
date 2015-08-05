@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2015-08-05T08:30:39+00:00</updated>
+<updated>2015-08-05T10:23:29+00:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>YoungInnovations Blog</name>
@@ -19,8 +19,9 @@
   <title type="html"><![CDATA[First Blog Post]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/first-blog/" />
   <id>http://localhost:4000/first-blog</id>
-  <published>2015-07-05T00:00:00+00:00</published>
-  <updated>2015-07-05T00:00:00+00:00</updated>
+  <updated>2015-05-16T00:00:00-00:00</updated>
+  <published>2015-08-05T00:00:00+00:00</published>
+  
   <author>
     <name>Sweta Shrestha</name>
     <uri>http://localhost:4000</uri>
@@ -30,7 +31,7 @@
     &lt;h3 id=&quot;welcome-to-young-innovations-first-blog&quot;&gt;Welcome to Young Innovations first blog.&lt;/h3&gt;
 &lt;p&gt;We would love to see more blogs in our page. :)&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/first-blog/&quot;&gt;First Blog Post&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on July 05, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/first-blog/&quot;&gt;First Blog Post&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 05, 2015.&lt;/p&gt;
   </content>
 </entry>
 

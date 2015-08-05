@@ -42,6 +42,7 @@
     </div><!--/ .headline-wrap -->
     <div class="article-wrap">
       {{ content }}
+      <div class="tags"><span>Tags:</span> {{ page.tags | join: ' , ' }}</div>
       <hr />
       <footer role="contentinfo">
         {% if page.share != false %}{% include _social-share.html %}{% endif %}
