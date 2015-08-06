@@ -27,12 +27,14 @@ collections:
     output: true
     permalink: /:collection/:title/
 
+excerpt_separator: <!--more-->
+
 # Site owner
 owner:
   name: YoungInnovations Blog
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  bio: "YoungInnovations Private Limited"
+  email: info@yipl.com.np
   disqus-shortname:
   twitter: #username
   facebook: #username
