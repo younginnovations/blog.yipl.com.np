@@ -1,25 +1,27 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
-image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+title: About the YoungInnovations Blog
+tags: [about, yipl]
+modified: 2015-08-07T10:53:07.573882-04:00
+comments: false
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+## YoungInnovations
 
-## Minimal Mistakes is all about:
+YoungInnovations Pvt. Ltd has been involved in providing graphics, web, software and
+mobile development services to wide range of partners and clients from different part
+of the world. Our strength lies in developing a partnership approach to better
+understand our client's requirements, developing solutions and help them
+institutionalize solutions within their work processes. Established in 2007, the
+company has realized a continuous growth strategy with more than 50 local and
+international satisfied clients under its belt.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+YoungInnovations was co-founded by a team of young entrepreneurs determined to
+lead initiatives for corporate and social changes through strategic use of ICTs
+in mid 2007. Since then, the company has come a long way forward. We have been able
+to create an impact with our solutions around the globe.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+## YoungInnovations Blog
+
+This blog is a platform for all YoungInnovations members to showcase their
+skills, learning and experience at YoungInnovations.
