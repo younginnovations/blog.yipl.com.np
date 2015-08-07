@@ -446,6 +446,15 @@ $button-size: 1.5rem;
 	li > a {
 		text-decoration: underline;
 	}
+	> ul {
+		padding-left: 20px
+	}
+	p {
+		margin: 0 0 14px;
+		+p {
+			text-indent: inherit;
+		}
+	}
 }
 
 /* Table of contents */

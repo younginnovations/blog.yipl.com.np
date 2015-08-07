@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2015-08-05T10:23:29+00:00</updated>
+<updated>2015-08-07T05:35:55+00:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>YoungInnovations Blog</name>
@@ -16,11 +16,11 @@
   
 
 <entry>
-  <title type="html"><![CDATA[First Blog Post]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/first-blog/" />
-  <id>http://localhost:4000/first-blog</id>
-  <updated>2015-05-16T00:00:00-00:00</updated>
-  <published>2015-08-05T00:00:00+00:00</published>
+  <title type="html"><![CDATA[First YIPL Weekly]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/first-weekly/" />
+  <id>http://localhost:4000/first-weekly</id>
+  <updated>2015-08-07T00:00:00-00:00</updated>
+  <published>2015-08-07T00:00:00+00:00</published>
   
   <author>
     <name>Sweta Shrestha</name>
@@ -28,10 +28,149 @@
     <email>sweetanzell@gmail.com</email>
   </author>
   <content type="html">
-    &lt;h3 id=&quot;welcome-to-young-innovations-first-blog&quot;&gt;Welcome to Young Innovations first blog.&lt;/h3&gt;
-&lt;p&gt;We would love to see more blogs in our page. :)&lt;/p&gt;
+    &lt;p&gt;We recently had our annual retreat, everyone at YIPL came to a relaxed mood from their daily work and had loads of fun.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/first-blog/&quot;&gt;First Blog Post&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 05, 2015.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/yipl-retreat.jpg&quot; alt=&quot;retreat photo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is our first weekly at YIPL, enjoy the techy links with a hot tea in this rain over the weekend.&lt;/p&gt;
+
+&lt;h4 id=&quot;links&quot;&gt;Links:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.reddit.com/r/androiddev&quot;&gt;/r for everything android (dev)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://developer.salesforce.com/blogs/engineering/2015/07/365-days-cultural-kaizen.html&quot;&gt;365 days of cultural kaisen&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://developers.500px.com/2015/06/17/chatops.html&quot;&gt;500px engineering blog&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://abdulapopoola.com/2015/01/06/7-cool-tricks-with-chrome-devtools/&quot;&gt;7 cool tricks with chrome devtools&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/just-javascript/7-things-you-didn-t-know-about-javascript-f76900b209d5&quot;&gt;7 things you didn’t know about javascript — just javascript — medium&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/geshan/docker-php-composer-alpine&quot;&gt;a docker image with php and composer build on alpine linux - size 39mb&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/dbcli/mycli&quot;&gt;a terminal client for mysql with autocompletion and syntax highlighting&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://iamvdo.me/en/blog/advanced-css-filters?utm_source=codrops&quot;&gt;advanced css filters - vincent de oliveira&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=njcHzGYv7nI&quot;&gt;an introduction to bdd from konstantin kudryashov&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://openconcept.ca/blog/mparker/overview-software-testing&quot;&gt;an overview of software testing&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/futurice/android-best-practices&quot;&gt;android best practices&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://getawesomeness.com/get/php&quot;&gt;awesome php - a curated list of amazingly awesome php libraries, resources and shiny things&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://laraveldaily.com/blade-foreach-firstlast-item-of-the-array/&quot;&gt;blade foreach: first/last item of the array - laravel daily&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2015/07/constructing-css-quantity-queries-on-the-fly/&quot;&gt;constructing css quantity queries on the fly — smashing magazine&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://speakerdeck.com/derekprior/cultivating-a-code-review-culture&quot;&gt;cultivating a code review culture // speaker deck&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.sitepoint.com/defensive-programming-in-php/&quot;&gt;defensive programming in php&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2015/07/designing-simple-pie-charts-with-css/&quot;&gt;designing simple pie chart with css&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://codebetter.com/kylebaley/2015/08/04/docker-is-coming-whether-you-like-it-or-not/&quot;&gt;docker is coming whether you like it or not&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://michael.robellard.com/2015/07/dont-test-with-sqllite-when-you-use.html&quot;&gt;don’t test with sqllite when you use postgres in production&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://laraveldaily.com/eloquent-date-filtering-wheredate-and-other-methods/&quot;&gt;eloquent date filtering: wheredate() and other methods - laravel daily&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.nature.com/news/enigmatic-foundations-of-maths-put-to-music-1.15502&quot;&gt;enigmatic foundations of maths put to music : nature news &lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.laravelpodcast.com/episodes/15117-episode-32-adam-wathan-is-strong&quot;&gt;episode 32: adam wathan is strong&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/FriendsOfPHP/Goutte&quot;&gt;friendsofphp/goutte&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://fullstackradio.com/&quot;&gt;full stack radio&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://geshan.com.np/blog/2015/07/getting-started-with-unit-testing-in-laravel/&quot;&gt;getting started with unit testing in laravel&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://thehackernews.com/2015/05/hola-widely-popular-free-vpn-service.html&quot;&gt;hola — a widely popular free vpn service used as a giant botnet&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.webwash.net/tutorials/how-display-icons-drupal-using-icon-api&quot;&gt;how to display icons in drupal using icon api&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.extendoffice.com/documents/excel/1177-excel-extract-hyperlink-from-cell.html&quot;&gt;how to extract actual addresses from hyperlinks in excel?&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ericlbarnes.com/set-mac-local-php-development/&quot;&gt;how to set up your mac for local php development - eric l. barnes&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.sitepoint.com/introduction-to-elasticsearch-in-php/&quot;&gt;introduction to elasticsearch in php&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://laravel-news.com/2015/07/laravel-elixir-version-3-is-released/?utm_medium=email&quot;&gt;laravel elixir version 3 is released - laravel news&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.maatwebsite.nl/laravel-excel/docs&quot;&gt;laravel excel documentation - maatwebsite&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://mattstauffer.co/blog/login-throttling-in-laravel-5.1&quot;&gt;login throttling in laravel 5.1 - matt stauffer on laravel, php, frontend development&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tech-blog.flipkart.net/2015/08/mobile-number-login/&quot;&gt;mobile number login&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/@kevincennis/on-unit-testing-1cc6798f81ee&quot;&gt;on unit testing — medium&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.jamiembrown.com/blog/one-in-every-600-websites-has-git-exposed/&quot;&gt;one in every 600 websites has .git exposed&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://javaposse.com/category/podcasts&quot;&gt;podcasts for all things java&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/ReactiveX/RxJava/wiki&quot;&gt;rxjava&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.teamtreehouse.com/tips-for-writing-better-code&quot;&gt;tips for writing better code - treehouse blog&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://glebbahmutov.com/blog/unit-test-node-code-in-10-seconds/index.html&quot;&gt;unit test node code in 10 seconds&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/medium-eng/way-we-work-ef431646ab17&quot;&gt;way we work — medium engineering — medium&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.2ality.com/2015/06/web-assembly.html&quot;&gt;webassembly: a binary format for the web&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tools.pingdom.com/fpt/&quot;&gt;website speed test&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.codinghorror.com/why-im-the-best-programmer-in-the-world/&quot;&gt;why i’m the best programmer in the world*&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/first-weekly/&quot;&gt;First YIPL Weekly&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 07, 2015.&lt;/p&gt;
   </content>
 </entry>
 
