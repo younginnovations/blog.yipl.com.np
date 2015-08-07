@@ -31,10 +31,10 @@ collections:
 owner:
   name: YoungInnovations Blog
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  bio: "We develop innovative solutions! But we take pride in making solutions work and create impact!!"
+  email: info@yipl.com.np
   disqus-shortname:
-  twitter: #username
+  twitter: yipl
   facebook: #username
   google:
     plus: #username
@@ -43,7 +43,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: yougninnovations
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
