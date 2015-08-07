@@ -16,6 +16,7 @@ We aim to continue this so that YIPLies can share things they read over the week
 which can benefit a larger tech community.  
 
 <!--more-->
+
 Enjoy! the techy links with a hot tea in this rain over the weekend. Happy Weekend!!
 
 ####Links:
