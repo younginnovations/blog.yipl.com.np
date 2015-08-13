@@ -35,7 +35,7 @@ owner:
   avatar: bio-photo.jpg
   bio: "We develop innovative solutions! But we take pride in making solutions work and create impact!!"
   email: info@yipl.com.np
-  disqus-shortname: yipl-blog
+  disqus-shortname:
   twitter: yipl
   facebook: #username
   google:
