@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">YoungInnovations Blog</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://blog.yipl.com.np/feed.xml" />
-<link rel="alternate" type="text/html" href="http://blog.yipl.com.np" />
-<updated>2015-08-07T11:31:53+04:00</updated>
-<id>http://blog.yipl.com.np/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2015-08-13T11:13:00+00:00</updated>
+<id>http://localhost:4000/</id>
 <author>
   <name>YoungInnovations Blog</name>
-  <uri>http://blog.yipl.com.np/</uri>
+  <uri>http://localhost:4000/</uri>
   <email>info@yipl.com.np</email>
 </author>
 
@@ -17,14 +17,14 @@
 
 <entry>
   <title type="html"><![CDATA[Young Innovations weekly #1]]></title>
-  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-01/" />
-  <id>http://blog.yipl.com.np/younginnovations-weekly-01</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/younginnovations-weekly-01/" />
+  <id>http://localhost:4000/younginnovations-weekly-01</id>
   <updated>2015-08-07T00:00:00-00:00</updated>
-  <published>2015-08-07T00:00:00+04:00</published>
+  <published>2015-08-07T00:00:00+00:00</published>
   
   <author>
     <name>Sweta Shrestha</name>
-    <uri>http://blog.yipl.com.np</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -35,7 +35,7 @@ their daily work and had loads of fun. Sneak peak below:&lt;/p&gt;
 
 &lt;p&gt;This is our first weekly at YIPL which has links to blogs, posts, articles and podcasts.
 We aim to continue this so that YIPLies can share things they read over the week and found useful
-which can benefit a larger tech community.&lt;/p&gt;
+which can benefit a larger tech community.  &lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -177,7 +177,7 @@ which can benefit a larger tech community.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/younginnovations-weekly-01/&quot;&gt;Young Innovations weekly #1&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 07, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/younginnovations-weekly-01/&quot;&gt;Young Innovations weekly #1&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 07, 2015.&lt;/p&gt;
   </content>
 </entry>
 
