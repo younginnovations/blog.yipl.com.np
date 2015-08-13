@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">YoungInnovations Blog</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://blog.yipl.com.np/feed.xml" />
-<link rel="alternate" type="text/html" href="http://blog.yipl.com.np" />
-<updated>2015-08-07T11:31:53+04:00</updated>
-<id>http://blog.yipl.com.np/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2015-08-13T11:17:32+00:00</updated>
+<id>http://localhost:4000/</id>
 <author>
   <name>YoungInnovations Blog</name>
-  <uri>http://blog.yipl.com.np/</uri>
+  <uri>http://localhost:4000/</uri>
   <email>info@yipl.com.np</email>
 </author>
 
@@ -16,15 +16,49 @@
   
 
 <entry>
+  <title type="html"><![CDATA[A short documentary on YoungInnovations #tbt]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/%20tbt/" />
+  <id>http://localhost:4000/ tbt</id>
+  <updated>2015-08-13T00:00:00-00:00</updated>
+  <published>2015-08-13T00:00:00+00:00</published>
+  
+  <author>
+    <name>Prawesh Shrestha</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;Here’s a short documentary on YoungInnovations prepared by students of KCM as one of their academic projects. It has been more than 2 and half years and lot of things have changed here. &lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vvLCaE-QhjM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The visible changes are the faces seen in the video. Some have gone for their higher education abroad, some have joined other companies and some have started their own companies. Although they are, now, not here but we proudly express that their contributions are valuable and have shaped our company that it is today. We always cherish the time they spent here - their hardship, ideas, success, failure, knowledge and happy and sad moments. &lt;/p&gt;
+
+&lt;p&gt;The other change is that we have shifted to new building at Kumaripati with many young and enthusiastic people - some starting their career and some sharing their past experiences to take YoungInnovations to new beginning. &lt;/p&gt;
+
+&lt;p&gt;Of course, the working style have also changed adapting to the needs of the new projects and increase in the number of YIPLites resulting different teams. However, the team spirit is same as before. Each team member has equal opportunities and challenges in completing projects. As our CEO, Bibhusan, expresses, “We work hard and we party harder”, all the YIPLites are actively involved in fun activities too.&lt;/p&gt;
+
+&lt;p&gt;Changes are inevitable. YoungInnovations has changed and will change in future and each of us is working together for the best of each and YoungInnovations.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/%20tbt/&quot;&gt;A short documentary on YoungInnovations #tbt&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 13, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[Young Innovations weekly #1]]></title>
-  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-01/" />
-  <id>http://blog.yipl.com.np/younginnovations-weekly-01</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/younginnovations-weekly-01/" />
+  <id>http://localhost:4000/younginnovations-weekly-01</id>
   <updated>2015-08-07T00:00:00-00:00</updated>
-  <published>2015-08-07T00:00:00+04:00</published>
+  <published>2015-08-07T00:00:00+00:00</published>
   
   <author>
     <name>Sweta Shrestha</name>
-    <uri>http://blog.yipl.com.np</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -35,7 +69,7 @@ their daily work and had loads of fun. Sneak peak below:&lt;/p&gt;
 
 &lt;p&gt;This is our first weekly at YIPL which has links to blogs, posts, articles and podcasts.
 We aim to continue this so that YIPLies can share things they read over the week and found useful
-which can benefit a larger tech community.&lt;/p&gt;
+which can benefit a larger tech community.  &lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -177,7 +211,7 @@ which can benefit a larger tech community.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/younginnovations-weekly-01/&quot;&gt;Young Innovations weekly #1&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 07, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/younginnovations-weekly-01/&quot;&gt;Young Innovations weekly #1&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 07, 2015.&lt;/p&gt;
   </content>
 </entry>
 
