@@ -21,7 +21,7 @@ Enjoy! the articles which might bring smile in your face as you continue solving
 
 * [16 css3 and jquery loading animations solutions - designmodo](http://designmodo.com/css3-jquery-loading-animations/)
 
-* [advomatic | decoupling drupal without losing your head — part 2](https://www.advomatic.com/blog/decoupling-drupal-without-losing-your-head-part-2)
+* [advomatic - decoupling drupal without losing your head — part 2](https://www.advomatic.com/blog/decoupling-drupal-without-losing-your-head-part-2)
 
 * [ama: jason fried, ceo and co-founder of basecamp (formerly 37signals) – designer news](https://www.designernews.co/stories/54064-ama-jason-fried-ceo-and-cofounder-of-basecamp-formerly-37signals)
 
@@ -41,9 +41,9 @@ Enjoy! the articles which might bring smile in your face as you continue solving
 
 * [connect the apps you love - ifttt](https://ifttt.com/)
 
-* [creating the simplest headless drupal 7 site | red crackle](http://redcrackle.com//blog/headless/drupal-7-simplest-site)
+* [creating the simplest headless drupal 7 site - red crackle](http://redcrackle.com//blog/headless/drupal-7-simplest-site)
 
-* [drupal should use an external front end framework | drupal watchdog](https://drupalwatchdog.com/blog/2015/8/drupal-should-use-external-front-end-framework)
+* [drupal should use an external front end framework - drupal watchdog](https://drupalwatchdog.com/blog/2015/8/drupal-should-use-external-front-end-framework)
 
 * [episode 44: api madness! - php town hall](http://phptownhall.com/blog/2015/07/22/episode-44-api-madness/)
 
@@ -53,19 +53,19 @@ Enjoy! the articles which might bring smile in your face as you continue solving
 
 * [full stack radio - 23: chris hunt - how github does remote work](http://fullstackradio.com/episodes/23/)
 
-* [goodbye ruby, hello node.js: speeding up sass | zivtech](https://www.zivtech.com/blog/goodbye-ruby-hello-nodejs-speeding-sass)
+* [goodbye ruby, hello node.js: speeding up sass - zivtech](https://www.zivtech.com/blog/goodbye-ruby-hello-nodejs-speeding-sass)
 
-* [hands-on with github’s new text editor atom | scotch](https://scotch.io/bar-talk/hands-on-with-githubs-new-text-editor-atom)
+* [hands-on with github’s new text editor atom - scotch](https://scotch.io/bar-talk/hands-on-with-githubs-new-text-editor-atom)
 
 * [how apple has shaped the user interface](https://www.punchkick.com/blog/2015/08/07/how-apple-has-shaped-the-user-interface)
 
-* [how to use views rss to create a mailchimp rss email campaign | levelten dallas, tx](http://getlevelten.com/blog/kristin-brinner/how-use-views-rss-create-mailchimp-rss-email-campaign)
+* [how to use views rss to create a mailchimp rss email campaign - levelten dallas, tx](http://getlevelten.com/blog/kristin-brinner/how-use-views-rss-create-mailchimp-rss-email-campaign)
 
 * [if dog is a man’s best friend, log is a developer’s best friend](http://geshan.com.np/blog/2015/08/importance-of-logging-in-your-applications/)
 
 * [ionic framework demo - matt stauffer - youtube](https://www.youtube.com/watch?v=nh9EARpk-dc)
 
-* [javascript debugging tips and tricks | zsolt nagy](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
+* [javascript debugging tips and tricks - zsolt nagy](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
 
 * [kali linux 2.0 released — download most powerful penetration testing platform](http://thehackernews.com/2015/08/kali-linux-2.0-download.html)
 
@@ -75,11 +75,11 @@ Enjoy! the articles which might bring smile in your face as you continue solving
 
 * [lucadegasperi/oauth2-server-laravel](https://github.com/lucadegasperi/oauth2-server-laravel)
 
-* [magneto | test automation for android](http://getmagneto.com/)
+* [magneto - test automation for android](http://getmagneto.com/)
 
 * [make progress learning with these 7 tips](https://www.codeschool.com/blog/2015/07/01/7-ways-to-learn-code-more-effectively/)
 
-* [mobile-payment retail troublemaker finally learns to embrace apple pay, google wallet | pocketnow](http://pocketnow.com/2015/08/11/mobile-payment-retailer-support)
+* [mobile-payment retail troublemaker finally learns to embrace apple pay, google wallet - pocketnow](http://pocketnow.com/2015/08/11/mobile-payment-retailer-support)
 
 * [mycli - a terminal client for mysql with autocompletion and syntax highlighting](https://github.com/dbcli/mycli)
 
@@ -91,36 +91,36 @@ Enjoy! the articles which might bring smile in your face as you continue solving
 
 * [postgres cli with autocompletion and syntax highlighting](https://github.com/dbcli/pgcli)
 
-* [promises: the sync problem (part 1) | getiblog](http://blog.getify.com/promises-part-1/)
+* [promises: the sync problem (part 1) - getiblog](http://blog.getify.com/promises-part-1/)
 
 * [react.js introduction for people who know just enough jquery to get by · react for designers](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 
-* [relay technical preview | react](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
+* [relay technical preview - react](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
 
-* [rest easy part 2: sub property boogaloo | fourword: the four kitchens blog](http://fourword.fourkitchens.com/article/rest-easy-part-2-sub-property-boogaloo)
+* [rest easy part 2: sub property boogaloo - fourword: the four kitchens blog](http://fourword.fourkitchens.com/article/rest-easy-part-2-sub-property-boogaloo)
 
-* [software development speed vs. quality: a tech shop conundrum | coder lifestyle](http://coderlifestyle.com/software-development-speed-vs-quality-a-tech-shop-conundrum/)
+* [software development speed vs. quality: a tech shop conundrum - coder lifestyle](http://coderlifestyle.com/software-development-speed-vs-quality-a-tech-shop-conundrum/)
 
-* [stylus with gulp: a fantastically fast front-end workflow. | wunderkraut](http://www.wunderkraut.com/blog/stylus-with-gulp-a-fantastically-fast-front-end-workflow/2015-08-11)
+* [stylus with gulp: a fantastically fast front-end workflow. - wunderkraut](http://www.wunderkraut.com/blog/stylus-with-gulp-a-fantastically-fast-front-end-workflow/2015-08-11)
 
-* [testing a new drupal 8 installation with 2 docker commands | insready](http://insready.com/en/blog/testing-new-drupal-8-installation-2-docker-commands)
+* [testing a new drupal 8 installation with 2 docker commands - insready](http://insready.com/en/blog/testing-new-drupal-8-installation-2-docker-commands)
 
 * [testing myths debunked](http://inviqa.com/blog/testing-myths-debunked/)
 
-* [the single responsibility principle | 8th light](http://blog.8thlight.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html)
+* [the single responsibility principle - 8th light](http://blog.8thlight.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html)
 
 * [top 10 mistakes that make your website look unprofessional - designmodo](http://designmodo.com/10-mistakes-website/)
 
 * [unit testing with karma and jasmine for angularjs](https://blog.logentries.com/2015/01/unit-testing-with-karma-and-jasmine-for-angularjs/?utm_content=18210942)
 
-* [what to log in production environments | nextdoor engineering](https://engblog.nextdoor.com/2015/08/05/dynamic-logging/)
+* [what to log in production environments - nextdoor engineering](https://engblog.nextdoor.com/2015/08/05/dynamic-logging/)
 
-* [when to use target="_blank" | css-tricks](https://css-tricks.com/use-target_blank/)
+* [when to use target="_blank" - css-tricks](https://css-tricks.com/use-target_blank/)
 
 * [why i choose postgresql over mysql/mariadb - dice insights](http://insights.dice.com/2015/03/19/why-i-choose-postgresql-over-mysqlmariadb/)
 
-* [write unit tests for your drupal 7 code (part 1) | lullabot](https://www.lullabot.com/articles/write-unit-tests-for-your-drupal-7-code-part-1)
+* [write unit tests for your drupal 7 code (part 1) - lullabot](https://www.lullabot.com/articles/write-unit-tests-for-your-drupal-7-code-part-1)
 
-* [write unit tests for your drupal 7 code (part 2) | lullabot](https://www.lullabot.com/articles/write-unit-tests-for-your-drupal-7-code-part-2)
+* [write unit tests for your drupal 7 code (part 2) - lullabot](https://www.lullabot.com/articles/write-unit-tests-for-your-drupal-7-code-part-2)
 
 * [writing highly readable code — medium](https://medium.com/@dylanbr/writing-highly-readable-code-94da94d5d636)
