@@ -32,12 +32,12 @@ collections:
 # Site owner
 owner:
   name: YoungInnovations Blog
-  avatar: bio-photo.jpg
+  avatar: yipl-logo.png
   bio: "We develop innovative solutions! But we take pride in making solutions work and create impact!!"
   email: info@yipl.com.np
   disqus-shortname:
   twitter: yipl
-  facebook: #username
+  facebook: pages/YoungInnovations/95147447293
   google:
     plus: #username
     analytics: UA-66282424-1
