@@ -5,8 +5,7 @@ author: prawesh_shrestha
 modified: 2015-08-14
 tags: [ android, app, automated deployment, backdrop-filter, background blur, bdd, behat, business, cli, codeschool, design, fonts, github, google wallet, guidelines, gulp, html, laravel, lumen, material design guidelines, mobile, mobile startup, penetration-testing, php, phpspec, postgres, promising apps, single responsibility, startup, target, typography, ui, uncle bob, web typography, ama, animation, api, apple, apple pay, array, atom, automation, basecamp, capistrano, code, coding, css, database, design, designpattern, development, devops, digital-forensics, docker, drupal, editor, googlefonts, ide, integration testing, ionic, javascript, jquery, kali-linux, laravel, learning, logging, mailchimp, mariadb, materialdesign, mobile, mobileapps, mysql, nfc, oauth, objects, performance, php, phpspec, podcast, postgres, product-mgmt, project management, promises, reactjs, relay, remote work, simplecode, stylus, testing, ui, unit tests, usability, ux, webkit]
 ---
-
-This week Nirajan presented on what Gulp during our Knowledge Sharing Wednesday. Gulp is about automating tasks such as minification and copying of JavaScript files, static images etc. To know more about the Gulp, read Nirajan's blog [here](https://medium.com/@nirazanbasnet/gulp-workflow-fee6e4bf8866?source=latest).   
+This week Nirajan presented on what Gulp during our Knowledge Sharing Wednesday. Gulp is about automating tasks such as minification and copying of JavaScript files, static images etc. To know more about the Gulp, read Nirajan's blog [here](https://medium.com/@nirazanbasnet/gulp-workflow-fee6e4bf8866?source=latest).
 
 ![Presentation on Gulp by Nirajan](/images/weekly02/Nirajan_Gulp_KSW.jpg)
 
