@@ -18,6 +18,8 @@ This week's Knowledge Sharing Wednesday featured Achyut Devkota, System Engineer
 
 ![Presentation on VoiceInn by Achyut](/images/weekly03/Achyut_VoiceInn_KSW.jpg)
 
+<!--more-->
+
 This is our third weekly at YIPL which has links to blogs, posts, articles that YIPLites read to learn about technology, tips and tricks, other's experiences (major highlight for Android users, Android 6.0 had it's formal annoucement this week). Now these links are here for everyone.  
 
 * [11 startups you should know from y combinator's summer 2015 demo day - venturebeat - business - by ken yeung](http://venturebeat.com/2015/08/19/11-startups-you-should-know-from-y-combinators-summer-2015-demo-day/)
