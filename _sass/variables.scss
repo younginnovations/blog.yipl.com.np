@@ -6,12 +6,12 @@
    Typography
    ========================================================================== */
 
-$doc-font-size: 16;
-$doc-line-height: 26;
+$doc-font-size: 14;
+$doc-line-height: 20;
 $paragraph-indent: true !default;
-$base-font: 'PT Serif', serif;
-$heading-font: 'PT Sans Narrow', sans-serif;
-$code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
+$base-font: 'Open Sans', sans-serif;
+$heading-font: 'Open Sans', sans-serif;
+$code-font: 'Open Sans', sans-serif;
 $alt-font: $base-font;
 
 /*
