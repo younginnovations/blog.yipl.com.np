@@ -10,15 +10,13 @@ We recently made our smoke testing library [Hookah](https://github.com/younginno
 
 Hookah is a small [smoke testing](http://bit.ly/1huFGnR) command line library for any web application. As it is just a sanity check, it checks if the given URL returns back the right response code, and body is not empty.
 
-We also received chocolates from Geshan Manadhar all the way from Dubai :) Thank you Geshan.
-
-![Double dating ;)](/images/weekly03/Chocolates.jpg)
-
 This week's Knowledge Sharing Wednesday featured Achyut Devkota, System Engineer, who presented on VoiceInn, a Telephony Application and it's architecture. VoiceInn is an interactive telephony solution with capabilities to take surveys from callers, have noticeboards built in and user support. To know more about VoiceInn you can view Achyut's [presentation](https://speakerdeck.com/achyutdev/telephony-application-voiceinn-and-its-architecture).   
 
 ![Presentation on VoiceInn by Achyut](/images/weekly03/Achyut_VoiceInn_KSW.jpg)
 
 <!--more-->
+
+
 
 This is our third weekly at YIPL which has links to blogs, posts, articles that YIPLites read to learn about technology, tips and tricks, other's experiences (major highlight for Android users, Android 6.0 had it's formal annoucement this week). Now these links are here for everyone.  
 
