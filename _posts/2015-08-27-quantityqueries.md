@@ -10,6 +10,8 @@ Often in a project,the presentation change of our content/layout is a result of 
 
 ![Quantity Queries](/images/quantity-queries/qq.jpg)
 
+<!--more-->
+
 ### What is Quantity Queries?
 
 Quantity Queries are complex CSS selectors that allow styles to be applied to elements based on the number of siblings.
