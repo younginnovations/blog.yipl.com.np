@@ -1,0 +1,428 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Young Innovations weekly #3 &#8211; YoungInnovations Blog</title>
+<meta name="description" content="We recently made our smoke testing library Hookah open source, you can get it as a composer package from packagist.
+
+Hookah is a small smoke testing command line library for any web application. As it is just a sanity check, it checks if the given URL returns back the right response code, and body is not empty.
+
+This week’s Knowledge Sharing Wednesday featured Achyut Devkota, System Engineer, who presented on VoiceInn, a Telephony Application and it’s architecture. VoiceInn is an interactive telephony solution with capabilities to take surveys from callers, have noticeboards built in and user support. To know more about VoiceInn you can view Achyut’s presentation.
+
+
+
+">
+<meta name="keywords" content="android-studio, app, character, collaboration, composer, drupal7, google developer, laravel, mysql, photo edit, photo editor, picture edit, podcast, ruby, symbol, tech, testing, traits, android, android-libraries, angular, animation, api, bootstrap, chromeextension, code reuse, css, data, database, datavisualization, design share, devops, docker, drupal, drupal8, flexbox, go, google, google-play-services, gulp, inheritance, ionic, ios, javascript, jekyll, js, laraconrecap, mobile, mobile-tech, nodejs, php, podcast, productmgmt, programming, robot, sass, security, server, solar, startups, string concatenation, svg, symbolguide, testing, testwebspeed, tools, translation, wake, workstation-ergonomics">
+
+  
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="Young Innovations weekly #3">
+<meta name="twitter:description" content="We recently made our smoke testing library Hookah open source, you can get it as a composer package from packagist.
+
+Hookah is a small smoke testing command line library for any web application. As it is just a sanity check, it checks if the given URL returns back the right response code, and body is not empty.
+
+This week’s Knowledge Sharing Wednesday featured Achyut Devkota, System Engineer, who presented on VoiceInn, a Telephony Application and it’s architecture. VoiceInn is an interactive telephony solution with capabilities to take surveys from callers, have noticeboards built in and user support. To know more about VoiceInn you can view Achyut’s presentation.
+
+
+
+">
+<meta name="twitter:site" content="@yipl">
+<meta name="twitter:creator" content="@RakeebJH11">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://blog.yipl.com.np/images/default-thumb.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Young Innovations weekly #3">
+<meta property="og:description" content="We recently made our smoke testing library Hookah open source, you can get it as a composer package from packagist.
+
+Hookah is a small smoke testing command line library for any web application. As it is just a sanity check, it checks if the given URL returns back the right response code, and body is not empty.
+
+This week’s Knowledge Sharing Wednesday featured Achyut Devkota, System Engineer, who presented on VoiceInn, a Telephony Application and it’s architecture. VoiceInn is an interactive telephony solution with capabilities to take surveys from callers, have noticeboards built in and user support. To know more about VoiceInn you can view Achyut’s presentation.
+
+
+
+">
+<meta property="og:url" content="http://blog.yipl.com.np/younginnovations-weekly-03/">
+<meta property="og:site_name" content="YoungInnovations Blog">
+
+<meta property="og:image" content="http://blog.yipl.com.np/images/default-thumb.png">
+
+
+<!-- Webmaster Tools verfication -->
+<meta name="google-site-verification" content="ohAwulapf87s0SWlslqhJUAb2phTTGjazQ0AvLD3xv0">
+
+
+
+<link rel="canonical" href="http://blog.yipl.com.np/younginnovations-weekly-03/">
+<link href="http://blog.yipl.com.np/feed.xml" type="application/atom+xml" rel="alternate" title="YoungInnovations Blog Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://blog.yipl.com.np/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="http://blog.yipl.com.np/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://blog.yipl.com.np/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://blog.yipl.com.np/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700%7CPT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://blog.yipl.com.np/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://blog.yipl.com.np/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://blog.yipl.com.np/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://blog.yipl.com.np/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://blog.yipl.com.np/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://blog.yipl.com.np/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body class="post">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="http://blog.yipl.com.np/">YoungInnovations Blog</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+				    
+				        
+				    
+				    <li><a href="http://blog.yipl.com.np/about/" >About</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://blog.yipl.com.np/posts/" >Posts</a></li>
+				
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    
+  
+
+<div itemscope itemtype="http://schema.org/Person">
+
+
+	<img src="http://blog.yipl.com.np/images/bio-photo.jpg" class="bio-photo" alt="Rakeeb Rajbhandari bio photo">
+
+
+  <h3 itemprop="name">Rakeeb Rajbhandari</h3>
+  <p>Software Engineer</p>
+  
+  <a href="http://twitter.com/RakeebJH11" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>
+  
+  <a href="http://plus.google.com/+RakeebRajbhandari" class="author-social" target="_blank"><i class="fa fa-fw fa-google-plus-square"></i> Google+</a>
+  
+  
+  
+  
+  <a href="http://github.com/rakeeb11" class="author-social" target="_blank"><i class="fa fa-fw fa-github"></i> Github</a>
+  <a href="http://stackoverflow.com/users/2247689/rakeeb-rajbhandari" class="author-social" target="_blank"><i class="fa fa-fw fa-stack-overflow"></i> Stackoverflow</a>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+  </div>
+  <article class="post">
+    <div class="headline-wrap">
+      
+        <h1><a href="http://blog.yipl.com.np/younginnovations-weekly-03/" rel="bookmark" title="Young Innovations weekly #3">Young Innovations weekly #3</a></h1>
+      
+    </div><!--/ .headline-wrap -->
+    <div class="article-wrap">
+      <p>We recently made our smoke testing library <a href="http://bit.ly/1EBJyYL">Hookah</a> open source, you can get it as a composer package from <a href="http://bit.ly/1LiDppx">packagist</a>.</p>
+
+<p>Hookah is a small <a href="http://bit.ly/1huFGnR">smoke testing</a> command line library for any web application. As it is just a sanity check, it checks if the given URL returns back the right response code, and body is not empty.</p>
+
+<p>This week’s Knowledge Sharing Wednesday featured Achyut Devkota, System Engineer, who presented on VoiceInn, a Telephony Application and it’s architecture. VoiceInn is an interactive telephony solution with capabilities to take surveys from callers, have noticeboards built in and user support. To know more about VoiceInn you can view Achyut’s <a href="https://speakerdeck.com/achyutdev/telephony-application-voiceinn-and-its-architecture">presentation</a>.</p>
+
+<p><img src="/images/weekly03/Achyut_VoiceInn_KSW.jpg" alt="Presentation on VoiceInn by Achyut" /></p>
+
+<!--more-->
+
+<p>We also received dates from Geshan Manadhar all the way from Dubai :) Thank you <a href="http://geshan.com.np">Geshan</a>.</p>
+
+<p><img src="/images/weekly03/Chocolates.jpg" alt="Double dating ;)" /></p>
+
+<p>This is our third weekly at YIPL which has links to blogs, posts, articles that YIPLites read to learn about technology, tips and tricks, other’s experiences (major highlight for Android users, Android 6.0 had it’s formal annoucement this week). Now these links are here for everyone.  </p>
+
+<ul>
+  <li>
+    <p><a href="http://venturebeat.com/2015/08/19/11-startups-you-should-know-from-y-combinators-summer-2015-demo-day/">11 startups you should know from y combinator’s summer 2015 demo day - venturebeat - business - by ken yeung</a></p>
+  </li>
+  <li>
+    <p><a href="http://wheredatapp.com/blog/2015/8/17/sdks-and-apis-every-android-developer-should-know">7 sdk’s and api’s every android developer should know — wheredat</a></p>
+  </li>
+  <li>
+    <p><a href="http://engineering.linkedin.com/security/open-source-tool-improve-android-application-security">an open source tool to improve android application security - linkedin engineering</a></p>
+  </li>
+  <li>
+    <p><a href="http://androidbackstage.blogspot.com/2015/08/episode-33-permission-mission.html">android developers backstage: episode 33: permission mission</a></p>
+  </li>
+  <li>
+    <p><a href="http://android-developers.blogspot.com/2015/08/m-developer-preview-3-final-sdk.html">android marshmallow (the android 6.0 sdk)</a></p>
+  </li>
+  <li>
+    <p><a href="http://tools.android.com/recent/androidstudio14preview1incanarychannel">android studio 1.4 preview 1 with a new theme editor(and more)</a></p>
+  </li>
+  <li>
+    <p><a href="https://github.com/ragunathjawahar/android-saripaar?utm_source=Android Weekly">android-saripaar: form validation library</a></p>
+  </li>
+  <li>
+    <p><a href="https://github.com/JorgeCastilloPrz/AndroidFillableLoaders?utm_source=Android Weekly">androidfillableloaders</a></p>
+  </li>
+  <li>
+    <p><a href="http://android-developers.blogspot.com/2015/08/barcode-detection-in-google-play.html">barcode detection api in google play services</a></p>
+  </li>
+  <li>
+    <p><a href="https://medium.com/@robin.verlangen/billions-of-request-per-day-meet-go-1-5-362bfefa0911">billions of request per day meet go 1.5 — medium</a></p>
+  </li>
+  <li>
+    <p><a href="http://www.binpress.com/blog/2015/02/17/podcast-28-solomon-hykes-docker/">binpress podcast episode 28: solomon hykes of docker – binpress</a></p>
+  </li>
+  <li>
+    <p><a href="http://www.invisionapp.com/new-features/39/boards-design-collaboration-reimagined">boards – design collaboration reimagined - invision</a></p>
+  </li>
+  <li>
+    <p><a href="http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/">bootstrap 4 alpha · bootstrap blog</a></p>
+  </li>
+  <li>
+    <p><a href="http://www.vmdoh.com/blog/building-drupal-8-website-composer">building a drupal 8 website with composer - vm(doh)</a></p>
+  </li>
+  <li>
+    <p><a href="http://blog.endpoint.com/2015/08/coding-style-guides-across-languages.html">coding style guides across languages - end point blog</a></p>
+  </li>
+  <li>
+    <p><a href="http://blog.codinghorror.com/computer-workstation-ergonomics/">computer workstation ergonomics</a></p>
+  </li>
+  <li>
+    <p><a href="https://blogs.adobe.com/dreamweaver/2015/08/create-a-text-filling-with-water-effect.html">create text filling with water effect : adobe dreamweaver team blog</a></p>
+  </li>
+  <li>
+    <p><a href="http://rominirani.com/2015/08/15/docker-toolbox-setup-windows/?mkt_tok=3RkMMJWWfF9wsRonuqTMZKXonjHpfsX57uUsUaa3lMI/0ER3fOvrPUfGjI4ATsVhI+SLDwEYGJlv6SgFQ7LMMaZq1rgMXBk=">docker toolbox setup – windows - iromin</a></p>
+  </li>
+  <li>
+    <p><a href="http://www.chenhuijing.com/blog/drupal-101-theming-with-gulp/">drupal 101: theming drupal 7 with gulp</a></p>
+  </li>
+  <li>
+    <p><a href="http://fragmentedpodcast.com/episodes/14/?utm_source=Android Weekly">effective java for android developers : item 1 - (fragmented podcast)</a></p>
+  </li>
+  <li>
+    <p><a href="http://phptownhall.com/blog/2015/07/22/episode-44-api-madness/">episode 44: api madness! - php town hall</a></p>
+  </li>
+  <li>
+    <p><a href="https://medium.com/ribot-labs/exploring-google-eddystone-with-the-proximity-beacon-api-bc9256c97e05?mc_cid=5e6ec8b400">exploring google eddystone with the proximity beacon api — ribot labs — medium</a></p>
+  </li>
+  <li>
+    <p><a href="http://android-developers.blogspot.com/2015/08/face-detection-in-google-play-services.html">face detection api in google play services</a></p>
+  </li>
+  <li>
+    <p><a href="http://frogermcs.github.io/flatbuffers-in-android-introdution/?utm_source=Android Weekly">flatbuffers in android - introduction</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.zivtech.com/blog/goodbye-ruby-hello-nodejs-speeding-sass">goodbye ruby, hello node.js: speeding up sass - zivtech</a></p>
+  </li>
+  <li>
+    <p><a href="http://sdtimes.com/guest-view-five-tips-for-devops-success-in-any-business/">guest view: five tips for devops success in any business - sd times</a></p>
+  </li>
+  <li>
+    <p><a href="http://coding-geek.com/how-databases-work/">how does a relational database work - coding geek</a></p>
+  </li>
+  <li>
+    <p><a href="http://www.phpclasses.org/blog/post/305-How-to-Make-Better-Reuse-of-PHP-Code-using-Traits-Part-1-Basic-Code-Reuse.html">how to make better reuse of php code using traits part 1: basic code reuse - php classes blog - php classes</a></p>
+  </li>
+  <li>
+    <p><a href="https://github.com/keyboardsurfer/idea-live-templates">idea-live-templates for android</a></p>
+  </li>
+  <li>
+    <p><a href="http://www.symbol.guide/">improving typography one symbol at a time</a></p>
+  </li>
+  <li>
+    <p><a href="http://redcrackle.com//blog/drupal-8/php-inheritance">inheritance - red crackle</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.youtube.com/watch?v=_BXf_h8tEes">introducing project sunroof - youtube</a></p>
+  </li>
+  <li>
+    <p><a href="http://slides.com/sebastiansassi/ionic">ionic by sebastián sassi</a></p>
+  </li>
+  <li>
+    <p><a href="https://github.com/keen/explorer">keen/explorer - data visualization</a></p>
+  </li>
+  <li>
+    <p><a href="http://laraveldaily.com/laracon-us-2015-recap-main-takeaways/">laracon us 2015 recap - main takeaways - laravel daily</a></p>
+  </li>
+  <li>
+    <p><a href="http://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/">laying out a flexible future for web design with flexbox – smashing magazine</a></p>
+  </li>
+  <li>
+    <p><a href="https://github.com/hotchemi/awesome-android-testing?utm_source=Android Weekly">list of android testing libraries</a></p>
+  </li>
+  <li>
+    <p><a href="https://murze.be/2015/08/making-string-concatenation-readable-in-php/">making string concatenation readable in php - murze.be</a></p>
+  </li>
+  <li>
+    <p><a href="https://github.com/dydx/alpine-nginx-php-mariadb">multi-container docker based setup for working with php apps, based off of alpine linux</a></p>
+  </li>
+  <li>
+    <p><a href="https://developers.google.com/nearby/?hl=en">nearby api -  google developers</a></p>
+  </li>
+  <li>
+    <p><a href="https://developers.google.com/speed/pagespeed/insights/">pagespeed insights</a></p>
+  </li>
+  <li>
+    <p><a href="https://chrome.google.com/webstore/detail/polarr-plugin-edit-any-ph/fhggacdeldojnpbgknpipalghlkbcimk">polarr plugin: edit any photo on the internet - chrome web store</a></p>
+  </li>
+  <li>
+    <p><a href="https://medium.com/@granze/polymer-unit-testing-d6a69910dc31">polymer unit testing — medium</a></p>
+  </li>
+  <li>
+    <p><a href="http://blog.codinghorror.com/programmers-dont-read-books-but-you-should/">programmers don’t read books – but you should</a></p>
+  </li>
+  <li>
+    <p><a href="https://medium.com/@tomastrajan/proper-testing-of-angular-js-applications-with-es6-modules-8cf31113873f">proper testing of angular js applications with es6 modules — medium</a></p>
+  </li>
+  <li>
+    <p><a href="http://osvaldas.info/real-time-search-in-javascript">real-time search in javascript — osvaldas valutis</a></p>
+  </li>
+  <li>
+    <p><a href="http://www.abc.net.au/news/2015-08-18/robotronica-natural-language-programming-next-step-home-robots/6686974?site=science/news">robotronica: natural language programming next step in bringing robots into the home, experts say - abc news (australian broadcasting corporation)</a></p>
+  </li>
+  <li>
+    <p><a href="https://serversforhackers.com/?utm_source=Servers for Hackers">servers for hackers</a></p>
+  </li>
+  <li>
+    <p><a href="http://my-inner-voice.blogspot.ae/2015/08/why-docker-is-winner-versus-vms.html?mkt_tok=3RkMMJWWfF9wsRonuqTMZKXonjHpfsX57uUsUaa3lMI/0ER3fOvrPUfGjI4ATsVhI+SLDwEYGJlv6SgFQ7LMMaZq1rgMXBk=">the memories of a product manager: why docker is a winner versus vms</a></p>
+  </li>
+  <li>
+    <p><a href="http://knackforge.com/blog/sasikumar/translation-drupal-7-how-it-works">translation in drupal 7 : how it works? - knackforge, featured drupal services provider, india</a></p>
+  </li>
+  <li>
+    <p><a href="http://www.smashingmagazine.com/2015/08/understanding-critical-css/">understanding critical css – smashing magazine</a></p>
+  </li>
+  <li>
+    <p><a href="https://wake.io/">wake: design sharing for teams</a></p>
+  </li>
+  <li>
+    <p><a href="http://blog.jaceklaskowski.pl/2015/08/17/why-docker-writing-docs-using-jekyll.html?mkt_tok=3RkMMJWWfF9wsRonuqTMZKXonjHpfsX57uUsUaa3lMI/0ER3fOvrPUfGjI4ATsVhI+SLDwEYGJlv6SgFQ7LMMaZq1rgMXBk=">why docker - writing docs using jekyll - mastering fp and oo with scala</a></p>
+  </li>
+  <li>
+    <p><a href="https://medium.com/innoarchitech-innovation-architecture-technology/why-software-development-time-estimation-doesn-t-work-alternatives-423b9a5c4219">why software development time estimation doesn’t work </a></p>
+  </li>
+</ul>
+
+      <div class="tags"><span>Tags:</span> android-studio , app , character , collaboration , composer , drupal7 , google developer , laravel , mysql , photo edit , photo editor , picture edit , podcast , ruby , symbol , tech , testing , traits , android , android-libraries , angular , animation , api , bootstrap , chromeextension , code reuse , css , data , database , datavisualization , design share , devops , docker , drupal , drupal8 , flexbox , go , google , google-play-services , gulp , inheritance , ionic , ios , javascript , jekyll , js , laraconrecap , mobile , mobile-tech , nodejs , php , podcast , productmgmt , programming , robot , sass , security , server , solar , startups , string concatenation , svg , symbolguide , testing , testwebspeed , tools , translation , wake , workstation-ergonomics</div>
+      <hr />
+      <footer role="contentinfo">
+        <div class="social-share">
+  <h4>Share on</h4>
+  <ul>
+    <li>
+      <a href="https://twitter.com/intent/tweet?text=http://blog.yipl.com.np/younginnovations-weekly-03/" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+    </li>
+    <li>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://blog.yipl.com.np/younginnovations-weekly-03/" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+    </li>
+    <li>
+      <a href="https://plus.google.com/share?url=http://blog.yipl.com.np/younginnovations-weekly-03/" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
+    </li>
+  </ul>
+</div><!-- /.social-share -->
+        <p class="byline"><strong>Young Innovations weekly #3</strong> was published on <time datetime="2015-08-21T00:00:00+05:45">August 21, 2015</time> and last modified on <time datetime="2015-08-21">August 21, 2015</time>.</p>
+      </footer>
+    </div><!-- /.article-wrap -->
+  
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrap">
+  
+  <div class="related-articles">
+  <h4>You might also enjoy <small class="pull-right">(<a href="http://blog.yipl.com.np/posts/">View all posts</a>)</small></h4>
+    <ul>
+    
+      <li><a href="http://blog.yipl.com.np/NcellAppCamp_Debriefing_session_2015/" title="Say Hello to Ncell App Camp 2015">Say Hello to Ncell App Camp 2015</a></li>
+    
+      <li><a href="http://blog.yipl.com.np/younginnovations-weekly-02/" title="Young Innovations weekly #2">Young Innovations weekly #2</a></li>
+    
+      <li><a href="http://blog.yipl.com.np/short-documentary-youngInnovations-tbt/" title="A short documentary on YoungInnovations #tbt">A short documentary on YoungInnovations #tbt</a></li>
+    
+    </ul>
+    <hr />
+  </div><!-- /.related-articles -->
+  
+  <footer>
+    
+
+<span>&copy; 2015 YoungInnovations Blog. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
+
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://blog.yipl.com.np/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://blog.yipl.com.np/assets/js/scripts.min.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl =
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-66282424-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+</body>
+</html>
