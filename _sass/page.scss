@@ -455,10 +455,14 @@ $button-size: 1.5rem;
 		padding-left: 20px
 	}
 	p {
-		margin: 0 0 14px;
+		margin: 0 0 20px;
+		padding-bottom: 10px;
 		+p {
 			text-indent: inherit;
 		}
+	}
+	h3,h4 {
+		color: rgba(64,64,64,0.7);
 	}
 }
 
