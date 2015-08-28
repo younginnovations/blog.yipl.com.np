@@ -15,7 +15,7 @@ geshan_manandhar:
 prawesh_shrestha:
   name: Prawesh Shrestha
   bio: "knows and doesn't know how to manage things."
-  avatar: default-thumb.png
+  avatar: prawesh-bio-photo.png
   twitter: praweshsth
 
 rakeeb_rajbhandari:
@@ -31,8 +31,9 @@ rakeeb_rajbhandari:
 anubhuti_poudyal:
   name: Anubhuti Poudyal
   bio: "Communications Consultant"
-  avatar: default-thumb.png
+  avatar: anubhuti-bio-photo.png
   twitter: anubhutipoudyal
+
 manoj_byanjankar:
   name: Manoj Byanjankar
   bio: "Software Developer"
