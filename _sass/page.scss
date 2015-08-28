@@ -269,7 +269,7 @@ $button-size: 1.5rem;
 	article {
 		margin-bottom: 34px;
 		h2 {
-			margin-bottom: 4px;
+			margin-bottom: 8px;
 			@include font-rem(20);
 			line-height: normal;
 			&.link-post {
@@ -283,6 +283,7 @@ $button-size: 1.5rem;
 		}
 		p+p {
 			text-indent: 0;
+			margin-top: 0;
 		}
 	}
 }
