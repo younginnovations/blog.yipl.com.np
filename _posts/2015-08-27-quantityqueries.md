@@ -6,17 +6,20 @@ modified: 2015-08-27
 tags: [ css, quantity queries]
 ---
 
-Often within a project,we all have been experiencing the presentational change of our content/layout based on certain requirements. We have been using media queries to change our styles as per the user device. But whenever we want to present our layout differently depending on the number of blocks, we are always thinking of what can be the best option. So, this is where quantity queries appear as a solution to this problem.
+Often in a project,the presentation change of our content/layout is a result of requirements change. Here at YIPL, we have been using media queries to change our styles as per the user deviceWe have been using media queries to change our styles as per the user device. But whenever we want to present our layout differently depending on the number of blocks, we are always thinking of what can be the best option. So, this is where quantity queries appear as a solution to this problem.
 
 ![Quantity Queries](/images/quantity-queries/qq.jpg)
 
-###What is Quantity Queries?
+### What is Quantity Queries?
+
 Quantity Queries are complex CSS selectors that allow styles to be applied to elements based on the number of siblings.
 
-###Where is it used?
+### Where is it used?
+
 We do have dynamic number of siblings and we need to style them differently based on the total count of siblings. This can undergo through dynamic addition or subtraction of elements. Yes, we can use media queries and javascript workarounds. But, if css can alone deal with this then why do we need javascript? We can just be creative with css selectors and apply the styles.
 
-###Example of Quantity Query
+### Example of Quantity Query
+
 Using css selectors like nth-last-child(), last-child and ~, we can craft selectors that match our requirements.
 
 Here, we are using the nth-* formula to manage the calculation.
@@ -69,11 +72,11 @@ ul li:nth-last-child(n+5):nth-last-child(-n+10):first-child ~ li {
 
 This one is for the “in-between” case. The above code is for the siblings between 5 and 10.
 
-###Solution to writing Quantity Queries
+### Solution to writing Quantity Queries
 
 These queries can be a bit difficult to write. SO, there is a tool called [QuantityQueries.com](http://quantityqueries.com/) to help construct and demonstrate quantity queries.
 
-###Now with SASS
+### Now with SASS
 
 Daniel Guillan has [ported this functionality (and more) to SASS](https://github.com/danielguillan/quantity-queries) using a handful of really straightforward mixins. Here’s a demo:
 
