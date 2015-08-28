@@ -4,13 +4,173 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://blog.yipl.com.np/feed.xml" />
 <link rel="alternate" type="text/html" href="http://blog.yipl.com.np" />
-<updated>2015-08-28T11:06:42+05:45</updated>
+<updated>2015-08-28T12:05:39+05:45</updated>
 <id>http://blog.yipl.com.np/</id>
 <author>
   <name>YoungInnovations Blog</name>
   <uri>http://blog.yipl.com.np/</uri>
   <email>info@yipl.com.np</email>
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Young Innovations weekly #4]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-04/" />
+  <id>http://blog.yipl.com.np/younginnovations-weekly-04</id>
+  <updated>2015-08-28T00:00:00-00:00</updated>
+  <published>2015-08-28T00:00:00+05:45</published>
+  
+  <author>
+    <name>Manoj Byanjankar</name>
+    <uri>http://blog.yipl.com.np</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;On August 22, Saturday, Ncell App Camp 2015 debriefing session was organized at Hotel Himalaya, Pulchowk. More than 300 students, developers and mobile enthusiasts participated altogether in 2 sessions. This week’s Knowledge Sharing Wednesday featured Alina Acharya ,Data Analyst, who presented on our earthquake fund tracking portal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/weekly04/alina_ksw_earthquake.jpg&quot; alt=&quot;Presentation on  Earthquake (http://earthquake.opennepal.net) by Alina Acharya &quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;TGIF! And we have few links to interesting articles that we read and which are here for everyone. We hope it will be useful to anyone as it was for us.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.sitepoint.com/google-docs/?utm_medium=email&quot;&gt;10 reasons to love google docs&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.rangle.io/angular-gulp-bestpractices/?utm_source=reddit&quot;&gt;6 gulp best practices you can use today to radically improve your development experience&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.engadget.com/2015/08/25/smartisan-u1-jianguo/&quot;&gt;a unique twist on android for broke college kids&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://android-tutorials.info/&quot;&gt;android tutorials&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/florent37/HollyViewPager&quot;&gt;android: hollyviewpager {a different beautiful viewpager, with quick swipe controls}&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.stylingandroid.com/scrolling-recyclerview-part-3/&quot;&gt;android: scrolling recyclerview {styling android}&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.previousnext.com.au/blog/boosting-performance-complex-drupal-7-project-blackfireio&quot;&gt;boosting performance of a complex drupal 7 project with blackfire.io - previousnext&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://bit.ly/1U7DJil&quot;&gt;building a simple react application using the flux pattern: a step-by-step guide - tony spiro&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/connecting-an-api-driven-web-app-with-javascript--cms-24576&quot;&gt;connecting an api-driven web app with javascript - tuts code tutorial&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.garron.me/en/blog/multi-blog-site-jekyll.html&quot;&gt;create a multi blog site with jekyll&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://drupalwatchdog.com/volume-5/issue-1/drushak&quot;&gt;drush: the swiss army knife for drupal - drupal watchdog&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/erusev/parsedown&quot;&gt;erusev/parsedown&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.wired.com/2015/08/facebook-launches-m-new-kind-virtual-assistant/&quot;&gt;facebook launches m, its bold answer to siri and cortana - wired&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.flinto.com/mac?utm_source=designernews&quot;&gt;flinto for mac – the prototyping tool designers have been waiting for.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.flockport.com/a-beginners-guide-to-docker/?utm_content=bufferd37ca&quot;&gt;flockport - a beginners guide to docker and containers&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://hub.openshift.com/quickstarts/115-laravel-5-0&quot;&gt;free laravel hosting - laravel 5.0 - openshift quickstart&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://uk.businessinsider.com/i-was-invited-by-google-to-its-secret-interview-process-2015-8&quot;&gt;google’s ‘secret’ interview process&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.toptal.com/remote/how-to-make-remote-working-work-for-you&quot;&gt;guide to creating a remote work schedule - toptal&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/@daviddentoom/how-to-build-an-angular-2-application-with-routing-and-services-67ead73db96e&quot;&gt;how to build an angular 2 application with routing and services — medium&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.phpclasses.org/blog/post/305-How-to-Make-Better-Reuse-of-PHP-Code-using-Traits-Part-1-Basic-Code-Reuse.html&quot;&gt;how to make better reuse of php code using traits part 1: basic code reuse - php classes blog - php classes&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://voicesoftheelephpant.com/2015/08/25/interview-with-josh-butts-2/&quot;&gt;interview with josh butts - voices of the elephpant&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors&quot;&gt;javascript wysiwyg editors · cheeaun/mooeditable wiki · github&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/&quot;&gt;laying out a flexible future for web design with flexbox – smashing magazine&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.mapbox.com/studio-beta/&quot;&gt;mapbox studio beta signup - mapbox&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mike-solomon.com/timesheet-githook&quot;&gt;mike solomon&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://laracasts.com/series/php7-up-and-running&quot;&gt;php 7 up and running&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.devbattles.com/en/sand/post-1370-PHP 7.0.0 Alpha 1 Released&quot;&gt;php 7.0.0 alpha 1 released&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/1054022278094874&quot;&gt;php developers meetup #14 &lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.khanacademy.org/partner-content/pixar&quot;&gt;pixar in a box - khan academy&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.khanacademy.org/partner-content/pixar&quot;&gt;pixar in a box&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://martinfowler.com/bliki/PresentationDomainDataLayering.html&quot;&gt;presentationdomaindatalayering&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ryanharter.com/blog/2015/08/20/should-this-be-a-library/?utm_source=Android Weekly&quot;&gt;should this be a library? - ryan harter&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://bit.ly/1fHqbHq&quot;&gt;some small alpine based docker images for php mysql etc&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://cssanimation.rocks/spheres/&quot;&gt;spheres - css animation&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://gist.github.com/TSiege/cbb0507082bb18ff7e4b&quot;&gt;this is my technical interview cheat sheet. feel free to fork it or do whatever you want with it. please let me know if there are any errors or if anything crucial is missing. i will add more links soon. · github&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://andraskindler.com/blog/2015/tinting_drawables/?utm_source=Android Weekly&quot;&gt;tinting drawables&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/using-and-extending-the-drupal-8-mail-api-part-2--cms-23484&quot;&gt;using and extending the drupal 8 mail api: part 2 - tuts code tutorial&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://bit.ly/1Jzrh40&quot;&gt;vysor is an interesting new way to control android from your computer &lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.vysor.io/&quot;&gt;vysor&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2015/08/web-development-reading-list-100/&quot;&gt;web development reading list &lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/getify/You-Dont-Know-JS/blob/master/up&quot;&gt;you-dont-know-js/readme.md at master · getify/you-dont-know-js · github&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://zozoui.com/&quot;&gt;zozo ui - responsive and touch-enabled jquery plugins&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.nytimes.com/2015/08/06/technology/personaltech/right-to-be-forgotten-online-is-poised-to-spread.html?ref=personaltech&quot;&gt;‘right to be forgotten’ online could spread - the new york times&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/younginnovations-weekly-04/&quot;&gt;Young Innovations weekly #4&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 28, 2015.&lt;/p&gt;
+  </content>
+</entry>
 
 
   
@@ -28,43 +188,43 @@
     
   </author>
   <content type="html">
-    &lt;p&gt;What is the difference between Ncell App Camp 2014 and &lt;a href=&quot;http://ncellappcamp.com&quot;&gt;Ncell App Camp 2015&lt;/a&gt;?  There is more than one difference, most definitely. But, heightened anticipation, is something I’d mention with certainty. With the incredible success last year, this year’s event is being looked upon with much enthusiasm (and scrutiny) and we are excited to present to you every phase of the five month long journey. &lt;/p&gt;
+    &lt;p&gt;What is the difference between Ncell App Camp 2014 and &lt;a href=&quot;http://ncellappcamp.com&quot;&gt;Ncell App Camp 2015&lt;/a&gt;?  There is more than one difference, most definitely. But, heightened anticipation, is something I’d mention with certainty. With the incredible success last year, this year’s event is being looked upon with much enthusiasm (and scrutiny) and we are excited to present to you every phase of the five month long journey.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/NcellAppCamp_deb_ses_2015.jpg&quot; alt=&quot;Ncell App Camp 2015 Debriefing Session photo&quot; /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/NcellAppCamp_deb_ses_2015.jpg&quot; alt=&quot;Ncell App Camp 2015 Debriefing Session photo&quot; /&gt;&lt;/p&gt;
 
 &lt;!--more--&gt;
 
 &lt;p&gt;August 22, 2015 was a bright Saturday morning. The organizers of Ncell App Camp 2015 were ready to welcome tech enthusiasts - those who had heard of the event, were interested in the event or wanted to know more about it. The idea was to clarify any queries participants had regarding the event. An elaborate description of the next few months until December, was ready. There were two sessions planned, the first starting at 10:30 AM and second at 2:30 PM. Both sessions were planned to be two hours long each. Everyone was waiting for the participants.&lt;/p&gt;
 
-&lt;p&gt;And what an amazing group that showed up in a pre-setup hall of Hotel Himalaya, Pulchowk. Young tech enthusiasts flocked into the hall to reach an anticipating group of organizers and the stage was set to begin the first formal interaction of Ncell App Camp 2015 with its participants. Ms. Mandira Dhungel, our presenter for the day welcomed the audience who were then introduced to the first speaker, Mr. Milan Sharma, Communication Expert at Ncell. &lt;/p&gt;
+&lt;p&gt;And what an amazing group that showed up in a pre-setup hall of Hotel Himalaya, Pulchowk. Young tech enthusiasts flocked into the hall to reach an anticipating group of organizers and the stage was set to begin the first formal interaction of Ncell App Camp 2015 with its participants. Ms. Mandira Dhungel, our presenter for the day welcomed the audience who were then introduced to the first speaker, Mr. Milan Sharma, Communication Expert at Ncell.&lt;/p&gt;
 
-&lt;p&gt;Mr. Sharma addressing audience in both the sessions, talked about the main objective of Ncell App Camp. He accentuated its role in nurturing business - thinking in youth, taking them to the path of entrepreneurship and self-employment in the field of technology. He encouraged young people to take up their role in digitalization of Nepal. Ncell App Camps are known for their intensive trainings and mentorship sessions that make the entire process of the competition just as much alluring as the final prize money. The journey promotes collaboration, team work and in the long run, good business ideas that can be ignited in the young minds through a platform like Ncell App Camp 2015. &lt;/p&gt;
+&lt;p&gt;Mr. Sharma addressing audience in both the sessions, talked about the main objective of Ncell App Camp. He accentuated its role in nurturing business - thinking in youth, taking them to the path of entrepreneurship and self-employment in the field of technology. He encouraged young people to take up their role in digitalization of Nepal. Ncell App Camps are known for their intensive trainings and mentorship sessions that make the entire process of the competition just as much alluring as the final prize money. The journey promotes collaboration, team work and in the long run, good business ideas that can be ignited in the young minds through a platform like Ncell App Camp 2015.&lt;/p&gt;
 
-&lt;p&gt;Mr. Milan Sharma was followed by Mr. Prawesh Shrestha, from YoungInnovations, to talk about the process of Ncell App Camp. He laid in front of the audience the entire five months of the competition. He clarified the participants’ roles in each phase and presented the lucrative opportunities of meeting the best in the field of business and technology revolving around the four themes of this year’s competition, viz, Games and Entertainment, Health, Tourism and Utilities. Mr. Shrestha tried to help the participants focus and meet the multiple deadlines over the next few months, from submitting the idea in September to the final Minimum Viable Product in the beginning of December. &lt;/p&gt;
+&lt;p&gt;Mr. Milan Sharma was followed by Mr. Prawesh Shrestha, from YoungInnovations, to talk about the process of Ncell App Camp. He laid in front of the audience the entire five months of the competition. He clarified the participants’ roles in each phase and presented the lucrative opportunities of meeting the best in the field of business and technology revolving around the four themes of this year’s competition, viz, Games and Entertainment, Health, Tourism and Utilities. Mr. Shrestha tried to help the participants focus and meet the multiple deadlines over the next few months, from submitting the idea in September to the final Minimum Viable Product in the beginning of December.&lt;/p&gt;
 
-&lt;p&gt;And then they were introduced to last year’s winners. &lt;/p&gt;
+&lt;p&gt;And then they were introduced to last year’s winners.&lt;/p&gt;
 
-&lt;p&gt;The participants in both the sessions had a unique opportunity to learn from the very best. There were the winners of the Ncell App Camp 2015 and the participants who made it to a certain stage of the competition but didn’t make it to the very end. Either way, the four speakers, two in each session, had a handful of brilliant ideas and experiences to share with the audience. The first speaker was Mr. Sibjan Chaulagain, winner of Ncell App Camp 2015 in Agriculture category and also the grand winner of the competition. &lt;/p&gt;
+&lt;p&gt;The participants in both the sessions had a unique opportunity to learn from the very best. There were the winners of the Ncell App Camp 2015 and the participants who made it to a certain stage of the competition but didn’t make it to the very end. Either way, the four speakers, two in each session, had a handful of brilliant ideas and experiences to share with the audience. The first speaker was Mr. Sibjan Chaulagain, winner of Ncell App Camp 2015 in Agriculture category and also the grand winner of the competition.&lt;/p&gt;
 
-&lt;p&gt;Mr. Chaulagain started by telling the audience his story, a big part of which was the reason he created the application that finally helped him win the competition. He then gave ideas on making the most out of the competition. He started with suggestions on need assessment, which he believed was probably a very big part of creating an application that was accepted in the market. Since the challenge requires you to come up with an important application with a very strong business model, it is significant to know the market. Mr. Chaulagain then began talking about the mentorship session and his interaction with the experts. One important suggestion - Always share your ideas with people, either mentors or fellow participants. It is easier to learn when we get constructive feedback. Finally, he discussed the current state of the app that won last year’s challenge and concluded the speech by asking the participants to work hard and have confidence, especially while presenting the ideas. &lt;/p&gt;
+&lt;p&gt;Mr. Chaulagain started by telling the audience his story, a big part of which was the reason he created the application that finally helped him win the competition. He then gave ideas on making the most out of the competition. He started with suggestions on need assessment, which he believed was probably a very big part of creating an application that was accepted in the market. Since the challenge requires you to come up with an important application with a very strong business model, it is significant to know the market. Mr. Chaulagain then began talking about the mentorship session and his interaction with the experts. One important suggestion - Always share your ideas with people, either mentors or fellow participants. It is easier to learn when we get constructive feedback. Finally, he discussed the current state of the app that won last year’s challenge and concluded the speech by asking the participants to work hard and have confidence, especially while presenting the ideas.&lt;/p&gt;
 
-&lt;p&gt;In the second session, Mr. Rohit Man Amatya’s app Lipi (The Script), winner of Ncell App Camp 2014 under Tourism Category had stories that needed to be shared. He first started talking about the major brainstorming session that his group went through to come up with an idea that the team could all relate to. These relatable anecdotes suddenly made Ncell App Camp an accessible feat that is attained by participants much like the ones in the hall at the moment; Ncell App Camp 2015 can be won with unique idea and hard work. Mr. Amatya continued his jesting presentation talking about the hindrances that he and his team members faced along with brilliant opportunities possible through the challenge. &lt;/p&gt;
+&lt;p&gt;In the second session, Mr. Rohit Man Amatya’s app Lipi (The Script), winner of Ncell App Camp 2014 under Tourism Category had stories that needed to be shared. He first started talking about the major brainstorming session that his group went through to come up with an idea that the team could all relate to. These relatable anecdotes suddenly made Ncell App Camp an accessible feat that is attained by participants much like the ones in the hall at the moment; Ncell App Camp 2015 can be won with unique idea and hard work. Mr. Amatya continued his jesting presentation talking about the hindrances that he and his team members faced along with brilliant opportunities possible through the challenge.&lt;/p&gt;
 
-&lt;p&gt;But there was something more powerful than the success stories that day. The stories of participants of last year who were not the winners were powerful evidences of the impact of Ncell App Camp. It is not here to create winners. It is here to nurture the youth to ignite the digitalization and technological advancement that Nepal demands at present. &lt;/p&gt;
+&lt;p&gt;But there was something more powerful than the success stories that day. The stories of participants of last year who were not the winners were powerful evidences of the impact of Ncell App Camp. It is not here to create winners. It is here to nurture the youth to ignite the digitalization and technological advancement that Nepal demands at present.&lt;/p&gt;
 
-&lt;p&gt;Mr. Anish Shrestha of YellowNepal Pvt. Ltd talked about his app and most importantly shared his experience in taking the app into the market. His presentation revolved around “Winning the competition is nothing. But winning the market is.” &lt;/p&gt;
+&lt;p&gt;Mr. Anish Shrestha of YellowNepal Pvt. Ltd talked about his app and most importantly shared his experience in taking the app into the market. His presentation revolved around “Winning the competition is nothing. But winning the market is.”&lt;/p&gt;
 
-&lt;p&gt;Talking about the Ncell App Camp experience, he considered it to be more than just money and fame. Ncell App Camp is about learning and exploring. Mr. Shrestha had first hand experience of the market after he came up with a product. Building a product, he accentuates, is not building a company. It takes more than one app to create a company and that is something that Ncell App Camp focuses on. It helps you meet experts who know how to create something that can reach a market and turn itself into a useful business. &lt;/p&gt;
+&lt;p&gt;Talking about the Ncell App Camp experience, he considered it to be more than just money and fame. Ncell App Camp is about learning and exploring. Mr. Shrestha had first hand experience of the market after he came up with a product. Building a product, he accentuates, is not building a company. It takes more than one app to create a company and that is something that Ncell App Camp focuses on. It helps you meet experts who know how to create something that can reach a market and turn itself into a useful business.&lt;/p&gt;
 
-&lt;p&gt;The second session welcomed Mr. Gaurav Ghimire. His idea The Homerepair App might not have won the Ncell App Camp 2014 but it definitely has been creating a name for itself as an active business that uses technology to assist people in addressing their everyday challenge. &lt;/p&gt;
+&lt;p&gt;The second session welcomed Mr. Gaurav Ghimire. His idea The Homerepair App might not have won the Ncell App Camp 2014 but it definitely has been creating a name for itself as an active business that uses technology to assist people in addressing their everyday challenge.&lt;/p&gt;
 
-&lt;p&gt;Mr. Ghimire talked about his journey from the submission of the idea to the training sessions that refined their ideas into an active business prospect. The entire process demands focus on business that is often ignore amidst extra effort that is put in app formation. The networking and resources that Ncell App Camp can provide you, Mr. Ghimire emphasizes, are the integral aspects of the competition. &lt;/p&gt;
+&lt;p&gt;Mr. Ghimire talked about his journey from the submission of the idea to the training sessions that refined their ideas into an active business prospect. The entire process demands focus on business that is often ignore amidst extra effort that is put in app formation. The networking and resources that Ncell App Camp can provide you, Mr. Ghimire emphasizes, are the integral aspects of the competition.&lt;/p&gt;
 
-&lt;p&gt;It requires skills to know what exactly the market requires, then the real challenge begins. Creating a stable business is hardly about the initial challenge. It is a persistent thinking that requires positive feedback, expert advice and a lot of hard work. Ncell App Camp is willing to provide all that. It takes new business years to understand the market they are in. Ncell App Camp could be the initial boost that every start-up requires that can make the entire process of creating a stable business, faster. &lt;/p&gt;
+&lt;p&gt;It requires skills to know what exactly the market requires, then the real challenge begins. Creating a stable business is hardly about the initial challenge. It is a persistent thinking that requires positive feedback, expert advice and a lot of hard work. Ncell App Camp is willing to provide all that. It takes new business years to understand the market they are in. Ncell App Camp could be the initial boost that every start-up requires that can make the entire process of creating a stable business, faster.&lt;/p&gt;
 
-&lt;p&gt;Ncell App Camp concluded the Debriefing session addressing queries from the participants. There was active discussion on the themes, expectations and the process of the competition. The event ended just as expected, with positive feedback and more importantly enthusiastic participants and satisfied organizers, both the groups equally excited about the prospects of the next five months. Ncell App Camp 2015 is here to inspire. &lt;/p&gt;
+&lt;p&gt;Ncell App Camp concluded the Debriefing session addressing queries from the participants. There was active discussion on the themes, expectations and the process of the competition. The event ended just as expected, with positive feedback and more importantly enthusiastic participants and satisfied organizers, both the groups equally excited about the prospects of the next five months. Ncell App Camp 2015 is here to inspire.&lt;/p&gt;
 
-&lt;p&gt;Some of the moments of the session can be found &lt;a href=&quot;https://www.facebook.com/media/set/?set=a.1604740916456094.1073741837.1443474549249399&amp;amp;type=3&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;Some of the moments of the session can be found &lt;a href=&quot;https://www.facebook.com/media/set/?set=a.1604740916456094.1073741837.1443474549249399&amp;amp;type=3&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/NcellAppCamp_Debriefing_session_2015/&quot;&gt;Say Hello to Ncell App Camp 2015&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 28, 2015.&lt;/p&gt;
   </content>
@@ -100,7 +260,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/weekly03/Chocolates.jpg&quot; alt=&quot;Double dating ;)&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;This is our third weekly at YIPL which has links to blogs, posts, articles that YIPLites read to learn about technology, tips and tricks, other’s experiences (major highlight for Android users, Android 6.0 had it’s formal annoucement this week). Now these links are here for everyone.  &lt;/p&gt;
+&lt;p&gt;This is our third weekly at YIPL which has links to blogs, posts, articles that YIPLites read to learn about technology, tips and tricks, other’s experiences (major highlight for Android users, Android 6.0 had it’s formal annoucement this week). Now these links are here for everyone.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -291,7 +451,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/weekly02/Nirajan_Gulp_KSW.jpg&quot; alt=&quot;Presentation on Gulp by Nirajan&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;This is our second weekly at YIPL which has links to blogs, posts, articles that YIPLites read to learn about technology, tips and tricks, other’s experiences. Now these links are here for everyone.  &lt;/p&gt;
+&lt;p&gt;This is our second weekly at YIPL which has links to blogs, posts, articles that YIPLites read to learn about technology, tips and tricks, other’s experiences. Now these links are here for everyone.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -483,15 +643,15 @@
     
   </author>
   <content type="html">
-    &lt;p&gt;Here’s a short documentary on YoungInnovations prepared by students of KCM as one of their academic projects. It has been more than 2 and half years and lot of things have changed here. &lt;/p&gt;
+    &lt;p&gt;Here’s a short documentary on YoungInnovations prepared by students of KCM as one of their academic projects. It has been more than 2 and half years and lot of things have changed here.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vvLCaE-QhjM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;The visible changes are the faces seen in the video. Some have gone for their higher education abroad, some have joined other companies and some have started their own companies. Although they are, now, not here but we proudly express that their contributions are valuable and have shaped our company that it is today. We always cherish the time they spent here - their hardship, ideas, success, failure, knowledge and happy and sad moments. &lt;/p&gt;
+&lt;p&gt;The visible changes are the faces seen in the video. Some have gone for their higher education abroad, some have joined other companies and some have started their own companies. Although they are, now, not here but we proudly express that their contributions are valuable and have shaped our company that it is today. We always cherish the time they spent here - their hardship, ideas, success, failure, knowledge and happy and sad moments.&lt;/p&gt;
 
-&lt;p&gt;The other change is that we have shifted to new building at Kumaripati with many young and enthusiastic people - some starting their career and some sharing their past experiences to take YoungInnovations to new beginning. &lt;/p&gt;
+&lt;p&gt;The other change is that we have shifted to new building at Kumaripati with many young and enthusiastic people - some starting their career and some sharing their past experiences to take YoungInnovations to new beginning.&lt;/p&gt;
 
 &lt;p&gt;Of course, the working style have also changed adapting to the needs of the new projects and increase in the number of YIPLites resulting different teams. However, the team spirit is same as before. Each team member has equal opportunities and challenges in completing projects. As our CEO, Bibhusan, expresses, “We work hard and we party harder”, all the YIPLites are actively involved in fun activities too.&lt;/p&gt;
 
@@ -524,7 +684,7 @@ their daily work and had loads of fun. Sneak peak below:&lt;/p&gt;
 
 &lt;p&gt;This is our first weekly at YIPL which has links to blogs, posts, articles and podcasts.
 We aim to continue this so that YIPLies can share things they read over the week and found useful
-which can benefit a larger tech community.  &lt;/p&gt;
+which can benefit a larger tech community.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
