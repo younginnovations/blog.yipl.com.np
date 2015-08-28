@@ -11,3 +11,15 @@ geshan_manandhar:
   bio: "Constantly breaks things but can fix them too :)"
   avatar: geshan-bio-photo.jpg
   twitter: geshan
+
+prawesh_shrestha:
+  name: Prawesh Shrestha
+  bio: "knows and doesn't know how to manage things."
+  avatar: default-thumb.png
+  twitter: praweshsth
+
+anubhuti_poudyal:
+  name: Anubhuti Poudyal
+  bio: "Communications Consultant"
+  avatar: default-thumb.png
+  twitter: anubhutipoudyal
