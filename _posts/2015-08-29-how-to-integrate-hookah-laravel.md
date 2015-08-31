@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "How to integrate hookah smoke tests with laravel"
+title: "How to integrate hookah smoke tests with Laravel 5"
 author: geshan_manandhar
 modified: 2015-08-29
 tags: [ testing, quality, smoke tests, hookah]
 ---
 
 We made our smoke testing library [hookah](https://github.com/younginnovations/hookah) open source last week.
-We are currently using it to test some web applications we have built with [Laravel](http://laravel.com). Though Laravel testing is more expressive, hookah is just a smoke testing library which can be used in any framework or even
-language as long as there is a login form with 2 fields and a submit button. In this post I will reaveal
-a brief how to on how to integrate Hookah with Laravel 5.x.
+We are currently using it to test some web applications we have built using [Laravel](http://laravel.com). Though Laravel testing is more expressive, hookah is just a smoke testing library which can be used in any framework or even
+language as long as there is a login form with 2 fields and a submit button. In this post I will reveal
+how to integrate Hookah with Laravel 5.x.
 
 ![Hookah + Laravel = Super smoke tests](/images/hookah-laravel/hookah-laravel-5.png)
 
