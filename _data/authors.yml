@@ -2,7 +2,7 @@
 
 sweta_shrestha:
   name: Sweta Shrestha
-  bio: "UX Developer"
+  bio: "Sr. UX Developer"
   avatar: sweta-bio-photo.jpg
   twitter: sweet_anjell
 
@@ -15,7 +15,7 @@ geshan_manandhar:
 prawesh_shrestha:
   name: Prawesh Shrestha
   bio: "knows and doesn't know how to manage things."
-  avatar: default-thumb.png
+  avatar: prawesh-bio-photo.jpg
   twitter: praweshsth
 
 rakeeb_rajbhandari:
@@ -27,3 +27,15 @@ rakeeb_rajbhandari:
     plus: RakeebRajbhandari  
   stackoverflow: 2247689/rakeeb-rajbhandari
   github: rakeeb11
+
+anubhuti_poudyal:
+  name: Anubhuti Poudyal
+  bio: "Communications Consultant"
+  avatar: anubhuti-bio-photo.png
+  twitter: anubhutipoudyal
+
+manoj_byanjankar:
+  name: Manoj Byanjankar
+  bio: "Software Developer"
+  avatar: default-thumb.png
+  github: mojbenzcar

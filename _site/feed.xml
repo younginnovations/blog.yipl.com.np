@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://blog.yipl.com.np/feed.xml" />
 <link rel="alternate" type="text/html" href="http://blog.yipl.com.np" />
-<updated>2015-08-14T07:31:35+04:00</updated>
+<updated>2015-08-28T12:05:39+05:45</updated>
 <id>http://blog.yipl.com.np/</id>
 <author>
   <name>YoungInnovations Blog</name>
@@ -16,11 +16,626 @@
   
 
 <entry>
+  <title type="html"><![CDATA[Young Innovations weekly #4]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-04/" />
+  <id>http://blog.yipl.com.np/younginnovations-weekly-04</id>
+  <updated>2015-08-28T00:00:00-00:00</updated>
+  <published>2015-08-28T00:00:00+05:45</published>
+  
+  <author>
+    <name>Manoj Byanjankar</name>
+    <uri>http://blog.yipl.com.np</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;On August 22, Saturday, Ncell App Camp 2015 debriefing session was organized at Hotel Himalaya, Pulchowk. More than 300 students, developers and mobile enthusiasts participated altogether in 2 sessions. This week’s Knowledge Sharing Wednesday featured Alina Acharya ,Data Analyst, who presented on our earthquake fund tracking portal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/weekly04/alina_ksw_earthquake.jpg&quot; alt=&quot;Presentation on  Earthquake (http://earthquake.opennepal.net) by Alina Acharya &quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;TGIF! And we have few links to interesting articles that we read and which are here for everyone. We hope it will be useful to anyone as it was for us.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.sitepoint.com/google-docs/?utm_medium=email&quot;&gt;10 reasons to love google docs&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.rangle.io/angular-gulp-bestpractices/?utm_source=reddit&quot;&gt;6 gulp best practices you can use today to radically improve your development experience&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.engadget.com/2015/08/25/smartisan-u1-jianguo/&quot;&gt;a unique twist on android for broke college kids&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://android-tutorials.info/&quot;&gt;android tutorials&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/florent37/HollyViewPager&quot;&gt;android: hollyviewpager {a different beautiful viewpager, with quick swipe controls}&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.stylingandroid.com/scrolling-recyclerview-part-3/&quot;&gt;android: scrolling recyclerview {styling android}&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.previousnext.com.au/blog/boosting-performance-complex-drupal-7-project-blackfireio&quot;&gt;boosting performance of a complex drupal 7 project with blackfire.io - previousnext&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://bit.ly/1U7DJil&quot;&gt;building a simple react application using the flux pattern: a step-by-step guide - tony spiro&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/connecting-an-api-driven-web-app-with-javascript--cms-24576&quot;&gt;connecting an api-driven web app with javascript - tuts code tutorial&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.garron.me/en/blog/multi-blog-site-jekyll.html&quot;&gt;create a multi blog site with jekyll&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://drupalwatchdog.com/volume-5/issue-1/drushak&quot;&gt;drush: the swiss army knife for drupal - drupal watchdog&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/erusev/parsedown&quot;&gt;erusev/parsedown&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.wired.com/2015/08/facebook-launches-m-new-kind-virtual-assistant/&quot;&gt;facebook launches m, its bold answer to siri and cortana - wired&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.flinto.com/mac?utm_source=designernews&quot;&gt;flinto for mac – the prototyping tool designers have been waiting for.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.flockport.com/a-beginners-guide-to-docker/?utm_content=bufferd37ca&quot;&gt;flockport - a beginners guide to docker and containers&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://hub.openshift.com/quickstarts/115-laravel-5-0&quot;&gt;free laravel hosting - laravel 5.0 - openshift quickstart&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://uk.businessinsider.com/i-was-invited-by-google-to-its-secret-interview-process-2015-8&quot;&gt;google’s ‘secret’ interview process&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.toptal.com/remote/how-to-make-remote-working-work-for-you&quot;&gt;guide to creating a remote work schedule - toptal&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/@daviddentoom/how-to-build-an-angular-2-application-with-routing-and-services-67ead73db96e&quot;&gt;how to build an angular 2 application with routing and services — medium&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.phpclasses.org/blog/post/305-How-to-Make-Better-Reuse-of-PHP-Code-using-Traits-Part-1-Basic-Code-Reuse.html&quot;&gt;how to make better reuse of php code using traits part 1: basic code reuse - php classes blog - php classes&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://voicesoftheelephpant.com/2015/08/25/interview-with-josh-butts-2/&quot;&gt;interview with josh butts - voices of the elephpant&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors&quot;&gt;javascript wysiwyg editors · cheeaun/mooeditable wiki · github&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/&quot;&gt;laying out a flexible future for web design with flexbox – smashing magazine&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.mapbox.com/studio-beta/&quot;&gt;mapbox studio beta signup - mapbox&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mike-solomon.com/timesheet-githook&quot;&gt;mike solomon&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://laracasts.com/series/php7-up-and-running&quot;&gt;php 7 up and running&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.devbattles.com/en/sand/post-1370-PHP 7.0.0 Alpha 1 Released&quot;&gt;php 7.0.0 alpha 1 released&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/1054022278094874&quot;&gt;php developers meetup #14 &lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.khanacademy.org/partner-content/pixar&quot;&gt;pixar in a box - khan academy&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.khanacademy.org/partner-content/pixar&quot;&gt;pixar in a box&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://martinfowler.com/bliki/PresentationDomainDataLayering.html&quot;&gt;presentationdomaindatalayering&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ryanharter.com/blog/2015/08/20/should-this-be-a-library/?utm_source=Android Weekly&quot;&gt;should this be a library? - ryan harter&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://bit.ly/1fHqbHq&quot;&gt;some small alpine based docker images for php mysql etc&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://cssanimation.rocks/spheres/&quot;&gt;spheres - css animation&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://gist.github.com/TSiege/cbb0507082bb18ff7e4b&quot;&gt;this is my technical interview cheat sheet. feel free to fork it or do whatever you want with it. please let me know if there are any errors or if anything crucial is missing. i will add more links soon. · github&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://andraskindler.com/blog/2015/tinting_drawables/?utm_source=Android Weekly&quot;&gt;tinting drawables&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/using-and-extending-the-drupal-8-mail-api-part-2--cms-23484&quot;&gt;using and extending the drupal 8 mail api: part 2 - tuts code tutorial&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://bit.ly/1Jzrh40&quot;&gt;vysor is an interesting new way to control android from your computer &lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.vysor.io/&quot;&gt;vysor&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2015/08/web-development-reading-list-100/&quot;&gt;web development reading list &lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/getify/You-Dont-Know-JS/blob/master/up&quot;&gt;you-dont-know-js/readme.md at master · getify/you-dont-know-js · github&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://zozoui.com/&quot;&gt;zozo ui - responsive and touch-enabled jquery plugins&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.nytimes.com/2015/08/06/technology/personaltech/right-to-be-forgotten-online-is-poised-to-spread.html?ref=personaltech&quot;&gt;‘right to be forgotten’ online could spread - the new york times&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/younginnovations-weekly-04/&quot;&gt;Young Innovations weekly #4&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 28, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Say Hello to Ncell App Camp 2015]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/NcellAppCamp_Debriefing_session_2015/" />
+  <id>http://blog.yipl.com.np/NcellAppCamp_Debriefing_session_2015</id>
+  <updated>2015-08-28T00:00:00-00:00</updated>
+  <published>2015-08-28T00:00:00+05:45</published>
+  
+  <author>
+    <name>Anubhuti Poudyal</name>
+    <uri>http://blog.yipl.com.np</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;What is the difference between Ncell App Camp 2014 and &lt;a href=&quot;http://ncellappcamp.com&quot;&gt;Ncell App Camp 2015&lt;/a&gt;?  There is more than one difference, most definitely. But, heightened anticipation, is something I’d mention with certainty. With the incredible success last year, this year’s event is being looked upon with much enthusiasm (and scrutiny) and we are excited to present to you every phase of the five month long journey.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/NcellAppCamp_deb_ses_2015.jpg&quot; alt=&quot;Ncell App Camp 2015 Debriefing Session photo&quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;August 22, 2015 was a bright Saturday morning. The organizers of Ncell App Camp 2015 were ready to welcome tech enthusiasts - those who had heard of the event, were interested in the event or wanted to know more about it. The idea was to clarify any queries participants had regarding the event. An elaborate description of the next few months until December, was ready. There were two sessions planned, the first starting at 10:30 AM and second at 2:30 PM. Both sessions were planned to be two hours long each. Everyone was waiting for the participants.&lt;/p&gt;
+
+&lt;p&gt;And what an amazing group that showed up in a pre-setup hall of Hotel Himalaya, Pulchowk. Young tech enthusiasts flocked into the hall to reach an anticipating group of organizers and the stage was set to begin the first formal interaction of Ncell App Camp 2015 with its participants. Ms. Mandira Dhungel, our presenter for the day welcomed the audience who were then introduced to the first speaker, Mr. Milan Sharma, Communication Expert at Ncell.&lt;/p&gt;
+
+&lt;p&gt;Mr. Sharma addressing audience in both the sessions, talked about the main objective of Ncell App Camp. He accentuated its role in nurturing business - thinking in youth, taking them to the path of entrepreneurship and self-employment in the field of technology. He encouraged young people to take up their role in digitalization of Nepal. Ncell App Camps are known for their intensive trainings and mentorship sessions that make the entire process of the competition just as much alluring as the final prize money. The journey promotes collaboration, team work and in the long run, good business ideas that can be ignited in the young minds through a platform like Ncell App Camp 2015.&lt;/p&gt;
+
+&lt;p&gt;Mr. Milan Sharma was followed by Mr. Prawesh Shrestha, from YoungInnovations, to talk about the process of Ncell App Camp. He laid in front of the audience the entire five months of the competition. He clarified the participants’ roles in each phase and presented the lucrative opportunities of meeting the best in the field of business and technology revolving around the four themes of this year’s competition, viz, Games and Entertainment, Health, Tourism and Utilities. Mr. Shrestha tried to help the participants focus and meet the multiple deadlines over the next few months, from submitting the idea in September to the final Minimum Viable Product in the beginning of December.&lt;/p&gt;
+
+&lt;p&gt;And then they were introduced to last year’s winners.&lt;/p&gt;
+
+&lt;p&gt;The participants in both the sessions had a unique opportunity to learn from the very best. There were the winners of the Ncell App Camp 2015 and the participants who made it to a certain stage of the competition but didn’t make it to the very end. Either way, the four speakers, two in each session, had a handful of brilliant ideas and experiences to share with the audience. The first speaker was Mr. Sibjan Chaulagain, winner of Ncell App Camp 2015 in Agriculture category and also the grand winner of the competition.&lt;/p&gt;
+
+&lt;p&gt;Mr. Chaulagain started by telling the audience his story, a big part of which was the reason he created the application that finally helped him win the competition. He then gave ideas on making the most out of the competition. He started with suggestions on need assessment, which he believed was probably a very big part of creating an application that was accepted in the market. Since the challenge requires you to come up with an important application with a very strong business model, it is significant to know the market. Mr. Chaulagain then began talking about the mentorship session and his interaction with the experts. One important suggestion - Always share your ideas with people, either mentors or fellow participants. It is easier to learn when we get constructive feedback. Finally, he discussed the current state of the app that won last year’s challenge and concluded the speech by asking the participants to work hard and have confidence, especially while presenting the ideas.&lt;/p&gt;
+
+&lt;p&gt;In the second session, Mr. Rohit Man Amatya’s app Lipi (The Script), winner of Ncell App Camp 2014 under Tourism Category had stories that needed to be shared. He first started talking about the major brainstorming session that his group went through to come up with an idea that the team could all relate to. These relatable anecdotes suddenly made Ncell App Camp an accessible feat that is attained by participants much like the ones in the hall at the moment; Ncell App Camp 2015 can be won with unique idea and hard work. Mr. Amatya continued his jesting presentation talking about the hindrances that he and his team members faced along with brilliant opportunities possible through the challenge.&lt;/p&gt;
+
+&lt;p&gt;But there was something more powerful than the success stories that day. The stories of participants of last year who were not the winners were powerful evidences of the impact of Ncell App Camp. It is not here to create winners. It is here to nurture the youth to ignite the digitalization and technological advancement that Nepal demands at present.&lt;/p&gt;
+
+&lt;p&gt;Mr. Anish Shrestha of YellowNepal Pvt. Ltd talked about his app and most importantly shared his experience in taking the app into the market. His presentation revolved around “Winning the competition is nothing. But winning the market is.”&lt;/p&gt;
+
+&lt;p&gt;Talking about the Ncell App Camp experience, he considered it to be more than just money and fame. Ncell App Camp is about learning and exploring. Mr. Shrestha had first hand experience of the market after he came up with a product. Building a product, he accentuates, is not building a company. It takes more than one app to create a company and that is something that Ncell App Camp focuses on. It helps you meet experts who know how to create something that can reach a market and turn itself into a useful business.&lt;/p&gt;
+
+&lt;p&gt;The second session welcomed Mr. Gaurav Ghimire. His idea The Homerepair App might not have won the Ncell App Camp 2014 but it definitely has been creating a name for itself as an active business that uses technology to assist people in addressing their everyday challenge.&lt;/p&gt;
+
+&lt;p&gt;Mr. Ghimire talked about his journey from the submission of the idea to the training sessions that refined their ideas into an active business prospect. The entire process demands focus on business that is often ignore amidst extra effort that is put in app formation. The networking and resources that Ncell App Camp can provide you, Mr. Ghimire emphasizes, are the integral aspects of the competition.&lt;/p&gt;
+
+&lt;p&gt;It requires skills to know what exactly the market requires, then the real challenge begins. Creating a stable business is hardly about the initial challenge. It is a persistent thinking that requires positive feedback, expert advice and a lot of hard work. Ncell App Camp is willing to provide all that. It takes new business years to understand the market they are in. Ncell App Camp could be the initial boost that every start-up requires that can make the entire process of creating a stable business, faster.&lt;/p&gt;
+
+&lt;p&gt;Ncell App Camp concluded the Debriefing session addressing queries from the participants. There was active discussion on the themes, expectations and the process of the competition. The event ended just as expected, with positive feedback and more importantly enthusiastic participants and satisfied organizers, both the groups equally excited about the prospects of the next five months. Ncell App Camp 2015 is here to inspire.&lt;/p&gt;
+
+&lt;p&gt;Some of the moments of the session can be found &lt;a href=&quot;https://www.facebook.com/media/set/?set=a.1604740916456094.1073741837.1443474549249399&amp;amp;type=3&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/NcellAppCamp_Debriefing_session_2015/&quot;&gt;Say Hello to Ncell App Camp 2015&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 28, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Young Innovations weekly #3]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-03/" />
+  <id>http://blog.yipl.com.np/younginnovations-weekly-03</id>
+  <updated>2015-08-21T00:00:00-00:00</updated>
+  <published>2015-08-21T00:00:00+05:45</published>
+  
+  <author>
+    <name>Rakeeb Rajbhandari</name>
+    <uri>http://blog.yipl.com.np</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;We recently made our smoke testing library &lt;a href=&quot;http://bit.ly/1EBJyYL&quot;&gt;Hookah&lt;/a&gt; open source, you can get it as a composer package from &lt;a href=&quot;http://bit.ly/1LiDppx&quot;&gt;packagist&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Hookah is a small &lt;a href=&quot;http://bit.ly/1huFGnR&quot;&gt;smoke testing&lt;/a&gt; command line library for any web application. As it is just a sanity check, it checks if the given URL returns back the right response code, and body is not empty.&lt;/p&gt;
+
+&lt;p&gt;This week’s Knowledge Sharing Wednesday featured Achyut Devkota, System Engineer, who presented on VoiceInn, a Telephony Application and it’s architecture. VoiceInn is an interactive telephony solution with capabilities to take surveys from callers, have noticeboards built in and user support. To know more about VoiceInn you can view Achyut’s &lt;a href=&quot;https://speakerdeck.com/achyutdev/telephony-application-voiceinn-and-its-architecture&quot;&gt;presentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/weekly03/Achyut_VoiceInn_KSW.jpg&quot; alt=&quot;Presentation on VoiceInn by Achyut&quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;We also received dates from Geshan Manadhar all the way from Dubai :) Thank you &lt;a href=&quot;http://geshan.com.np&quot;&gt;Geshan&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/weekly03/Chocolates.jpg&quot; alt=&quot;Double dating ;)&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is our third weekly at YIPL which has links to blogs, posts, articles that YIPLites read to learn about technology, tips and tricks, other’s experiences (major highlight for Android users, Android 6.0 had it’s formal annoucement this week). Now these links are here for everyone.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://venturebeat.com/2015/08/19/11-startups-you-should-know-from-y-combinators-summer-2015-demo-day/&quot;&gt;11 startups you should know from y combinator’s summer 2015 demo day - venturebeat - business - by ken yeung&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://wheredatapp.com/blog/2015/8/17/sdks-and-apis-every-android-developer-should-know&quot;&gt;7 sdk’s and api’s every android developer should know — wheredat&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://engineering.linkedin.com/security/open-source-tool-improve-android-application-security&quot;&gt;an open source tool to improve android application security - linkedin engineering&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://androidbackstage.blogspot.com/2015/08/episode-33-permission-mission.html&quot;&gt;android developers backstage: episode 33: permission mission&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://android-developers.blogspot.com/2015/08/m-developer-preview-3-final-sdk.html&quot;&gt;android marshmallow (the android 6.0 sdk)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tools.android.com/recent/androidstudio14preview1incanarychannel&quot;&gt;android studio 1.4 preview 1 with a new theme editor(and more)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/ragunathjawahar/android-saripaar?utm_source=Android Weekly&quot;&gt;android-saripaar: form validation library&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/JorgeCastilloPrz/AndroidFillableLoaders?utm_source=Android Weekly&quot;&gt;androidfillableloaders&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://android-developers.blogspot.com/2015/08/barcode-detection-in-google-play.html&quot;&gt;barcode detection api in google play services&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/@robin.verlangen/billions-of-request-per-day-meet-go-1-5-362bfefa0911&quot;&gt;billions of request per day meet go 1.5 — medium&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.binpress.com/blog/2015/02/17/podcast-28-solomon-hykes-docker/&quot;&gt;binpress podcast episode 28: solomon hykes of docker – binpress&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.invisionapp.com/new-features/39/boards-design-collaboration-reimagined&quot;&gt;boards – design collaboration reimagined - invision&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/&quot;&gt;bootstrap 4 alpha · bootstrap blog&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.vmdoh.com/blog/building-drupal-8-website-composer&quot;&gt;building a drupal 8 website with composer - vm(doh)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.endpoint.com/2015/08/coding-style-guides-across-languages.html&quot;&gt;coding style guides across languages - end point blog&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.codinghorror.com/computer-workstation-ergonomics/&quot;&gt;computer workstation ergonomics&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://blogs.adobe.com/dreamweaver/2015/08/create-a-text-filling-with-water-effect.html&quot;&gt;create text filling with water effect : adobe dreamweaver team blog&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://rominirani.com/2015/08/15/docker-toolbox-setup-windows/?mkt_tok=3RkMMJWWfF9wsRonuqTMZKXonjHpfsX57uUsUaa3lMI/0ER3fOvrPUfGjI4ATsVhI+SLDwEYGJlv6SgFQ7LMMaZq1rgMXBk=&quot;&gt;docker toolbox setup – windows - iromin&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.chenhuijing.com/blog/drupal-101-theming-with-gulp/&quot;&gt;drupal 101: theming drupal 7 with gulp&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://fragmentedpodcast.com/episodes/14/?utm_source=Android Weekly&quot;&gt;effective java for android developers : item 1 - (fragmented podcast)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://phptownhall.com/blog/2015/07/22/episode-44-api-madness/&quot;&gt;episode 44: api madness! - php town hall&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/ribot-labs/exploring-google-eddystone-with-the-proximity-beacon-api-bc9256c97e05?mc_cid=5e6ec8b400&quot;&gt;exploring google eddystone with the proximity beacon api — ribot labs — medium&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://android-developers.blogspot.com/2015/08/face-detection-in-google-play-services.html&quot;&gt;face detection api in google play services&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://frogermcs.github.io/flatbuffers-in-android-introdution/?utm_source=Android Weekly&quot;&gt;flatbuffers in android - introduction&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.zivtech.com/blog/goodbye-ruby-hello-nodejs-speeding-sass&quot;&gt;goodbye ruby, hello node.js: speeding up sass - zivtech&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://sdtimes.com/guest-view-five-tips-for-devops-success-in-any-business/&quot;&gt;guest view: five tips for devops success in any business - sd times&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://coding-geek.com/how-databases-work/&quot;&gt;how does a relational database work - coding geek&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.phpclasses.org/blog/post/305-How-to-Make-Better-Reuse-of-PHP-Code-using-Traits-Part-1-Basic-Code-Reuse.html&quot;&gt;how to make better reuse of php code using traits part 1: basic code reuse - php classes blog - php classes&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/keyboardsurfer/idea-live-templates&quot;&gt;idea-live-templates for android&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.symbol.guide/&quot;&gt;improving typography one symbol at a time&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://redcrackle.com//blog/drupal-8/php-inheritance&quot;&gt;inheritance - red crackle&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=_BXf_h8tEes&quot;&gt;introducing project sunroof - youtube&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://slides.com/sebastiansassi/ionic&quot;&gt;ionic by sebastián sassi&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/keen/explorer&quot;&gt;keen/explorer - data visualization&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://laraveldaily.com/laracon-us-2015-recap-main-takeaways/&quot;&gt;laracon us 2015 recap - main takeaways - laravel daily&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/&quot;&gt;laying out a flexible future for web design with flexbox – smashing magazine&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/hotchemi/awesome-android-testing?utm_source=Android Weekly&quot;&gt;list of android testing libraries&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://murze.be/2015/08/making-string-concatenation-readable-in-php/&quot;&gt;making string concatenation readable in php - murze.be&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/dydx/alpine-nginx-php-mariadb&quot;&gt;multi-container docker based setup for working with php apps, based off of alpine linux&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://developers.google.com/nearby/?hl=en&quot;&gt;nearby api -  google developers&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://developers.google.com/speed/pagespeed/insights/&quot;&gt;pagespeed insights&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/polarr-plugin-edit-any-ph/fhggacdeldojnpbgknpipalghlkbcimk&quot;&gt;polarr plugin: edit any photo on the internet - chrome web store&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/@granze/polymer-unit-testing-d6a69910dc31&quot;&gt;polymer unit testing — medium&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.codinghorror.com/programmers-dont-read-books-but-you-should/&quot;&gt;programmers don’t read books – but you should&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/@tomastrajan/proper-testing-of-angular-js-applications-with-es6-modules-8cf31113873f&quot;&gt;proper testing of angular js applications with es6 modules — medium&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://osvaldas.info/real-time-search-in-javascript&quot;&gt;real-time search in javascript — osvaldas valutis&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.abc.net.au/news/2015-08-18/robotronica-natural-language-programming-next-step-home-robots/6686974?site=science/news&quot;&gt;robotronica: natural language programming next step in bringing robots into the home, experts say - abc news (australian broadcasting corporation)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://serversforhackers.com/?utm_source=Servers for Hackers&quot;&gt;servers for hackers&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://my-inner-voice.blogspot.ae/2015/08/why-docker-is-winner-versus-vms.html?mkt_tok=3RkMMJWWfF9wsRonuqTMZKXonjHpfsX57uUsUaa3lMI/0ER3fOvrPUfGjI4ATsVhI+SLDwEYGJlv6SgFQ7LMMaZq1rgMXBk=&quot;&gt;the memories of a product manager: why docker is a winner versus vms&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://knackforge.com/blog/sasikumar/translation-drupal-7-how-it-works&quot;&gt;translation in drupal 7 : how it works? - knackforge, featured drupal services provider, india&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2015/08/understanding-critical-css/&quot;&gt;understanding critical css – smashing magazine&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://wake.io/&quot;&gt;wake: design sharing for teams&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.jaceklaskowski.pl/2015/08/17/why-docker-writing-docs-using-jekyll.html?mkt_tok=3RkMMJWWfF9wsRonuqTMZKXonjHpfsX57uUsUaa3lMI/0ER3fOvrPUfGjI4ATsVhI+SLDwEYGJlv6SgFQ7LMMaZq1rgMXBk=&quot;&gt;why docker - writing docs using jekyll - mastering fp and oo with scala&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/innoarchitech-innovation-architecture-technology/why-software-development-time-estimation-doesn-t-work-alternatives-423b9a5c4219&quot;&gt;why software development time estimation doesn’t work &lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/younginnovations-weekly-03/&quot;&gt;Young Innovations weekly #3&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 21, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Young Innovations weekly #2]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-02/" />
+  <id>http://blog.yipl.com.np/younginnovations-weekly-02</id>
+  <updated>2015-08-14T00:00:00-00:00</updated>
+  <published>2015-08-14T00:00:00+05:45</published>
+  
+  <author>
+    <name>Prawesh Shrestha</name>
+    <uri>http://blog.yipl.com.np</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;This week Nirajan presented on what Gulp during our Knowledge Sharing Wednesday. Gulp is about automating tasks such as minification and copying of JavaScript files, static images etc. To know more about the Gulp, read Nirajan’s blog &lt;a href=&quot;https://medium.com/@nirazanbasnet/gulp-workflow-fee6e4bf8866?source=latest&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/weekly02/Nirajan_Gulp_KSW.jpg&quot; alt=&quot;Presentation on Gulp by Nirajan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is our second weekly at YIPL which has links to blogs, posts, articles that YIPLites read to learn about technology, tips and tricks, other’s experiences. Now these links are here for everyone.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Enjoy! the articles which might bring smile in your face as you continue solving the issues that’s been bugging you. Happy Weekend!!&lt;/p&gt;
+
+&lt;h4 id=&quot;links&quot;&gt;Links:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.entrepreneur.com/slideshow/242954&quot;&gt;10 promising startups poised to change the way you live, work and play&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://designmodo.com/css3-jquery-loading-animations/&quot;&gt;16 css3 and jquery loading animations solutions - designmodo&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.advomatic.com/blog/decoupling-drupal-without-losing-your-head-part-2&quot;&gt;advomatic - decoupling drupal without losing your head — part 2&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.designernews.co/stories/54064-ama-jason-fried-ceo-and-cofounder-of-basecamp-formerly-37signals&quot;&gt;ama: jason fried, ceo and co-founder of basecamp (formerly 37signals) – designer news&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/anirudh24seven/material-guidelines&quot;&gt;anirudh24seven/material-guidelines&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://blog.docker.com/2015/08/docker-toolbox/&quot;&gt;announcing docker toolbox&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.webkit.org/blog/3632/introducing-backdrop-filters/&quot;&gt;backdrop filters for background blur effect&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.sitepoint.com/bdd-in-laravel-getting-started-with-behat-and-phpspec/&quot;&gt;bdd in laravel: getting started with behat and phpspec&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.brandonsavage.net/stop-returning-arrays-use-objects-instead/&quot;&gt;brandonsavage.net stop returning arrays (use objects instead) - brandonsavage.net&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://changelog.com/110/&quot;&gt;capistrano and burnout with lee hambley - maintainer of capistrano - podcast&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/charginghawk/drupal-performance-resources&quot;&gt;charginghawk/drupal-performance-resources · github&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://ifttt.com/&quot;&gt;connect the apps you love - ifttt&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://redcrackle.com//blog/headless/drupal-7-simplest-site&quot;&gt;creating the simplest headless drupal 7 site - red crackle&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://drupalwatchdog.com/blog/2015/8/drupal-should-use-external-front-end-framework&quot;&gt;drupal should use an external front end framework - drupal watchdog&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://phptownhall.com/blog/2015/07/22/episode-44-api-madness/&quot;&gt;episode 44: api madness! - php town hall&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://fontcdn.org/&quot;&gt;fontcdn: a search tool for google web fonts&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://fullstackradio.com/episodes/20/&quot;&gt;full stack radio - 20: ian landsman - code is not a business&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://fullstackradio.com/episodes/23/&quot;&gt;full stack radio - 23: chris hunt - how github does remote work&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.zivtech.com/blog/goodbye-ruby-hello-nodejs-speeding-sass&quot;&gt;goodbye ruby, hello node.js: speeding up sass - zivtech&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://scotch.io/bar-talk/hands-on-with-githubs-new-text-editor-atom&quot;&gt;hands-on with github’s new text editor atom - scotch&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.punchkick.com/blog/2015/08/07/how-apple-has-shaped-the-user-interface&quot;&gt;how apple has shaped the user interface&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://getlevelten.com/blog/kristin-brinner/how-use-views-rss-create-mailchimp-rss-email-campaign&quot;&gt;how to use views rss to create a mailchimp rss email campaign - levelten dallas, tx&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://geshan.com.np/blog/2015/08/importance-of-logging-in-your-applications/&quot;&gt;if dog is a man’s best friend, log is a developer’s best friend&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=nh9EARpk-dc&quot;&gt;ionic framework demo - matt stauffer - youtube&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/&quot;&gt;javascript debugging tips and tricks - zsolt nagy&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://thehackernews.com/2015/08/kali-linux-2.0-download.html&quot;&gt;kali linux 2.0 released — download most powerful penetration testing platform&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://speakerdeck.com/mattstauffer/leveraging-laravel-launching-side-projects-quickly-with-laravel&quot;&gt;leveraging laravel: launching side projects quickly with laravel // speaker deck&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://makandracards.com/makandra/1447-list-sizes-of-mysql-databases&quot;&gt;list sizes of mysql databases - makandropedia&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/lucadegasperi/oauth2-server-laravel&quot;&gt;lucadegasperi/oauth2-server-laravel&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://getmagneto.com/&quot;&gt;magneto - test automation for android&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.codeschool.com/blog/2015/07/01/7-ways-to-learn-code-more-effectively/&quot;&gt;make progress learning with these 7 tips&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://pocketnow.com/2015/08/11/mobile-payment-retailer-support&quot;&gt;mobile-payment retail troublemaker finally learns to embrace apple pay, google wallet - pocketnow&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/dbcli/mycli&quot;&gt;mycli - a terminal client for mysql with autocompletion and syntax highlighting&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://blog.docker.com/2015/07/new-apt-and-yum-repos/&quot;&gt;new apt and yum repos - get latest docker&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://internetdevels.com/web-developer-tools-for-drupal-7&quot;&gt;overview of web developer tools for drupal 7 — internetdevels official blog&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://gnugat.github.io/2015/08/03/phpspec.html&quot;&gt;phpspec introduction&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/dbcli/pgcli&quot;&gt;postgres cli with autocompletion and syntax highlighting&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.getify.com/promises-part-1/&quot;&gt;promises: the sync problem (part 1) - getiblog&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/&quot;&gt;react.js introduction for people who know just enough jquery to get by · react for designers&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html&quot;&gt;relay technical preview - react&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://fourword.fourkitchens.com/article/rest-easy-part-2-sub-property-boogaloo&quot;&gt;rest easy part 2: sub property boogaloo - fourword: the four kitchens blog&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://coderlifestyle.com/software-development-speed-vs-quality-a-tech-shop-conundrum/&quot;&gt;software development speed vs. quality: a tech shop conundrum - coder lifestyle&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.wunderkraut.com/blog/stylus-with-gulp-a-fantastically-fast-front-end-workflow/2015-08-11&quot;&gt;stylus with gulp: a fantastically fast front-end workflow. - wunderkraut&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://insready.com/en/blog/testing-new-drupal-8-installation-2-docker-commands&quot;&gt;testing a new drupal 8 installation with 2 docker commands - insready&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://inviqa.com/blog/testing-myths-debunked/&quot;&gt;testing myths debunked&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.8thlight.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html&quot;&gt;the single responsibility principle - 8th light&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://designmodo.com/10-mistakes-website/&quot;&gt;top 10 mistakes that make your website look unprofessional - designmodo&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://blog.logentries.com/2015/01/unit-testing-with-karma-and-jasmine-for-angularjs/?utm_content=18210942&quot;&gt;unit testing with karma and jasmine for angularjs&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://engblog.nextdoor.com/2015/08/05/dynamic-logging/&quot;&gt;what to log in production environments - nextdoor engineering&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://css-tricks.com/use-target_blank/&quot;&gt;when to use target=”_blank” - css-tricks&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://insights.dice.com/2015/03/19/why-i-choose-postgresql-over-mysqlmariadb/&quot;&gt;why i choose postgresql over mysql/mariadb - dice insights&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.lullabot.com/articles/write-unit-tests-for-your-drupal-7-code-part-1&quot;&gt;write unit tests for your drupal 7 code (part 1) - lullabot&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.lullabot.com/articles/write-unit-tests-for-your-drupal-7-code-part-2&quot;&gt;write unit tests for your drupal 7 code (part 2) - lullabot&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/@dylanbr/writing-highly-readable-code-94da94d5d636&quot;&gt;writing highly readable code — medium&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/younginnovations-weekly-02/&quot;&gt;Young Innovations weekly #2&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 14, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[A short documentary on YoungInnovations #tbt]]></title>
   <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/short-documentary-youngInnovations-tbt/" />
   <id>http://blog.yipl.com.np/short-documentary-youngInnovations-tbt</id>
   <updated>2015-08-13T00:00:00-00:00</updated>
-  <published>2015-08-13T00:00:00+04:00</published>
+  <published>2015-08-13T00:00:00+05:45</published>
   
   <author>
     <name>Prawesh Shrestha</name>
@@ -54,7 +669,7 @@
   <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-01/" />
   <id>http://blog.yipl.com.np/younginnovations-weekly-01</id>
   <updated>2015-08-07T00:00:00-00:00</updated>
-  <published>2015-08-07T00:00:00+04:00</published>
+  <published>2015-08-07T00:00:00+05:45</published>
   
   <author>
     <name>Sweta Shrestha</name>
