@@ -6,7 +6,7 @@ modified: 2015-09-01
 tags: [ css, quantity queries]
 ---
 
-Often in a project,the presentation change of our content/layout is a result of requirements change. Here at YIPL, we have been using media queries to change our styles as per the user device. But whenever we want to present our layout differently depending on the number of blocks, we are always thinking of what can be the best option. So, this is where quantity queries appear as a solution to this problem.
+Often in a project,the presentation change of our content/layout is a result of requirements change. Here at YIPL, we have been using media queries to change our styles as per the user device. But whenever we want to present our layout differently depending on the number of blocks, we are always thinking of what can be the best option. This is where quantity queries appear as a solution to this problem.
 
 ![Quantity Queries](/images/quantity-queries/qq.jpg)
 
