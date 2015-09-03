@@ -24,7 +24,7 @@ rakeeb_rajbhandari:
   avatar: bio-photo.jpg
   twitter: RakeebJH11
   google:
-    plus: RakeebRajbhandari  
+    plus: RakeebRajbhandari
   stackoverflow: 2247689/rakeeb-rajbhandari
   github: rakeeb11
 
@@ -45,3 +45,9 @@ santosh_neupane:
   bio: "System Admin"
   avatar: default-thumb.png
   github: santosh_neupane
+
+sachit:
+  name: Sachit Bir Singh Dongol
+  bio: "Jr. Software Engineer"
+  avatar: default_sbs.png
+  github: sachit-singh
