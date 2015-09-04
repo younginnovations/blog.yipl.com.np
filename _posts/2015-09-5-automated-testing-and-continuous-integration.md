@@ -8,7 +8,11 @@ tags: [ phpunit, unit tests, automated testing, continuous integration, shippabl
 
 Well I'm going to [present](http://sachit-singh.github.io/kswsbs/) today at the [14th PHP developers meetup](https://developers-nepal.github.io/php/meetups/05-Sep-2015/). I will be talking about [Automated](https://en.wikipedia.org/wiki/Test_automation) [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing) and [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration). I am going to be explaining about why testing, in general is important, the features of unit tests and why CI is cool.
 
-#### Automated tests with phpunit is a puzzle, CI is the missing piece.
+#### Automated tests with phpunit is a puzzle, CI is the missing piece
+
+![Automated tests with phpunit is a puzzle, CI is the missing piece](/images/testing-ci/slide.png)
+
+<!--more-->
 
 Automated unit test simply put is code testing another piece of code. Unit testing focuses on testing a small independent working part of the code which is generally a method/function. Unit tests need to be fast, offline, not dependent on database and test only one thing. [Mocking](https://en.wikipedia.org/wiki/Mock_object) other dependencies is a great way to unit test the class to be tested. To a beginner understanding this is as difficult as solving a puzzle.
 
