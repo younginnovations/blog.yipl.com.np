@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">YoungInnovations Blog</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2015-09-04T14:06:49+05:45</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://blog.yipl.com.np/feed.xml" />
+<link rel="alternate" type="text/html" href="http://blog.yipl.com.np" />
+<updated>2015-09-04T16:04:07+05:45</updated>
+<id>http://blog.yipl.com.np/</id>
 <author>
   <name>YoungInnovations Blog</name>
-  <uri>http://localhost:4000/</uri>
+  <uri>http://blog.yipl.com.np/</uri>
   <email>info@yipl.com.np</email>
 </author>
 
@@ -16,15 +16,62 @@
   
 
 <entry>
+  <title type="html"><![CDATA[Automated Testing with PHPUnit is a puzzle, Continuous Integration is the missing Piece.]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/automated-testing-and-continuous-integration/" />
+  <id>http://blog.yipl.com.np/automated-testing-and-continuous-integration</id>
+  <updated>2015-09-5T00:00:00-00:00</updated>
+  <published>2015-09-05T00:00:00+05:45</published>
+  
+  <author>
+    <name>Sachit Bir Singh Dongol</name>
+    <uri>http://blog.yipl.com.np</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;Well I’m going to &lt;a href=&quot;http://sachit-singh.github.io/kswsbs/&quot;&gt;present&lt;/a&gt; today at the &lt;a href=&quot;https://developers-nepal.github.io/php/meetups/05-Sep-2015/&quot;&gt;14th PHP developers meetup&lt;/a&gt;. I will be talking about &lt;a href=&quot;https://en.wikipedia.org/wiki/Test_automation&quot;&gt;Automated&lt;/a&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/Unit_testing&quot;&gt;Unit Testing&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Continuous_integration&quot;&gt;Continuous Integration&lt;/a&gt;. I am going to be explaining about why testing, in general is important, the features of unit tests and why CI is cool.&lt;/p&gt;
+
+&lt;h4 id=&quot;automated-tests-with-phpunit-is-a-puzzle-ci-is-the-missing-piece&quot;&gt;Automated tests with phpunit is a puzzle, CI is the missing piece&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/testing-ci/slide.png&quot; alt=&quot;Automated tests with phpunit is a puzzle, CI is the missing piece&quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Automated unit test simply put is code testing another piece of code. Unit testing focuses on testing a small independent working part of the code which is generally a method/function. Unit tests need to be fast, offline, not dependent on database and test only one thing. &lt;a href=&quot;https://en.wikipedia.org/wiki/Mock_object&quot;&gt;Mocking&lt;/a&gt; other dependencies is a great way to unit test the class to be tested. To a beginner understanding this is as difficult as solving a puzzle.&lt;/p&gt;
+
+&lt;p&gt;With Continuous Integration, at every push, all the tests are run that covers the code changes and approves what works, what doesn’t and all the bugs you have in your system from a unit perspective with a fast feedback loop. If your change broke something existing you know it in minutes then you can fix your code and add more tests for the parts you did.&lt;/p&gt;
+
+&lt;p&gt;Moreover continuous integration is a mentality to keep software quality high with having the build green for main branch in a &lt;a href=&quot;https://en.wikipedia.org/wiki/Revision_control&quot;&gt;VCS&lt;/a&gt; at all times. CI goes like a hand in a glove with the issue flow and &lt;a href=&quot;http://geshan.com.np/blog/2014/12/do-you-git-your-code-follow-this-simplified-gitflow-model/&quot;&gt;simplified gitflow&lt;/a&gt; that we follow. I will talk about how we integrated our automated tests with &lt;a href=&quot;https://app.shippable.com/&quot;&gt;Shippable&lt;/a&gt; and the benefits of CI.&lt;/p&gt;
+
+&lt;p&gt;You can check out the slides for my talk at my &lt;a href=&quot;http://sachit-singh.github.io/kswsbs/&quot;&gt;github page&lt;/a&gt; or down below.&lt;/p&gt;
+
+&lt;center&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/hbssZXH906Wdgx&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/bsscht/automated-unit-testing-and-continuous-integration&quot; title=&quot;Automated Unit Testing and Continuous Integration&quot; target=&quot;_blank&quot;&gt;Automated Unit Testing and Continuous Integration&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/bsscht&quot; target=&quot;_blank&quot;&gt;bsscht&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Interested in what you see? Then you can check out the &lt;a href=&quot;https://phpunit.de/manual/current/en/phpunit-book.pdf&quot;&gt;offical documentation&lt;/a&gt; for &lt;a href=&quot;https://phpunit.de/&quot;&gt;PHPUnit&lt;/a&gt; and to learn more about Shippable, they have got a pretty decent &lt;a href=&quot;http://docs.shippable.com/&quot;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Write testable code and readable tests.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/automated-testing-and-continuous-integration/&quot;&gt;Automated Testing with PHPUnit is a puzzle, Continuous Integration is the missing Piece.&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on September 05, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[Young Innovations weekly #5]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/younginnovations-weekly-05/" />
-  <id>http://localhost:4000/younginnovations-weekly-05</id>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-05/" />
+  <id>http://blog.yipl.com.np/younginnovations-weekly-05</id>
   <updated>2015-09-03T00:00:00-00:00</updated>
   <published>2015-09-03T00:00:00+05:45</published>
   
   <author>
     <name>Santosh Neupane</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://blog.yipl.com.np</uri>
     
   </author>
   <content type="html">
@@ -170,7 +217,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/younginnovations-weekly-05/&quot;&gt;Young Innovations weekly #5&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on September 03, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/younginnovations-weekly-05/&quot;&gt;Young Innovations weekly #5&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on September 03, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -179,14 +226,14 @@
 
 <entry>
   <title type="html"><![CDATA[How to integrate hookah smoke tests with Laravel 5]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/how-to-integrate-hookah-laravel/" />
-  <id>http://localhost:4000/how-to-integrate-hookah-laravel</id>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/how-to-integrate-hookah-laravel/" />
+  <id>http://blog.yipl.com.np/how-to-integrate-hookah-laravel</id>
   <updated>2015-08-29T00:00:00-00:00</updated>
   <published>2015-08-29T00:00:00+05:45</published>
   
   <author>
     <name>Geshan Manandhar</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://blog.yipl.com.np</uri>
     
   </author>
   <content type="html">
@@ -207,7 +254,7 @@ how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
   &lt;p&gt;Hope you enjoy some testing Laravel with hookah.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/how-to-integrate-hookah-laravel/&quot;&gt;How to integrate hookah smoke tests with Laravel 5&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 29, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/how-to-integrate-hookah-laravel/&quot;&gt;How to integrate hookah smoke tests with Laravel 5&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 29, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -216,14 +263,14 @@ how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Young Innovations weekly #4]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/younginnovations-weekly-04/" />
-  <id>http://localhost:4000/younginnovations-weekly-04</id>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-04/" />
+  <id>http://blog.yipl.com.np/younginnovations-weekly-04</id>
   <updated>2015-08-28T00:00:00-00:00</updated>
   <published>2015-08-28T00:00:00+05:45</published>
   
   <author>
     <name>Manoj Byanjankar</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://blog.yipl.com.np</uri>
     
   </author>
   <content type="html">
@@ -367,7 +414,7 @@ how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/younginnovations-weekly-04/&quot;&gt;Young Innovations weekly #4&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 28, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/younginnovations-weekly-04/&quot;&gt;Young Innovations weekly #4&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 28, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -376,14 +423,14 @@ how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Say Hello to Ncell App Camp 2015]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/NcellAppCamp_Debriefing_session_2015/" />
-  <id>http://localhost:4000/NcellAppCamp_Debriefing_session_2015</id>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/NcellAppCamp_Debriefing_session_2015/" />
+  <id>http://blog.yipl.com.np/NcellAppCamp_Debriefing_session_2015</id>
   <updated>2015-08-28T00:00:00-00:00</updated>
   <published>2015-08-28T00:00:00+05:45</published>
   
   <author>
     <name>Anubhuti Poudyal</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://blog.yipl.com.np</uri>
     
   </author>
   <content type="html">
@@ -425,7 +472,7 @@ how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
 
 &lt;p&gt;Some of the moments of the session can be found &lt;a href=&quot;https://www.facebook.com/media/set/?set=a.1604740916456094.1073741837.1443474549249399&amp;amp;type=3&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/NcellAppCamp_Debriefing_session_2015/&quot;&gt;Say Hello to Ncell App Camp 2015&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 28, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/NcellAppCamp_Debriefing_session_2015/&quot;&gt;Say Hello to Ncell App Camp 2015&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 28, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -434,14 +481,14 @@ how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Quantity Queries]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/quantityqueries/" />
-  <id>http://localhost:4000/quantityqueries</id>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/quantityqueries/" />
+  <id>http://blog.yipl.com.np/quantityqueries</id>
   <updated>2015-09-01T00:00:00-00:00</updated>
   <published>2015-08-27T00:00:00+05:45</published>
   
   <author>
     <name>Sweta Shrestha</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://blog.yipl.com.np</uri>
     
   </author>
   <content type="html">
@@ -538,7 +585,7 @@ how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
 
 &lt;p&gt;Happy Counting with Quantity Queries :)&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/quantityqueries/&quot;&gt;Quantity Queries&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 27, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/quantityqueries/&quot;&gt;Quantity Queries&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 27, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -547,14 +594,14 @@ how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Young Innovations weekly #3]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/younginnovations-weekly-03/" />
-  <id>http://localhost:4000/younginnovations-weekly-03</id>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-03/" />
+  <id>http://blog.yipl.com.np/younginnovations-weekly-03</id>
   <updated>2015-08-21T00:00:00-00:00</updated>
   <published>2015-08-21T00:00:00+05:45</published>
   
   <author>
     <name>Rakeeb Rajbhandari</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://blog.yipl.com.np</uri>
     
   </author>
   <content type="html">
@@ -739,7 +786,7 @@ how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/younginnovations-weekly-03/&quot;&gt;Young Innovations weekly #3&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 21, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/younginnovations-weekly-03/&quot;&gt;Young Innovations weekly #3&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 21, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -748,14 +795,14 @@ how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Young Innovations weekly #2]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/younginnovations-weekly-02/" />
-  <id>http://localhost:4000/younginnovations-weekly-02</id>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-02/" />
+  <id>http://blog.yipl.com.np/younginnovations-weekly-02</id>
   <updated>2015-08-14T00:00:00-00:00</updated>
   <published>2015-08-14T00:00:00+05:45</published>
   
   <author>
     <name>Prawesh Shrestha</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://blog.yipl.com.np</uri>
     
   </author>
   <content type="html">
@@ -935,7 +982,7 @@ how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/younginnovations-weekly-02/&quot;&gt;Young Innovations weekly #2&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 14, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/younginnovations-weekly-02/&quot;&gt;Young Innovations weekly #2&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 14, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -944,14 +991,14 @@ how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[A short documentary on YoungInnovations #tbt]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/short-documentary-youngInnovations-tbt/" />
-  <id>http://localhost:4000/short-documentary-youngInnovations-tbt</id>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/short-documentary-youngInnovations-tbt/" />
+  <id>http://blog.yipl.com.np/short-documentary-youngInnovations-tbt</id>
   <updated>2015-08-13T00:00:00-00:00</updated>
   <published>2015-08-13T00:00:00+05:45</published>
   
   <author>
     <name>Prawesh Shrestha</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://blog.yipl.com.np</uri>
     
   </author>
   <content type="html">
@@ -969,7 +1016,7 @@ how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
 
 &lt;p&gt;Changes are inevitable. YoungInnovations has changed and will change in future and each of us is working together for the best of each and YoungInnovations.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/short-documentary-youngInnovations-tbt/&quot;&gt;A short documentary on YoungInnovations #tbt&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 13, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/short-documentary-youngInnovations-tbt/&quot;&gt;A short documentary on YoungInnovations #tbt&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 13, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -978,14 +1025,14 @@ how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Young Innovations weekly #1]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/younginnovations-weekly-01/" />
-  <id>http://localhost:4000/younginnovations-weekly-01</id>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-01/" />
+  <id>http://blog.yipl.com.np/younginnovations-weekly-01</id>
   <updated>2015-08-07T00:00:00-00:00</updated>
   <published>2015-08-07T00:00:00+05:45</published>
   
   <author>
     <name>Sweta Shrestha</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://blog.yipl.com.np</uri>
     
   </author>
   <content type="html">
@@ -1138,7 +1185,7 @@ which can benefit a larger tech community.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/younginnovations-weekly-01/&quot;&gt;Young Innovations weekly #1&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 07, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/younginnovations-weekly-01/&quot;&gt;Young Innovations weekly #1&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 07, 2015.&lt;/p&gt;
   </content>
 </entry>
 
