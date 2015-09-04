@@ -51,3 +51,10 @@ sachit:
   bio: "Jr. Software Engineer"
   avatar: sachit-bio-photo.jpg
   github: sachit-singh
+
+sumit_chhetri:
+  name: Sumit Chhetri
+  bio: "Software Engineer"
+  avatar: sumit-avatar.png
+  github: shhetri
+  twitter: shhetri
