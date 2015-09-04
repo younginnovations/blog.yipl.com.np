@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">YoungInnovations Blog</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://blog.yipl.com.np/feed.xml" />
-<link rel="alternate" type="text/html" href="http://blog.yipl.com.np" />
-<updated>2015-08-28T12:05:39+05:45</updated>
-<id>http://blog.yipl.com.np/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2015-09-04T14:06:49+05:45</updated>
+<id>http://localhost:4000/</id>
 <author>
   <name>YoungInnovations Blog</name>
-  <uri>http://blog.yipl.com.np/</uri>
+  <uri>http://localhost:4000/</uri>
   <email>info@yipl.com.np</email>
 </author>
 
@@ -16,15 +16,214 @@
   
 
 <entry>
+  <title type="html"><![CDATA[Young Innovations weekly #5]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/younginnovations-weekly-05/" />
+  <id>http://localhost:4000/younginnovations-weekly-05</id>
+  <updated>2015-09-03T00:00:00-00:00</updated>
+  <published>2015-09-03T00:00:00+05:45</published>
+  
+  <author>
+    <name>Santosh Neupane</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;We have a trend of celebrating Birthday at the end of every month. So, on 31st of August, we celebrated the Birthday of five of us: Prashant Shrestha, Nirajan Basnet, Lunek Suwal, Sachit Bir Singh Dangol, Manoj Byanjankar.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/weekly05/BirthDayBoys.jpg&quot; alt=&quot;Celebration of Birthday&quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;We also had our TT Tournament Final on 2nd September, 2015. Manoj Byanjankar held the first position from men’s category and Pratiksha Rayamajhi held 1st position from women’s category.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/weekly05/TT_Winners.jpg&quot; alt=&quot;Winners of TT Tournament&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This week’s Knowledge Sharing Wednesday featured Manish Singh Gopal, Sr. Software Engineer, who presented on Smoke Testing with &lt;a href=&quot;https://github.com/younginnovations/hookah&quot;&gt;Hookah&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/weekly05/Smoke_Test_with_Hookah.jpg&quot; alt=&quot;KSW Presentation&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This week marked two new faces at YoungInnovations: Umesh Basnet (as an Intern) and Bijaya Pd. Kuikel (as a trainee).&lt;/p&gt;
+
+&lt;p&gt;We also took part on &lt;a href=&quot;https://www.facebook.com/nepal.usembassy/videos/874452215925172/&quot;&gt;TechCamp&lt;/a&gt; held on 1st-3rd September at Hyatt Regency. We participated with our idea “IVR solution for information approach to the aspiring Migrant Workers” with project name &lt;a href=&quot;https://hackpad.com/TechCamp-Nepal-September-1-3-2015-MGUf0B3kw1l&quot;&gt;Mero Awaz&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/weekly05/TechCamp.jpg&quot; alt=&quot;TechCamp&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Today’s weekly features list of links from topics such as gulp, html5, docker, integration testing, material design, automated deployment, etc. Happy weekend everyone :)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://kinsta.com/learn/page-speed/&quot;&gt;a beginner’s guide to website speed optimization by kinsta&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.udacity.com/course/android-design-for-developers--ud862&quot;&gt;android design for developers - udacity&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://lifehacker.com/behind-the-app-the-story-of-pushbullet-1657859652?commerce_insets_disclosure=on&quot;&gt;behind the app: the story of pushbullet&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/bevacqua/dragula&quot;&gt;bevacqua/dragula&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://wulei.ca/blog/build-star-software-development-team&quot;&gt;build a star software development team - wulei info&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://javierbyte.github.io/cohesive-colors/&quot;&gt;cohesive colors - a tool for creating more cohesive color schemes.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blogs.adobe.com/dreamweaver/2015/08/css-vs-svg-styling-checkboxes-and-radio-buttons.html?ref=webdesignernews.com&quot;&gt;css vs svg: styling checkboxes and radio buttons : adobe dreamweaver team blog&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/developers-nepal/Bagaincha/issues/10&quot;&gt;dn:fortnightly 1 · issue &lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://waterlink.github.io/blog/2015/08/31/docker-machine-guide-virtualbox-mac-os-x/&quot;&gt;docker machine guide (virtualbox on mac os x) - waterlink blog&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://docs.meteor.com/&quot;&gt;documentation - meteor&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/facebook-design/emotional-intelligence-in-design-abcd1555b3e7?ref=webdesignernews.com&quot;&gt;emotional intelligence in design — facebook design — medium&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://design.google.com/articles/evolving-the-google-identity/&quot;&gt;evolving the google identity - articles - google design&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://redcrackle.com//blog/drupal-8/free-tutorials-list&quot;&gt;free drupal 8 tutorials – an exhaustive list - red crackle&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://frontify.com/&quot;&gt;frontify - brand guidelines &lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://git-ftp.github.io/git-ftp/&quot;&gt;git-ftp by git-ftp&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mikecr.it/ramblings/how-drupal-7-works-part-1-the-request&quot;&gt;how drupal 7 works, part 1: the request - mike crittenden&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/@lassekristensen_95506/how-to-design-award-winning-websites-6f4d2a71495?ref=webdesignernews.com&quot;&gt;how to design award-winning websites — medium&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://pakastin.github.io/deck-of-cards/&quot;&gt;html5 deck of cards&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/ircmaxell/Stauros&quot;&gt;ircmaxell/stauros&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/javascript-workflow-automation-using-grunt-and-gulp--cms-24586&quot;&gt;javascript workflow automation using grunt and gulp - tuts code tutorial&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/laracasts/Integrated&quot;&gt;laracasts/integrated&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCb9XEo_1SDNR8Ucpbktrg5A&quot;&gt;laracon eu - youtube&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.sitepoint.com/logging-with-monolog-from-devtools-to-slack/&quot;&gt;logging with monolog: from devtools to slack&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Xi5-CyFAoWY&quot;&gt;meet the “father of the cellphone,” dr. martin cooper - youtube&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/@shoobe01/more-agile-more-problems-a5169c0a8b28&quot;&gt;more agile, more problems — medium&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html&quot;&gt;new react developer tools - react&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://engblog.nextdoor.com/2015/08/27/publishing-blog-with-github-circleci-and-google-analytics/&quot;&gt;publishing blogs with github, circleci, and google analytics - nextdoor engineering&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://code.hootsuite.com/rebuilding-the-build/&quot;&gt;rebuilding the build - everything technical (and more) @ hootsuite&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://bit.ly/1N6EOmi&quot;&gt;simple, intuitive integration testing with phpunit&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1C1EC6j9Lt4VujzksjQy9B_4a92mVUNSXVE-z96KxtNo/viewform&quot;&gt;software engineering (requirements to deployment) in nepal - a survey&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://bit.ly/1WZ8SDo&quot;&gt;the best automated deployment tool is… the one that fits your needs - geshan’s blog&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mobiledevices.about.com/od/additionalresources/fl/The-Internet-of-Things-How-this-Applies-to-Mobile.htm?utm_content=20150831&quot;&gt;the internet of things: how this applies to mobile&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.lucidchart.com/techblog/2015/08/31/the-worst-mistake-of-computer-science/&quot;&gt;the worst mistake of computer science - lucidchart&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ponyfoo.com/articles/things-you-can-do-in-plain-javascript&quot;&gt;things you can do with native dom&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://engineering.riotgames.com/news/thinking-inside-container&quot;&gt;thinking inside the container - rg engineering&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.docker.com/products/use-cases&quot;&gt;use cases - docker&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.postmarkapp.com/post/128110582943/why-were-nuts-about-mustachio&quot;&gt;why we’re nuts about mustachio&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/working-with-nginx--cms-23764&quot;&gt;working with nginx - tuts code tutorial&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.onlinekhabar.com/2015/08/317871/&quot;&gt;मोबाइल बैकिङ सेवाप्रति बढ्यो आकर्षण :: onlinekhabar.com&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/younginnovations-weekly-05/&quot;&gt;Young Innovations weekly #5&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on September 03, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[How to integrate hookah smoke tests with Laravel 5]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/how-to-integrate-hookah-laravel/" />
+  <id>http://localhost:4000/how-to-integrate-hookah-laravel</id>
+  <updated>2015-08-29T00:00:00-00:00</updated>
+  <published>2015-08-29T00:00:00+05:45</published>
+  
+  <author>
+    <name>Geshan Manandhar</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;We made our smoke testing library &lt;a href=&quot;https://github.com/younginnovations/hookah&quot;&gt;hookah&lt;/a&gt; open source last week.
+We are currently using it to test some web applications we have built using &lt;a href=&quot;http://laravel.com&quot;&gt;Laravel&lt;/a&gt;. Though Laravel testing is more expressive, hookah is just a smoke testing library which can be used in any framework or even
+language as long as there is a login form with 2 fields and a submit button. In this post I will reveal
+how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hookah-laravel/hookah-laravel-5.png&quot; alt=&quot;Hookah + Laravel = Super smoke tests&quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Rather than just writing how it can be done, I have put up a demo on github with all the steps in relevant detail.&lt;/p&gt;
+
+&lt;p&gt;You can find the steps to integrate the hookah smote testing library with Laravel in the github repository &lt;a href=&quot;https://github.com/younginnovations/hookah-laravel/blob/master/readme.md&quot;&gt;read me&lt;/a&gt;. If you want to look at the code you can check the &lt;a href=&quot;https://github.com/younginnovations/hookah-laravel/pull/1&quot;&gt;pull request&lt;/a&gt; that is added on top of a basic Laravel 5 installation that just has the authentication working.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Hope you enjoy some testing Laravel with hookah.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/how-to-integrate-hookah-laravel/&quot;&gt;How to integrate hookah smoke tests with Laravel 5&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 29, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[Young Innovations weekly #4]]></title>
-  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-04/" />
-  <id>http://blog.yipl.com.np/younginnovations-weekly-04</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/younginnovations-weekly-04/" />
+  <id>http://localhost:4000/younginnovations-weekly-04</id>
   <updated>2015-08-28T00:00:00-00:00</updated>
   <published>2015-08-28T00:00:00+05:45</published>
   
   <author>
     <name>Manoj Byanjankar</name>
-    <uri>http://blog.yipl.com.np</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -168,7 +367,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/younginnovations-weekly-04/&quot;&gt;Young Innovations weekly #4&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 28, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/younginnovations-weekly-04/&quot;&gt;Young Innovations weekly #4&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 28, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -177,14 +376,14 @@
 
 <entry>
   <title type="html"><![CDATA[Say Hello to Ncell App Camp 2015]]></title>
-  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/NcellAppCamp_Debriefing_session_2015/" />
-  <id>http://blog.yipl.com.np/NcellAppCamp_Debriefing_session_2015</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/NcellAppCamp_Debriefing_session_2015/" />
+  <id>http://localhost:4000/NcellAppCamp_Debriefing_session_2015</id>
   <updated>2015-08-28T00:00:00-00:00</updated>
   <published>2015-08-28T00:00:00+05:45</published>
   
   <author>
     <name>Anubhuti Poudyal</name>
-    <uri>http://blog.yipl.com.np</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -226,7 +425,120 @@
 
 &lt;p&gt;Some of the moments of the session can be found &lt;a href=&quot;https://www.facebook.com/media/set/?set=a.1604740916456094.1073741837.1443474549249399&amp;amp;type=3&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/NcellAppCamp_Debriefing_session_2015/&quot;&gt;Say Hello to Ncell App Camp 2015&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 28, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/NcellAppCamp_Debriefing_session_2015/&quot;&gt;Say Hello to Ncell App Camp 2015&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 28, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Quantity Queries]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/quantityqueries/" />
+  <id>http://localhost:4000/quantityqueries</id>
+  <updated>2015-09-01T00:00:00-00:00</updated>
+  <published>2015-08-27T00:00:00+05:45</published>
+  
+  <author>
+    <name>Sweta Shrestha</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;Often in a project,the presentation change of our content/layout is a result of requirements change. Here at YIPL, we have been using media queries to change our styles as per the user device. But whenever we want to present our layout differently depending on the number of blocks, we are always thinking of what can be the best option. This is where quantity queries appear as a solution to this problem.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/quantity-queries/qq.jpg&quot; alt=&quot;Quantity Queries&quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h3 id=&quot;what-is-quantity-queries&quot;&gt;What is Quantity Queries?&lt;/h3&gt;
+
+&lt;p&gt;Quantity Queries are complex CSS selectors that allow styles to be applied to elements based on the number of siblings.&lt;/p&gt;
+
+&lt;h3 id=&quot;where-is-it-used&quot;&gt;Where is it used?&lt;/h3&gt;
+
+&lt;p&gt;We do have dynamic number of siblings and we need to style them differently based on the total count of siblings. This can undergo through dynamic addition or subtraction of elements. Yes, we can use media queries and javascript workarounds. But, if css can alone deal with this then why do we need javascript? We can just be creative with css selectors and apply the styles.&lt;/p&gt;
+
+&lt;h3 id=&quot;example-of-quantity-query&quot;&gt;Example of Quantity Query&lt;/h3&gt;
+
+&lt;p&gt;Using css selectors like nth-last-child(), last-child and ~, we can craft selectors that match our requirements.&lt;/p&gt;
+
+&lt;p&gt;Here, we are using the nth-* formula to manage the calculation.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;at-least&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;ul&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;li&lt;/span&gt;&lt;span class=&quot;nd&quot;&gt;:nth-last-child&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;),&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;ul&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;li&lt;/span&gt;&lt;span class=&quot;nd&quot;&gt;:nth-last-child&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;~&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;li&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+ &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;styles&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;goes&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;here&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;The above code selects:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;A list item (li) which is the fifth,sixth, seventh etc. sibling in a collection of list item siblings when counted backwards from the end of that collection (:nth-last-child(n+5)); and&lt;/li&gt;
+  &lt;li&gt;Any list item (li) siblings that follow the one(s) selected above (~).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The magic is in the formula: n+5.&lt;/p&gt;
+
+&lt;p&gt;We can think of it as simply adding the multiplier to 5: 0+5 (5), 1+5 (6), 2+5 (7), etc.&lt;/p&gt;
+
+&lt;p&gt;Now count from the end and then select that and everything that follows and you get a “more than or equal to” count based on the number (5 in this case, but again you can swap it out). Brilliant!&lt;/p&gt;
+
+&lt;p&gt;This code doesn’t work if the number of siblings is less than 5. It must be “at-least” 5(n).&lt;/p&gt;
+
+&lt;p data-height=&quot;268&quot; data-theme-id=&quot;15232&quot; data-slug-hash=&quot;XbwKQV&quot; data-default-tab=&quot;result&quot; data-user=&quot;Yipl-Frontenders&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/Yipl-Frontenders/pen/XbwKQV/&quot;&gt;XbwKQV&lt;/a&gt; by Yipl-Frontenders-Snippets (&lt;a href=&quot;http://codepen.io/Yipl-Frontenders&quot;&gt;@Yipl-Frontenders&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;. &lt;/p&gt;
+
+&lt;script async=&quot;async&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt; &lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;at-most&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;ul&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;li&lt;/span&gt;&lt;span class=&quot;nd&quot;&gt;:nth-last-child&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;-n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;nd&quot;&gt;:first-child&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;ul&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;li&lt;/span&gt;&lt;span class=&quot;nd&quot;&gt;:nth-last-child&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;-n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;nd&quot;&gt;:first-child&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;~&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;li&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+ &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;styles&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;goes&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;here&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;This one is largely the same as the “more than” example, but the multiplier is reversed (with the minus sign) which means the count runs backward: 0+5 (5), -1+5 (4), -2+5 (3), and so on.&lt;/p&gt;
+
+&lt;p data-height=&quot;268&quot; data-theme-id=&quot;0&quot; data-slug-hash=&quot;aOrmbj&quot; data-default-tab=&quot;result&quot; data-user=&quot;Yipl-Frontenders&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/Yipl-Frontenders/pen/aOrmbj/&quot;&gt;aOrmbj&lt;/a&gt; by Yipl-Frontenders-Snippets (&lt;a href=&quot;http://codepen.io/Yipl-Frontenders&quot;&gt;@Yipl-Frontenders&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;. &lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt; &lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;in-between&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;ul&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;li&lt;/span&gt;&lt;span class=&quot;nd&quot;&gt;:nth-last-child&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;nd&quot;&gt;:nth-last-child&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;-n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;nd&quot;&gt;:first-child&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;ul&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;li&lt;/span&gt;&lt;span class=&quot;nd&quot;&gt;:nth-last-child&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;nd&quot;&gt;:nth-last-child&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;-n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;nd&quot;&gt;:first-child&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;~&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;li&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+ &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;styles&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;goes&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;here&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;…&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;This one is for the “in-between” case. The above code is for the siblings between 5 and 10.&lt;/p&gt;
+
+&lt;p data-height=&quot;268&quot; data-theme-id=&quot;0&quot; data-slug-hash=&quot;ZGNpYa&quot; data-default-tab=&quot;result&quot; data-user=&quot;Yipl-Frontenders&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/Yipl-Frontenders/pen/ZGNpYa/&quot;&gt;ZGNpYa&lt;/a&gt; by Yipl-Frontenders-Snippets (&lt;a href=&quot;http://codepen.io/Yipl-Frontenders&quot;&gt;@Yipl-Frontenders&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;. &lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt; &lt;/script&gt;
+
+&lt;h3 id=&quot;solution-to-writing-quantity-queries&quot;&gt;Solution to writing Quantity Queries&lt;/h3&gt;
+
+&lt;p&gt;These queries can be a bit difficult to write. SO, there is a tool called &lt;a href=&quot;http://quantityqueries.com/&quot;&gt;QuantityQueries.com&lt;/a&gt; to help construct and demonstrate quantity queries.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/quantity-queries/qq-screenshot.jpg&quot; alt=&quot;Quantity Queries&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;now-with-sass&quot;&gt;Now with SASS&lt;/h3&gt;
+
+&lt;p&gt;Daniel Guillan has &lt;a href=&quot;https://github.com/danielguillan/quantity-queries&quot;&gt;ported this functionality (and more) to SASS&lt;/a&gt; using a handful of really straightforward mixins. Here’s a demo:&lt;/p&gt;
+
+&lt;p data-height=&quot;268&quot; data-theme-id=&quot;0&quot; data-slug-hash=&quot;GgBOxm&quot; data-default-tab=&quot;result&quot; data-user=&quot;danielguillan&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/danielguillan/pen/GgBOxm/&quot;&gt;Quanity Queries Sass mixins demo&lt;/a&gt; by Daniel Guillan (&lt;a href=&quot;http://codepen.io/danielguillan&quot;&gt;@danielguillan&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;. &lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt; &lt;/script&gt;
+
+&lt;h3 id=&quot;does-quantity-queries-support-all-browsers&quot;&gt;Does Quantity Queries support all browsers?&lt;/h3&gt;
+
+&lt;p&gt;Quantity Queries are constructed using modern CSS properties to perform the selection. They will work in all modern browsers. Selectors such as nth-last-child(), ~ and last-child were introduced in CSS3, and first-child was introduced by CSS2.1. If you absolutely have to support legacy browsers, you can use &lt;a href=&quot;http://selectivizr.com&quot;&gt;Selectivizr&lt;/a&gt; and &lt;a href=&quot;http://modernizr.com&quot;&gt;Modernizr&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Happy Counting with Quantity Queries :)&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/quantityqueries/&quot;&gt;Quantity Queries&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 27, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -235,14 +547,14 @@
 
 <entry>
   <title type="html"><![CDATA[Young Innovations weekly #3]]></title>
-  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-03/" />
-  <id>http://blog.yipl.com.np/younginnovations-weekly-03</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/younginnovations-weekly-03/" />
+  <id>http://localhost:4000/younginnovations-weekly-03</id>
   <updated>2015-08-21T00:00:00-00:00</updated>
   <published>2015-08-21T00:00:00+05:45</published>
   
   <author>
     <name>Rakeeb Rajbhandari</name>
-    <uri>http://blog.yipl.com.np</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -427,7 +739,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/younginnovations-weekly-03/&quot;&gt;Young Innovations weekly #3&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 21, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/younginnovations-weekly-03/&quot;&gt;Young Innovations weekly #3&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 21, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -436,14 +748,14 @@
 
 <entry>
   <title type="html"><![CDATA[Young Innovations weekly #2]]></title>
-  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-02/" />
-  <id>http://blog.yipl.com.np/younginnovations-weekly-02</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/younginnovations-weekly-02/" />
+  <id>http://localhost:4000/younginnovations-weekly-02</id>
   <updated>2015-08-14T00:00:00-00:00</updated>
   <published>2015-08-14T00:00:00+05:45</published>
   
   <author>
     <name>Prawesh Shrestha</name>
-    <uri>http://blog.yipl.com.np</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -623,7 +935,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/younginnovations-weekly-02/&quot;&gt;Young Innovations weekly #2&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 14, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/younginnovations-weekly-02/&quot;&gt;Young Innovations weekly #2&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 14, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -632,14 +944,14 @@
 
 <entry>
   <title type="html"><![CDATA[A short documentary on YoungInnovations #tbt]]></title>
-  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/short-documentary-youngInnovations-tbt/" />
-  <id>http://blog.yipl.com.np/short-documentary-youngInnovations-tbt</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/short-documentary-youngInnovations-tbt/" />
+  <id>http://localhost:4000/short-documentary-youngInnovations-tbt</id>
   <updated>2015-08-13T00:00:00-00:00</updated>
   <published>2015-08-13T00:00:00+05:45</published>
   
   <author>
     <name>Prawesh Shrestha</name>
-    <uri>http://blog.yipl.com.np</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -657,7 +969,7 @@
 
 &lt;p&gt;Changes are inevitable. YoungInnovations has changed and will change in future and each of us is working together for the best of each and YoungInnovations.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/short-documentary-youngInnovations-tbt/&quot;&gt;A short documentary on YoungInnovations #tbt&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 13, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/short-documentary-youngInnovations-tbt/&quot;&gt;A short documentary on YoungInnovations #tbt&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 13, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -666,14 +978,14 @@
 
 <entry>
   <title type="html"><![CDATA[Young Innovations weekly #1]]></title>
-  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-01/" />
-  <id>http://blog.yipl.com.np/younginnovations-weekly-01</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/younginnovations-weekly-01/" />
+  <id>http://localhost:4000/younginnovations-weekly-01</id>
   <updated>2015-08-07T00:00:00-00:00</updated>
   <published>2015-08-07T00:00:00+05:45</published>
   
   <author>
     <name>Sweta Shrestha</name>
-    <uri>http://blog.yipl.com.np</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -826,7 +1138,7 @@ which can benefit a larger tech community.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/younginnovations-weekly-01/&quot;&gt;Young Innovations weekly #1&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 07, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/younginnovations-weekly-01/&quot;&gt;Young Innovations weekly #1&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://localhost:4000&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 07, 2015.&lt;/p&gt;
   </content>
 </entry>
 
