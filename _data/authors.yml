@@ -1,27 +1,41 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
-  google:
-    plus: BillyRick
-
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: CorneliusFiddlebone
-
 sweta_shrestha:
   name: Sweta Shrestha
-  email: sweetanzell@gmail.com
-  bio: "UX Developer"
-  avatar: bio-photo.jpg
+  bio: "Sr. UX Developer"
+  avatar: sweta-bio-photo.jpg
   twitter: sweet_anjell
+
+geshan_manandhar:
+  name: Geshan Manandhar
+  bio: "Constantly breaks things but can fix them too :)"
+  avatar: geshan-bio-photo.jpg
+  twitter: geshan
+
+prawesh_shrestha:
+  name: Prawesh Shrestha
+  bio: "knows and doesn't know how to manage things."
+  avatar: prawesh-bio-photo.jpg
+  twitter: praweshsth
+
+rakeeb_rajbhandari:
+  name: Rakeeb Rajbhandari
+  bio: "Software Engineer"
+  avatar: bio-photo.jpg
+  twitter: RakeebJH11
+  google:
+    plus: RakeebRajbhandari  
+  stackoverflow: 2247689/rakeeb-rajbhandari
+  github: rakeeb11
+
+anubhuti_poudyal:
+  name: Anubhuti Poudyal
+  bio: "Communications Consultant"
+  avatar: anubhuti-bio-photo.png
+  twitter: anubhutipoudyal
+
+manoj_byanjankar:
+  name: Manoj Byanjankar
+  bio: "Software Developer"
+  avatar: default-thumb.png
+  github: mojbenzcar

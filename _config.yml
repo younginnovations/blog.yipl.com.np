@@ -15,6 +15,8 @@ sass:
 # gems:
 #   - jekyll-sitemap
 
+excerpt_separator: <!--more-->
+
 kramdown:
   auto_ids: true
   footnote_nr: 1
@@ -30,20 +32,20 @@ collections:
 # Site owner
 owner:
   name: YoungInnovations Blog
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
+  avatar: yipl-logo.png
+  bio: "We develop innovative solutions! But we take pride in making solutions work and create impact!!"
+  email: info@yipl.com.np
+  disqus-shortname: yiplblog
+  twitter: yipl
+  facebook: pages/YoungInnovations/95147447293
   google:
     plus: #username
-    analytics:
-    verify:
+    analytics: UA-66282424-1
+    verify: ohAwulapf87s0SWlslqhJUAb2phTTGjazQ0AvLD3xv0
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: younginnovations
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
