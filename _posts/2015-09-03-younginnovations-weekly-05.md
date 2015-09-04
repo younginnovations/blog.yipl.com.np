@@ -27,7 +27,7 @@ We also took part on [TechCamp](https://www.facebook.com/nepal.usembassy/videos/
 
 ![TechCamp](/images/weekly05/TechCamp.jpg)
 
-Today's weekly features list of links from topics such as gulp, html5, docker, integration testing, material design, automated deployment, etc. Happy weekend everyone :)
+Today's weekly features list of links from topics such as gulp, html5, docker, integration testing, material design, automated deployment, prototype, etc. Happy weekend everyone :)
 
 * [a beginner’s guide to website speed optimization by kinsta](https://kinsta.com/learn/page-speed/)
 
