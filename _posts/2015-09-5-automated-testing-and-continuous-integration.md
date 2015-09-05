@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Automated Testing with PHPUnit is a puzzle, Continuous Integration is the missing Piece."
+title: "Automated Testing with PHPUnit is a puzzle, Continuous Integration is the missing Piece [Slides]"
 author: sachit
-modified: 2015-09-5
+modified: 2015-09-05
 tags: [ phpunit, unit tests, automated testing, continuous integration, shippable]
 ---
 
