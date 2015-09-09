@@ -5,21 +5,31 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>A short documentary on YoungInnovations #tbt &#8211; YoungInnovations Blog</title>
-<meta name="description" content="Here’s a short documentary on YoungInnovations prepared by students of KCM as one of their academic projects. It has been more than 2 and half years and lot of things have changed here.
+<title>How to integrate hookah smoke tests with Laravel 5 &#8211; YoungInnovations Blog</title>
+<meta name="description" content="We made our smoke testing library hookah open source last week.
+We are currently using it to test some web applications we have built using Laravel. Though Laravel testing is more expressive, hookah is just a smoke testing library which can be used in any framework or even
+language as long as there is a login form with 2 fields and a submit button. In this post I will reveal
+how to integrate Hookah with Laravel 5.x.
+
+
 
 ">
-<meta name="keywords" content="tbt, thursday, younginnovations">
+<meta name="keywords" content="testing, quality, smoke tests, hookah">
 
   
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="A short documentary on YoungInnovations #tbt">
-<meta name="twitter:description" content="Here’s a short documentary on YoungInnovations prepared by students of KCM as one of their academic projects. It has been more than 2 and half years and lot of things have changed here.
+<meta name="twitter:title" content="How to integrate hookah smoke tests with Laravel 5">
+<meta name="twitter:description" content="We made our smoke testing library hookah open source last week.
+We are currently using it to test some web applications we have built using Laravel. Though Laravel testing is more expressive, hookah is just a smoke testing library which can be used in any framework or even
+language as long as there is a login form with 2 fields and a submit button. In this post I will reveal
+how to integrate Hookah with Laravel 5.x.
+
+
 
 ">
 <meta name="twitter:site" content="@yipl">
-<meta name="twitter:creator" content="@praweshsth">
+<meta name="twitter:creator" content="@geshan">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="http://blog.yipl.com.np/images/default-thumb.png">
@@ -27,11 +37,16 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="A short documentary on YoungInnovations #tbt">
-<meta property="og:description" content="Here’s a short documentary on YoungInnovations prepared by students of KCM as one of their academic projects. It has been more than 2 and half years and lot of things have changed here.
+<meta property="og:title" content="How to integrate hookah smoke tests with Laravel 5">
+<meta property="og:description" content="We made our smoke testing library hookah open source last week.
+We are currently using it to test some web applications we have built using Laravel. Though Laravel testing is more expressive, hookah is just a smoke testing library which can be used in any framework or even
+language as long as there is a login form with 2 fields and a submit button. In this post I will reveal
+how to integrate Hookah with Laravel 5.x.
+
+
 
 ">
-<meta property="og:url" content="http://blog.yipl.com.np/short-documentary-youngInnovations-tbt/">
+<meta property="og:url" content="http://blog.yipl.com.np/how-to-integrate-hookah-laravel/">
 <meta property="og:site_name" content="YoungInnovations Blog">
 
 <meta property="og:image" content="http://blog.yipl.com.np/images/default-thumb.png">
@@ -42,7 +57,7 @@
 
 
 
-<link rel="canonical" href="http://blog.yipl.com.np/short-documentary-youngInnovations-tbt/">
+<link rel="canonical" href="http://blog.yipl.com.np/how-to-integrate-hookah-laravel/">
 <link href="http://blog.yipl.com.np/feed.xml" type="application/atom+xml" rel="alternate" title="YoungInnovations Blog Feed">
 
 <!-- http://t.co/dKP3o1e -->
@@ -119,13 +134,13 @@
 <div itemscope itemtype="http://schema.org/Person">
 
 
-	<img src="http://blog.yipl.com.np/images/prawesh-bio-photo.jpg" class="bio-photo" alt="Prawesh Shrestha bio photo">
+	<img src="http://blog.yipl.com.np/images/geshan-bio-photo.jpg" class="bio-photo" alt="Geshan Manandhar bio photo">
 
 
-  <h3 itemprop="name">Prawesh Shrestha</h3>
-  <p>knows and doesn't know how to manage things.</p>
+  <h3 itemprop="name">Geshan Manandhar</h3>
+  <p>Constantly breaks things but can fix them too :)</p>
   
-  <a href="http://twitter.com/praweshsth" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>
+  <a href="http://twitter.com/geshan" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>
   
   
   
@@ -150,42 +165,45 @@
   <article class="post">
     <div class="headline-wrap">
       
-        <h1><a href="http://blog.yipl.com.np/short-documentary-youngInnovations-tbt/" rel="bookmark" title="A short documentary on YoungInnovations #tbt">A short documentary on YoungInnovations #tbt</a></h1>
+        <h1><a href="http://blog.yipl.com.np/how-to-integrate-hookah-laravel/" rel="bookmark" title="How to integrate hookah smoke tests with Laravel 5">How to integrate hookah smoke tests with Laravel 5</a></h1>
       
     </div><!--/ .headline-wrap -->
     <div class="article-wrap">
-      <p>Here’s a short documentary on YoungInnovations prepared by students of KCM as one of their academic projects. It has been more than 2 and half years and lot of things have changed here.</p>
+      <p>We made our smoke testing library <a href="https://github.com/younginnovations/hookah">hookah</a> open source last week.
+We are currently using it to test some web applications we have built using <a href="http://laravel.com">Laravel</a>. Though Laravel testing is more expressive, hookah is just a smoke testing library which can be used in any framework or even
+language as long as there is a login form with 2 fields and a submit button. In this post I will reveal
+how to integrate Hookah with Laravel 5.x.</p>
+
+<p><img src="/images/hookah-laravel/hookah-laravel-5.png" alt="Hookah + Laravel = Super smoke tests" /></p>
 
 <!--more-->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vvLCaE-QhjM" frameborder="0" allowfullscreen=""></iframe>
+<p>Rather than just writing how it can be done, I have put up a demo on github with all the steps in relevant detail.</p>
 
-<p>The visible changes are the faces seen in the video. Some have gone for their higher education abroad, some have joined other companies and some have started their own companies. Although they are, now, not here but we proudly express that their contributions are valuable and have shaped our company that it is today. We always cherish the time they spent here - their hardship, ideas, success, failure, knowledge and happy and sad moments.</p>
+<p>You can find the steps to integrate the hookah smote testing library with Laravel in the github repository <a href="https://github.com/younginnovations/hookah-laravel/blob/master/readme.md">read me</a>. If you want to look at the code you can check the <a href="https://github.com/younginnovations/hookah-laravel/pull/1">pull request</a> that is added on top of a basic Laravel 5 installation that just has the authentication working.</p>
 
-<p>The other change is that we have shifted to new building at Kumaripati with many young and enthusiastic people - some starting their career and some sharing their past experiences to take YoungInnovations to new beginning.</p>
+<blockquote>
+  <p>Hope you enjoy some testing Laravel with hookah.</p>
+</blockquote>
 
-<p>Of course, the working style have also changed adapting to the needs of the new projects and increase in the number of YIPLites resulting different teams. However, the team spirit is same as before. Each team member has equal opportunities and challenges in completing projects. As our CEO, Bibhusan, expresses, “We work hard and we party harder”, all the YIPLites are actively involved in fun activities too.</p>
-
-<p>Changes are inevitable. YoungInnovations has changed and will change in future and each of us is working together for the best of each and YoungInnovations.</p>
-
-      <div class="tags"><span>Tags:</span> tbt , thursday , younginnovations</div>
+      <div class="tags"><span>Tags:</span> testing , quality , smoke tests , hookah</div>
       <hr />
       <footer role="contentinfo">
         <div class="social-share">
   <h4>Share on</h4>
   <ul>
     <li>
-      <a href="https://twitter.com/intent/tweet?text=http://blog.yipl.com.np/short-documentary-youngInnovations-tbt/" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+      <a href="https://twitter.com/intent/tweet?text=http://blog.yipl.com.np/how-to-integrate-hookah-laravel/" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
     </li>
     <li>
-      <a href="https://www.facebook.com/sharer/sharer.php?u=http://blog.yipl.com.np/short-documentary-youngInnovations-tbt/" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://blog.yipl.com.np/how-to-integrate-hookah-laravel/" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
     </li>
     <li>
-      <a href="https://plus.google.com/share?url=http://blog.yipl.com.np/short-documentary-youngInnovations-tbt/" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
+      <a href="https://plus.google.com/share?url=http://blog.yipl.com.np/how-to-integrate-hookah-laravel/" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
     </li>
   </ul>
 </div><!-- /.social-share -->
-        <p class="byline"><strong>A short documentary on YoungInnovations #tbt</strong> was published on <time datetime="2015-08-13T00:00:00+05:45">August 13, 2015</time> and last modified on <time datetime="2015-08-13">August 13, 2015</time>.</p>
+        <p class="byline"><strong>How to integrate hookah smoke tests with Laravel 5</strong> was published on <time datetime="2015-08-29T00:00:00+05:45">August 29, 2015</time> and last modified on <time datetime="2015-08-29">August 29, 2015</time>.</p>
       </footer>
     </div><!-- /.article-wrap -->
   
@@ -202,7 +220,7 @@
     
       <li><a href="http://blog.yipl.com.np/younginnovations-weekly-05/" title="Young Innovations weekly #5">Young Innovations weekly #5</a></li>
     
-      <li><a href="http://blog.yipl.com.np/how-to-integrate-hookah-laravel/" title="How to integrate hookah smoke tests with Laravel 5">How to integrate hookah smoke tests with Laravel 5</a></li>
+      <li><a href="http://blog.yipl.com.np/younginnovations-weekly-04/" title="Young Innovations weekly #4">Young Innovations weekly #4</a></li>
     
     </ul>
     <hr />

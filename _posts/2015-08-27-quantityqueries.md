@@ -2,11 +2,11 @@
 layout: post
 title: "Quantity Queries"
 author: sweta_shrestha
-modified: 2015-08-27
+modified: 2015-09-01
 tags: [ css, quantity queries]
 ---
 
-Often in a project,the presentation change of our content/layout is a result of requirements change. Here at YIPL, we have been using media queries to change our styles as per the user deviceWe have been using media queries to change our styles as per the user device. But whenever we want to present our layout differently depending on the number of blocks, we are always thinking of what can be the best option. So, this is where quantity queries appear as a solution to this problem.
+Often in a project,the presentation change of our content/layout is a result of requirements change. Here at YIPL, we have been using media queries to change our styles as per the user device. But whenever we want to present our layout differently depending on the number of blocks, we are always thinking of what can be the best option. This is where quantity queries appear as a solution to this problem.
 
 ![Quantity Queries](/images/quantity-queries/qq.jpg)
 
@@ -74,15 +74,24 @@ ul li:nth-last-child(n+5):nth-last-child(-n+10):first-child ~ li {
 
 This one is for the “in-between” case. The above code is for the siblings between 5 and 10.
 
+<p data-height="268" data-theme-id="0" data-slug-hash="ZGNpYa" data-default-tab="result" data-user="Yipl-Frontenders" class='codepen'>See the Pen <a href='http://codepen.io/Yipl-Frontenders/pen/ZGNpYa/'>ZGNpYa</a> by Yipl-Frontenders-Snippets (<a href='http://codepen.io/Yipl-Frontenders'>@Yipl-Frontenders</a>) on <a href='http://codepen.io'>CodePen</a>. </p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"> </script>
+
 ### Solution to writing Quantity Queries
 
 These queries can be a bit difficult to write. SO, there is a tool called [QuantityQueries.com](http://quantityqueries.com/) to help construct and demonstrate quantity queries.
+
+![Quantity Queries](/images/quantity-queries/qq-screenshot.jpg)
 
 ### Now with SASS
 
 Daniel Guillan has [ported this functionality (and more) to SASS](https://github.com/danielguillan/quantity-queries) using a handful of really straightforward mixins. Here’s a demo:
 
-<p data-height="268" data-theme-id="0" data-slug-hash="ZGNpYa" data-default-tab="result" data-user="Yipl-Frontenders" class='codepen'>See the Pen <a href='http://codepen.io/Yipl-Frontenders/pen/ZGNpYa/'>ZGNpYa</a> by Yipl-Frontenders-Snippets (<a href='http://codepen.io/Yipl-Frontenders'>@Yipl-Frontenders</a>) on <a href='http://codepen.io'>CodePen</a>. </p>
+<p data-height="268" data-theme-id="0" data-slug-hash="GgBOxm" data-default-tab="result" data-user="danielguillan" class='codepen'>See the Pen <a href='http://codepen.io/danielguillan/pen/GgBOxm/'>Quanity Queries Sass mixins demo</a> by Daniel Guillan (<a href='http://codepen.io/danielguillan'>@danielguillan</a>) on <a href='http://codepen.io'>CodePen</a>. </p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"> </script>
 
-Happy Coding with Quantity Queries :)
+### Does Quantity Queries support all browsers?
+
+Quantity Queries are constructed using modern CSS properties to perform the selection. They will work in all modern browsers. Selectors such as nth-last-child(), ~ and last-child were introduced in CSS3, and first-child was introduced by CSS2.1. If you absolutely have to support legacy browsers, you can use [Selectivizr](http://selectivizr.com) and [Modernizr](http://modernizr.com).
+
+Happy Counting with Quantity Queries :)
