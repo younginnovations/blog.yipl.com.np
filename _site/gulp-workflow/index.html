@@ -1,0 +1,361 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Automate Your Tasks Easily with Gulp &#8211; YoungInnovations Blog</title>
+<meta name="description" content="It was the first time I was using Gulp. The experience, I must say, was quite enjoyable.
+Gulp is a javascript automated task runner. And it prefers code over configuration and gives you the plugins to create tasks that fit your specific needs and helps in the production process.
+
+
+
+">
+<meta name="keywords" content="gulp, javascript">
+
+  
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="Automate Your Tasks Easily with Gulp">
+<meta name="twitter:description" content="It was the first time I was using Gulp. The experience, I must say, was quite enjoyable.
+Gulp is a javascript automated task runner. And it prefers code over configuration and gives you the plugins to create tasks that fit your specific needs and helps in the production process.
+
+
+
+">
+<meta name="twitter:site" content="@yipl">
+<meta name="twitter:creator" content="@Nirajanb89">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://localhost:4000/images/default-thumb.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Automate Your Tasks Easily with Gulp">
+<meta property="og:description" content="It was the first time I was using Gulp. The experience, I must say, was quite enjoyable.
+Gulp is a javascript automated task runner. And it prefers code over configuration and gives you the plugins to create tasks that fit your specific needs and helps in the production process.
+
+
+
+">
+<meta property="og:url" content="http://localhost:4000/gulp-workflow/">
+<meta property="og:site_name" content="YoungInnovations Blog">
+
+<meta property="og:image" content="http://localhost:4000/images/default-thumb.png">
+
+
+<!-- Webmaster Tools verfication -->
+<meta name="google-site-verification" content="ohAwulapf87s0SWlslqhJUAb2phTTGjazQ0AvLD3xv0">
+
+
+
+<link rel="canonical" href="http://localhost:4000/gulp-workflow/">
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="YoungInnovations Blog Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="http://localhost:4000/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://localhost:4000/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://localhost:4000/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700%7CPT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://localhost:4000/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://localhost:4000/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body class="post">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="http://localhost:4000/">YoungInnovations Blog</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+				    
+				        
+				    
+				    <li><a href="http://localhost:4000/about/" >About</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://localhost:4000/posts/" >Posts</a></li>
+				
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    
+  
+
+<div itemscope itemtype="http://schema.org/Person">
+
+
+	<img src="http://localhost:4000/images/nirajan-blog-profile.jpg" class="bio-photo" alt="Nirajan Basnet bio photo">
+
+
+  <h3 itemprop="name">Nirajan Basnet</h3>
+  <p>Jr. Web Developer</p>
+  
+  <a href="http://twitter.com/Nirajanb89" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>
+  
+  
+  
+  
+  
+  
+  <a href="http://github.com/Neev89" class="author-social" target="_blank"><i class="fa fa-fw fa-github"></i> Github</a>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+  </div>
+  <article class="post">
+    <div class="headline-wrap">
+      
+        <h1><a href="http://localhost:4000/gulp-workflow/" rel="bookmark" title="Automate Your Tasks Easily with Gulp">Automate Your Tasks Easily with Gulp</a></h1>
+      
+    </div><!--/ .headline-wrap -->
+    <div class="article-wrap">
+      <p>It was the first time I was using Gulp. The experience, I must say, was quite enjoyable.
+<a href="https://www.gulpjs.com">Gulp</a> is a javascript automated task runner. And it prefers code over configuration and gives you the plugins to create tasks that fit your specific needs and helps in the production process.</p>
+
+<p><img src="https://d262ilb51hltx0.cloudfront.net/max/1400/1*jbeaev-Xdy4S4pNNJHwA0Q.png" alt="Gulp" /></p>
+
+<!--more-->
+
+<h3 id="why-we-need-gulp-">Why we need Gulp ?</h3>
+
+<p>As front-end developers, we often need to look at the tools we use and decide if we are using the right tool for the job. It creates a good practice within the flow to the system. You’ll save hours of effort and reduce human error. It’s a build tool that helps to speed up your workflow by :
+* Automating Repetitive tasks
+* Optimising Images
+* Concatenating
+* Minifying Css and Javascript
+* Browser Prefixes</p>
+
+<p>It focuses on piping the result of one task into the next until you reach the point where you’ve completed all your tasks on that particular file.
+To do a front-end project, this was a new world to me! Initially, I usually just dragged my project folder into Prepros and wrote some Scss or LESS but it makes platform dependent which is very difficult to share and co-operate with other members. But after using Gulp the whole thing changed. My workflow became clean, effective and the entire process helped me save a lot of time. So, here’s the further process of how we can include Gulp to our projects.</p>
+
+<h3 id="for-gulp-to-run-into-the-system-we-need-following-things-first">For Gulp to run into the system we need following things first:</h3>
+
+<ul>
+  <li>Node.js — we’ll be using Node.js, but you don’t need to be a Node.js developer. JavaScript knowledge is helpful but there are plenty snippets to use and adapt.</li>
+  <li>The command line — you will be typing commands rather than using a GUI.</li>
+</ul>
+
+<h3 id="documentation">Documentation</h3>
+
+<p>For a Getting started guide, API docs, recipes, making a plugin, etc. see the <a href="https://github.com/gulpjs/gulp/blob/master/docs/README.md">documentation page</a>.</p>
+
+<p>Sample gulpfile.js</p>
+
+<p><img src="https://d262ilb51hltx0.cloudfront.net/max/700/1*HUunezYVm2zlYxsLludocQ.png" alt="gulpfile.js" /></p>
+
+<h3 id="getting-started">Getting Started</h3>
+
+<h4 id="install-gulp-globally">Install gulp globally</h4>
+
+<p>$ npm install –global gulp</p>
+
+<h4 id="install-gulp-in-your-project-devdependencies">Install gulp in your project devDependencies</h4>
+
+<p>$ npm install –save-dev gulp</p>
+
+<h4 id="create-a-gulpfilejs-at-the-root-of-the-project">Create a gulpfile.js at the root of the project</h4>
+
+<p>var gulp = require(‘gulp’);</p>
+
+<p>gulp.task(‘default’, function() {
+  // place code for your default task here
+});</p>
+
+<h4 id="run-gulp">Run Gulp</h4>
+
+<p>$ gulp</p>
+
+<p>Let’s just have a quick tour on how to set up a Gulp workflow to work with its powerful plugins. Here is what I have included in my project:
+* Sass compilation
+* Image minified
+* Autoprefixer
+* SourceMaps</p>
+
+<h3 id="compiling-sass">Compiling Sass</h3>
+
+<p>The first thing to do is to install the dependencies and to create a Gulpfile.js.</p>
+
+<h4 id="install">Install</h4>
+
+<p><img src="https://d262ilb51hltx0.cloudfront.net/max/748/1*k3Q-en45Uba996wCKuIi1A.png" alt="sass" /></p>
+
+<h4 id="usage">Usage</h4>
+
+<p><img src="https://d262ilb51hltx0.cloudfront.net/max/757/1*5Ufdi77cRL0RKi6pZu2sbg.png" alt="sass" /></p>
+
+<h3 id="image-compression">Image Compression</h3>
+
+<h4 id="install-1">Install</h4>
+<p><img src="https://d262ilb51hltx0.cloudfront.net/max/759/1*joNwufwJJUgFphaGg3k12w.png" alt="image" /></p>
+
+<h4 id="usage-1">Usage</h4>
+<p><img src="https://d262ilb51hltx0.cloudfront.net/max/755/1*B6Gr29zNVBPlfUgKC5TVKQ.png" alt="image" /></p>
+
+<h3 id="autoprefixer">Autoprefixer</h3>
+
+<h4 id="install-2">Install</h4>
+<p><img src="https://d262ilb51hltx0.cloudfront.net/max/748/1*istDCs8RLJuWbJ3z5TXavA.png" alt="autoprefixer" /></p>
+
+<h4 id="usage-2">Usage</h4>
+<p><img src="https://d262ilb51hltx0.cloudfront.net/max/756/1*SpCKtCguQWAtnXQHi23vsw.png" alt="autoprefixer" /></p>
+
+<h3 id="sourcemaps">SourceMaps</h3>
+
+<h4 id="install-3">Install</h4>
+
+<p><img src="https://d262ilb51hltx0.cloudfront.net/max/751/1*Vm1n-IMkIVZBaiu-BYvlHA.png" alt="sourcemaps" /></p>
+
+<h4 id="usage-3">Usage</h4>
+
+<p><img src="https://d262ilb51hltx0.cloudfront.net/max/760/1*0_KiBYmo0FczR9v52mad2w.png" alt="sourcemaps" /></p>
+
+<h3 id="watch">Watch</h3>
+
+<p>Before finishing there is still one thing to do: creating a watch task. The point of this task is to watch for changes in stylesheets to recompile them. It is very convenient when working on the project so you don’t have to run the task/command manually every time you save a file.</p>
+
+<h4 id="install-4">Install</h4>
+
+<p>npm install –save-dev gulp-watch</p>
+
+<h4 id="usage-4">Usage</h4>
+
+<p>![watch](https://d262ilb51hltx0.cloudfront.net/max/700/1*yEEs45GT_CXp35aLQ1Baqw.png “”)</p>
+
+<h3 id="adding-the-final-touch">Adding the final touch</h3>
+
+<p>Running gulp in the default task:</p>
+
+<p><img src="https://d262ilb51hltx0.cloudfront.net/max/741/1*YSHzxpr-2Wc2-WzLtwP9ug.png" alt="task" /></p>
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>Gulp is a popular and powerful tool for automating web development tasks. It seems to be overtaking Grunt in popularity. If you are not currently using Gulp, you should definitely give it a shot!</p>
+
+
+      <div class="tags"><span>Tags:</span> gulp , javascript</div>
+      <hr />
+      <footer role="contentinfo">
+        <div class="social-share">
+  <h4>Share on</h4>
+  <ul>
+    <li>
+      <a href="https://twitter.com/intent/tweet?text=http://localhost:4000/gulp-workflow/" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+    </li>
+    <li>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/gulp-workflow/" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+    </li>
+    <li>
+      <a href="https://plus.google.com/share?url=http://localhost:4000/gulp-workflow/" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
+    </li>
+  </ul>
+</div><!-- /.social-share -->
+        <p class="byline"><strong>Automate Your Tasks Easily with Gulp</strong> was published on <time datetime="2015-08-28T00:00:00+05:45">August 28, 2015</time> and last modified on <time datetime="2015-08-28">August 28, 2015</time>.</p>
+      </footer>
+    </div><!-- /.article-wrap -->
+  
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrap">
+  
+  <div class="related-articles">
+  <h4>You might also enjoy <small class="pull-right">(<a href="http://localhost:4000/posts/">View all posts</a>)</small></h4>
+    <ul>
+    
+      <li><a href="http://localhost:4000/how-to-integrate-hookah-laravel/" title="How to integrate hookah smoke tests with Laravel 5">How to integrate hookah smoke tests with Laravel 5</a></li>
+    
+      <li><a href="http://localhost:4000/younginnovations-weekly-04/" title="Young Innovations weekly #4">Young Innovations weekly #4</a></li>
+    
+      <li><a href="http://localhost:4000/NcellAppCamp_Debriefing_session_2015/" title="Say Hello to Ncell App Camp 2015">Say Hello to Ncell App Camp 2015</a></li>
+    
+    </ul>
+    <hr />
+  </div><!-- /.related-articles -->
+  
+  <footer>
+    
+
+<span>&copy; 2015 YoungInnovations Blog. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
+
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://localhost:4000/assets/js/scripts.min.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl =
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-66282424-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+</body>
+</html>
