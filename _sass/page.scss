@@ -268,6 +268,7 @@ $button-size: 1.5rem;
 	}
 	article {
 		margin-bottom: 34px;
+		border-bottom: 1px solid #c4c4c4;
 		h2 {
 			margin-bottom: 8px;
 			@include font-rem(20);
