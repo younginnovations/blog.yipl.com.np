@@ -2,7 +2,7 @@
 layout: post
 title: "Still stuck with FTP or Git pull to deploy? It's high time to embrace Automated Deployment with Capistrano [Slides]"
 author: sumit_chhetri
-modified: 2015-09-05
+modified: 2015-09-17
 tags: [ deployment, devops, capistrano]
 ---
 
@@ -27,6 +27,6 @@ I am going to deliver a presentation in the [PHP Dev Meetup #14](https://develop
 
 > You can also view the slides in browser from [here](http://shhetri.github.io/capistrano-presentation/)
 
-There will be a part-2 to this blog in which, I will write in detail on how you can setup and deploy a [Laravel 5](http://laravel.com/) project using [Capistrano 3](http://capistranorb.com/). So do check frequently for the upcoming part.
+There is a [part-2](http://blog.yipl.com.np/deploy-laravel5-with-capistrano3/) to this blog, in which I have written in detail, on how you can setup and deploy a [Laravel 5](http://laravel.com/) project using [Capistrano 3](http://capistranorb.com/). So do check it out.
 
 > Happy Deploying!! :)
