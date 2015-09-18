@@ -11,6 +11,8 @@ This has been a great week at YIPL with teej right around the corner. Everybody 
 
 ![YIPL Group Photo](/images/weekly07/TEEJ_GROUP.jpg)
 
+<!--more-->
+
 The ladies had prepared games to get all of the people involved and win some prizes. The games where only for the guys at YIPL which is fair since it's the day for the ladies and they get a pardon. I'm sure they had fun watching us guys getting embarassed when we did the ramp walk to show off our formal attire, which was won by Achyut. 
 
 ![Ramp Walk](/images/weekly07/RAMP_WALK.jpg)
@@ -23,7 +25,7 @@ There was game 'Balloon on the Air' won by Manoj, 'Pop the Balloon' won by Niraj
 
 ![The Final Dance](/images/weekly07/DANCE.jpg)
 
-<!--more-->
+
 Also we had our knowledge sharing program on Tuesday which was preponded due to teej on Wednesday, which was a holiday for the ladies. We guys had to work though. Anyways, our Sr. UX developer, Sweta gave a great presentation on 'Quantity Queries'. If you want to go through the presentation slide, here is [the link](http://blog.yipl.com.np/quantityqueries/).
 
 ![KSW by Sr. UX developer, Sweta](/images/weekly07/KSW(09-15-2015).jpg)
