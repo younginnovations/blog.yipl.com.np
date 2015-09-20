@@ -2,7 +2,7 @@
 layout: post
 title: "Deploy a Laravel 5 application with Capistrano 3"
 author: sumit_chhetri
-modified: 2015-09-17
+modified: 2015-09-20
 tags: [deployment, devops, laravel, capistrano]
 ---
 
