@@ -2,7 +2,7 @@
 layout: post
 title: "Still stuck with FTP or Git pull to deploy? It's high time to embrace Automated Deployment with Capistrano [Slides]"
 author: sumit_chhetri
-modified: 2015-09-17
+modified: 2015-09-05
 tags: [ deployment, devops, capistrano]
 ---
 
