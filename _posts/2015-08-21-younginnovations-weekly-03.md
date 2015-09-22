@@ -4,6 +4,8 @@ title: "Young Innovations weekly #3"
 author: rakeeb_rajbhandari
 modified: 2015-08-21
 tags:  [ android-studio, app, character, collaboration, composer, drupal7, google developer, laravel, mysql, photo edit, photo editor, picture edit, podcast, ruby, symbol, tech, testing, traits, android, android-libraries, angular, animation, api, bootstrap, chromeextension, code reuse, css, data, database, datavisualization, design share, devops, docker, drupal, drupal8, flexbox, go, google, google-play-services, gulp, inheritance, ionic, ios, javascript, jekyll, js, laraconrecap, mobile, mobile-tech, nodejs, php, podcast, productmgmt, programming, robot, sass, security, server, solar, startups, string concatenation, svg, symbolguide, testing, testwebspeed, tools, translation, wake, workstation-ergonomics]
+image:
+  feature: weekly_illustration.png
 ---
 
 We recently made our smoke testing library [Hookah](http://bit.ly/1EBJyYL) open source, you can get it as a composer package from [packagist](http://bit.ly/1LiDppx).

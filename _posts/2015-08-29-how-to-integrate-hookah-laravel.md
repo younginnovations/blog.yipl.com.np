@@ -4,6 +4,8 @@ title: "How to integrate hookah smoke tests with Laravel 5"
 author: geshan_manandhar
 modified: 2015-08-29
 tags: [ testing, quality, smoke tests, hookah]
+image:
+  feature: hookah-laravel/Hookah-laravel.png
 ---
 
 We made our smoke testing library [hookah](https://github.com/younginnovations/hookah) open source last week.
