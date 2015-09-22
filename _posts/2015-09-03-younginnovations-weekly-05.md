@@ -5,6 +5,8 @@ author: santosh_neupane
 modified: 2015-09-03
 tags:  [ android, android developers, angular, apps, bank, capistrano, chrome extension, collaboration, design, dr. martin cooper, drag, drop, finance, google, google logo, gulp, integration testing, internet, internet of everything, js, laracon eu presentations, laravel, mobile, mobile phones, motorola, pocketnow, python fabric, react, sms, testing, agile, automated deployment, blog, build, cellphone, channel, ci, colorschemes, css, deployment, design, developersnepal, docker, dragand drop, drupal, ftp, git, google, grunt, html5, integration testing, internet of things, iot, javascript, logging, logo, materialdesign, meteor, mobile, mobile app, mobilebanking, monolog, nginx, node, optimization, performance, php, phpunit, prototype, pu
 shbullet, react, software engineering, survey, team, website, xss, youtube]
+image:
+  feature: weekly_illustration.png
 ---
 
 We have a trend of celebrating Birthday at the end of every month. So, on 31st of August, we celebrated the Birthday of five of us: Prashant Shrestha, Nirajan Basnet, Lunek Suwal, Sachit Bir Singh Dangol, Manoj Byanjankar.

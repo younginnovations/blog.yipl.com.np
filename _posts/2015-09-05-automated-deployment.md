@@ -4,6 +4,8 @@ title: "Still stuck with FTP or Git pull to deploy? It's high time to embrace Au
 author: sumit_chhetri
 modified: 2015-09-05
 tags: [ deployment, devops, capistrano]
+image:
+  feature: testing-deployment/Capistrano.png
 ---
 
 Are you still using FTP to deploy your code? Are you still manually performing the same steps of deploying a feature, again and again? How many hours have you spent on ssh-ing into the server, pulling the repo, migrating the database, reloading the web server and so on, for each deployment?? Ever wondered if there is a process as simple as a single click to perform all these steps for you?
