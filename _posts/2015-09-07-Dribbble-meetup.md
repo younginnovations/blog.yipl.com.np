@@ -2,7 +2,7 @@
 layout: post
 title: "Dribbble Meetup 2015"
 author: rishav_malla
-modified: 2015-09-07
+modified: 2015-09-23
 tags: [ Design, Frontend, speaker, presenter, motivation, creative, UX, UI]
 ---
 
