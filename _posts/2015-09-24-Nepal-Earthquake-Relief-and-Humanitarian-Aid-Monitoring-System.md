@@ -2,11 +2,11 @@
 layout: post
 title: "Nepal Earthquake Relief and Humanitarian Aid Monitoring System"
 author: alina_acharya
-modified: 2015-09-15
+modified: 2015-09-24
 tags: [earthquake, humanitarian aid, pledge]
 ---
 
-In April 25, 2015, earthquake of magnitude 7.8 struck Nepal that destroyed millions of home and slaughtered thousands of people. It became one of the destructive events in Nepalese history after 1934 earthquake.  The constant aftershocks and two major quakes had left Nepalese people in deep sorrow. The earthquake killed more than 8,960 and injured more than twice as many. Many historic buildings were collapsed, one of the greatest historic building “Dharahara” was turned down in pile of mud. More than 600,000 people were displaced form their home. 
+On April 25, 2015, earthquake of magnitude 7.8 struck Nepal that destroyed millions of home and thousands of people lost their lives. It became one of the destructive events in Nepalese history after 1934 A.D. earthquake.  The constant aftershocks and two major quakes had left Nepalese people in deep sorrow. The earthquake killed more than 8,960 and injured more than twice as many. Many historic buildings were collapsed, one of the greatest historic building “Dharahara” was turned down in pile of mud and debris. More than 600,000 people were displaced form their home. 
 
 
 ![Nepal Earthquake Relief and Humanitarian Aid Monitoring System](/images/earthquake-website-screenshot.jpg)
