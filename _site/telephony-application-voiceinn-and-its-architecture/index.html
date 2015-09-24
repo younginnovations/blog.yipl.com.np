@@ -1,0 +1,288 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>A Telephony Application - VoiceInn and Its Architecture &#8211; YoungInnovations Blog</title>
+<meta name="description" content="VoiceInn is an internal project of YoungInnovations to provide an interactive telephony service with user friendly web interface. It includes three main telephony services - Vsurvey, Vboard and Vsupport. The modular feature of VoiceInn allows client to take service they need and also provide a customizable feature as required.
+
+
+Normally telephone service with IVR supports incoming call only but VoiceInn provides inbound as well as outbound call IVR. Outbound call can be set immediately as well as can be scheduled to a single or multiple numbers at once.
+
+">
+<meta name="keywords" content="telephone application, asterisk, adhearsion, sip, voip, call, IVR, PSTN, E1">
+
+  
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="A Telephony Application - VoiceInn and Its Architecture">
+<meta name="twitter:description" content="VoiceInn is an internal project of YoungInnovations to provide an interactive telephony service with user friendly web interface. It includes three main telephony services - Vsurvey, Vboard and Vsupport. The modular feature of VoiceInn allows client to take service they need and also provide a customizable feature as required.
+
+
+Normally telephone service with IVR supports incoming call only but VoiceInn provides inbound as well as outbound call IVR. Outbound call can be set immediately as well as can be scheduled to a single or multiple numbers at once.
+
+">
+<meta name="twitter:site" content="@yipl">
+<meta name="twitter:creator" content="@achyutdev">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://blog.yipl.com.np/images/default-thumb.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="A Telephony Application - VoiceInn and Its Architecture">
+<meta property="og:description" content="VoiceInn is an internal project of YoungInnovations to provide an interactive telephony service with user friendly web interface. It includes three main telephony services - Vsurvey, Vboard and Vsupport. The modular feature of VoiceInn allows client to take service they need and also provide a customizable feature as required.
+
+
+Normally telephone service with IVR supports incoming call only but VoiceInn provides inbound as well as outbound call IVR. Outbound call can be set immediately as well as can be scheduled to a single or multiple numbers at once.
+
+">
+<meta property="og:url" content="http://blog.yipl.com.np/telephony-application-voiceinn-and-its-architecture/">
+<meta property="og:site_name" content="YoungInnovations Blog">
+
+<meta property="og:image" content="http://blog.yipl.com.np/images/default-thumb.png">
+
+
+<!-- Webmaster Tools verfication -->
+<meta name="google-site-verification" content="ohAwulapf87s0SWlslqhJUAb2phTTGjazQ0AvLD3xv0">
+
+
+
+<link rel="canonical" href="http://blog.yipl.com.np/telephony-application-voiceinn-and-its-architecture/">
+<link href="http://blog.yipl.com.np/feed.xml" type="application/atom+xml" rel="alternate" title="YoungInnovations Blog Feed">
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://blog.yipl.com.np/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="http://blog.yipl.com.np/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://blog.yipl.com.np/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://blog.yipl.com.np/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700%7CPT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://blog.yipl.com.np/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://blog.yipl.com.np/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://blog.yipl.com.np/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://blog.yipl.com.np/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://blog.yipl.com.np/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://blog.yipl.com.np/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body class="post">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="http://blog.yipl.com.np/">YoungInnovations Blog</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+				    
+				        
+				    
+				    <li><a href="http://blog.yipl.com.np/about/" >About</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://blog.yipl.com.np/posts/" >Posts</a></li>
+				
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    
+  
+
+<div itemscope itemtype="http://schema.org/Person">
+
+
+	<img src="http://blog.yipl.com.np/images/achyutdev-bio-photo.jpg" class="bio-photo" alt="Achyut Devkota bio photo">
+
+
+  <h3 itemprop="name">Achyut Devkota</h3>
+  <p>System Engineer | Voice Application Developer</p>
+  
+  <a href="http://twitter.com/achyutdev" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>
+  
+  
+  
+  
+  
+  
+  <a href="http://github.com/achyutdev" class="author-social" target="_blank"><i class="fa fa-fw fa-github"></i> Github</a>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+  </div>
+  <article class="post">
+    <div class="headline-wrap">
+      
+        <h1><a href="http://blog.yipl.com.np/telephony-application-voiceinn-and-its-architecture/" rel="bookmark" title="A Telephony Application - VoiceInn and Its Architecture">A Telephony Application - VoiceInn and Its Architecture</a></h1>
+      
+    </div><!--/ .headline-wrap -->
+    <div class="article-wrap">
+      <p>VoiceInn is an internal project of YoungInnovations to provide an interactive telephony service with user friendly web interface. It includes three main telephony services - Vsurvey, Vboard and Vsupport. The modular feature of VoiceInn allows client to take service they need and also provide a customizable feature as required.
+<img src="/images/voiceinn/voiceinn.jpg" alt="voiceinn logo" /></p>
+
+<p>Normally telephone service with IVR supports incoming call only but VoiceInn provides inbound as well as outbound call IVR. Outbound call can be set immediately as well as can be scheduled to a single or multiple numbers at once. 
+<!--more-->
+Any changes made by client after login  will take instant effect in telephone application after it is saved.</p>
+
+<h3 id="services">Services</h3>
+<p><strong>Vsurvey</strong> <em>- is a voice survey unlike normal survey in form.</em></p>
+
+<p><img src="/images/voiceinn/vsurvey.jpg" alt="Vsurvey service" /></p>
+
+<p>Clients create voice survey from web interface by uploading audio file or recording from web page.  When they have done uploading audio questions they have to make a dialplan by arranging the questions. There are two methods of getting response from survey participants - either by audio answer or by dialing digit from keypad of phone set.</p>
+
+<p>Response can be collected from participants either by receiving call from participants or by calling the participants. The system can call participants individually as well as in a group.</p>
+
+<p><strong>Vboard</strong> <em>- is a Noticeboard service.</em>
+<img src="/images/voiceinn/vboard.jpg" alt="Vboard service" /></p>
+
+<p>Clients can broadcast noticeboard by recording from phone or uploading audio file from VoiceInn website. When clients set broadcast then it becomes effective. Broadcast can be scheduled at any time in the future. Unlike other noticeboard services it supports outbound calls as well.</p>
+
+<p><strong>Vsupport</strong> <em>- is a voice support service.</em>
+<img src="/images/voiceinn/vsupport.jpg" alt="Vsupport service" /></p>
+
+<p>Users call to a support number and record complaints/ queries. For those who want to get instant support there is a live operator forward option. If first operator needs help to solve users’ complains, s/he can add other individuals and can make it as conference call or s/he can simply forward the call to other relevant numbers. All queries and complains appear in support dashboard for further followups.</p>
+
+<h3 id="voiceinn-components">VoiceInn Components</h3>
+<p>Asterisk, adhearsion and flask are the major components used to build VoiceInn. Asterisk, is a communication server, handles all kinds of telephone functionalities whereas  adhearsion, is a telephone application framework,  that control calls dialplan. Flask, a web microframework build in python, is used to make user interface.</p>
+
+<h3 id="voiceinn-architecture">VoiceInn Architecture</h3>
+<p>Call channels (SIP trunk, PSTN, E1) are connected to asterisk from telecom providers. The calls are asynchronously transferred to adhearsion application through a Asterisk Manager Interface(AMI) connection. Then all the call flows are controlled by adhearsion callcontroller.</p>
+
+<p><img src="/images/voiceinn/architecture.jpg" alt="VoiceInn Architecture" /></p>
+
+<p>Each call logs and activity logs are stored in MySQL database from asterisk, adhearsion and flask. Open DataBase Connectivity(ODBC) is used to store Call Details Report (CDR) in database from asterisk. Except CDR, all call logs are handled by adhearsion and stored in database. Both telephone system and web interface (Flask) share same database. So any changes from client dashboard directly affects telephone call flow. Beside same database, Some APIs are used to connect application with client web UI. Handler handles all kind of APIs and parse data. This handler is primarily used for originating outbound call from client UI.</p>
+
+<p><img src="/images/voiceinn/handler.jpg" alt="Call Handler" /></p>
+
+<p>Different APIs are handled by API handler. If there is an API request for a single call then it immediately sends a request to originate call. If call request is more than one then it checks for time of call. If time is immediate then call takes place, or else handler starts scheduler. Queue handler makes queue for multiple call before sending requests to originate call to asterisk through adhearsion.</p>
+
+<p><img src="/images/voiceinn/adhearsion_call_controller.jpg" alt="Adhearsion Architecture" /></p>
+
+<p>Adhearsion has very flexible call controller to handle calls. Incoming as well as outgoing calls are routed by router to a specific callcontroller. Each controller has ability to include other controllers. In this case call can be passed to included call controller and returns to original controller after execution is completed. And also call can pass to other call controller with parameter.</p>
+
+<script async="" class="speakerdeck-embed" data-id="3a9e1922f56d44bba98f0bbfdb326aff" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+<hr />
+
+<p>VoiceInn has modular call controllers for each service and feature. So that services and features can be enabled and disabled according to clients’ need. Individual client maintains his/her own set of  available features. For instance, a client can use only Vboard service with inbound and outbound call feature.</p>
+
+      <div class="tags"><span>Tags:</span> telephone application , asterisk , adhearsion , sip , voip , call , IVR , PSTN , E1</div>
+      <hr />
+      <footer role="contentinfo">
+        <div class="social-share">
+  <h4>Share on</h4>
+  <ul>
+    <li>
+      <a href="https://twitter.com/intent/tweet?text=http://blog.yipl.com.np/telephony-application-voiceinn-and-its-architecture/" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+    </li>
+    <li>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://blog.yipl.com.np/telephony-application-voiceinn-and-its-architecture/" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+    </li>
+    <li>
+      <a href="https://plus.google.com/share?url=http://blog.yipl.com.np/telephony-application-voiceinn-and-its-architecture/" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
+    </li>
+  </ul>
+</div><!-- /.social-share -->
+        <p class="byline"><strong>A Telephony Application - VoiceInn and Its Architecture</strong> was published on <time datetime="2015-09-15T00:00:00+04:00">September 15, 2015</time> and last modified on <time datetime="2015-09-29">September 29, 2015</time>.</p>
+      </footer>
+    </div><!-- /.article-wrap -->
+  
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrap">
+  
+  <div class="related-articles">
+  <h4>You might also enjoy <small class="pull-right">(<a href="http://blog.yipl.com.np/posts/">View all posts</a>)</small></h4>
+    <ul>
+    
+      <li><a href="http://blog.yipl.com.np/7-golden-rules-of-simple-clean-code/" title="7 Golden Rules of Simple and Clean code and some more considerations [Slides]">7 Golden Rules of Simple and Clean code and some more considerations [Slides]</a></li>
+    
+      <li><a href="http://blog.yipl.com.np/Dribbble-meetup/" title="Dribbble Meetup 2015">Dribbble Meetup 2015</a></li>
+    
+      <li><a href="http://blog.yipl.com.np/deploy-laravel5-with-capistrano3/" title="Deploy a Laravel 5 application with Capistrano 3">Deploy a Laravel 5 application with Capistrano 3</a></li>
+    
+    </ul>
+    <hr />
+  </div><!-- /.related-articles -->
+  
+  <footer>
+    
+
+<span>&copy; 2015 YoungInnovations Blog. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
+
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://blog.yipl.com.np/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://blog.yipl.com.np/assets/js/scripts.min.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl =
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-66282424-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+</body>
+</html>

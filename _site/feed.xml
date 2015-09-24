@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://blog.yipl.com.np/feed.xml" />
 <link rel="alternate" type="text/html" href="http://blog.yipl.com.np" />
-<updated>2015-09-04T16:04:07+05:45</updated>
+<updated>2015-09-24T10:22:55+04:00</updated>
 <id>http://blog.yipl.com.np/</id>
 <author>
   <name>YoungInnovations Blog</name>
@@ -16,11 +16,794 @@
   
 
 <entry>
-  <title type="html"><![CDATA[Automated Testing with PHPUnit is a puzzle, Continuous Integration is the missing Piece.]]></title>
+  <title type="html"><![CDATA[7 Golden Rules of Simple and Clean code and some more considerations [Slides]]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/7-golden-rules-of-simple-clean-code/" />
+  <id>http://blog.yipl.com.np/7-golden-rules-of-simple-clean-code</id>
+  <updated>2015-09-24T00:00:00-00:00</updated>
+  <published>2015-09-24T00:00:00+04:00</published>
+  
+  <author>
+    <name>Geshan Manandhar</name>
+    <uri>http://blog.yipl.com.np</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;Giving continuity to our Knowledge Sharing Wednesday (KSW), yesterday Sumit presented on
+&lt;code&gt;7 Golden Rules of Simple and Clean code&lt;/code&gt;. From trying to solve issues with deployment, git flow,
+server monitoring we realized that we should start from the basics, so we thought we will do a
+talk on how to write Simple, Clean, Readable, Understandable, maintainable and testable (SCRUMT)
+code.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/7-rules-of-simple-code/7-rules-of-simple-clean-code.png&quot; alt=&quot;7 Rules of simple and clean code&quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Below are the slides of the talk:&lt;/p&gt;
+
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/ombsJktivW4Ll&quot; width=&quot;510&quot; height=&quot;420&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/geshan/7-rules-of-simple-and-maintainable-code&quot; title=&quot;7 rules of simple and maintainable code&quot; target=&quot;_blank&quot;&gt;7 rules of simple and maintainable code&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/geshan&quot; target=&quot;_blank&quot;&gt;Geshan Manandhar&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+
+&lt;p&gt;Code examples are in this &lt;a href=&quot;https://gist.github.com/shhetri/bb6dd1981267eb3a4cf4&quot;&gt;gist&lt;/a&gt; for reference.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Hope you also realize that writing simple and clean code is good an helps minimize technical debt. Happy Coding!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/7-golden-rules-of-simple-clean-code/&quot;&gt;7 Golden Rules of Simple and Clean code and some more considerations [Slides]&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on September 24, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Dribbble Meetup 2015]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/Dribbble-meetup/" />
+  <id>http://blog.yipl.com.np/Dribbble-meetup</id>
+  <updated>2015-09-23T00:00:00-00:00</updated>
+  <published>2015-09-23T00:00:00+04:00</published>
+  
+  <author>
+    <name>Rishav Malla</name>
+    <uri>http://blog.yipl.com.np</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;August 22, 2015 was an adventurous day for designers and front end developers in the city mostly because majority of us attended the Kathmandu dribbble meetup at the Entrance Cafe, Pulchowk. With the objective of creating learning and networking platform for designers in Nepal, Kathmandu Dribbble meetup was organized for the first time in Kathmandu. The event had speakers/presenters, design showcases, networking tables among the major attractions. There were five speakers who shared their experiences in design, branding and marketing. So let’s talk about what happened at the Dribbble meetup.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Dribbble-blog/Dribbblers-2.jpg&quot; alt=&quot;Dribbble&quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;The event started off with Ishu Subedi sharing her experience about how she gradually moved towards web designing. Even though she had a stable career before stepping in web designing, she was not very satisfied with what she did. She wanted to do something that she truly wanted – “DESIGNING”.&lt;/p&gt;
+
+&lt;p&gt;“Following the money, a simple mistake that everyone makes” – Ishu Subedi. Well, this time she didn’t think about the money and she finally chose a career that she truly desired.&lt;/p&gt;
+
+&lt;p&gt;Talking about design, Amit Bajracharya, a senior graphic designer shared his knowledge about design theory. The basic concepts about C.R.A.P (Contrast. Repetition. Alignment. Proximity) were thoroughly explained in the simplest of ways.&lt;/p&gt;
+
+&lt;p&gt;Diveej Shah had a very interesting approach as he talked about advertising and branding. This session was highly influential, mostly because many of us did not know the difference between branding and advertising. Mr. Diveej cleared the confusion with dramatic examples that somehow simplified the basic ideas of branding and advertising.&lt;/p&gt;
+
+&lt;p&gt;Bidhan Rajbhandari, Founder of Makeways, spoke on how constant marketing and personal branding are key skills to landing lucrative projects. This entertaining session had every good element to inspire as well.&lt;/p&gt;
+
+&lt;p&gt;Ankur Sharma, Co-Founder of Expresiv Studios ended the sessions with his presentation on Human Computer Interaction. His presentation with the word “Nothing” instantly grabbed the audience’s attention.&lt;/p&gt;
+
+&lt;p&gt;Panel Discussion followed the presentations and Bidhan Rajbhandari and Ankur Sharma as panelists was another round of amazing. Audience had very interesting questions which were answered very well by the panelists.&lt;/p&gt;
+
+&lt;p&gt;What could have been a better end to the meetup if not for the networking, snacks and of course the beer! All in all, the meetup was a success both in terms of content and experience.&lt;/p&gt;
+
+&lt;p&gt;Finally, here is what our colleagues at YoungInnovations had to say about the meetup.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Dribbble-blog/dribbble-ball.jpg&quot; alt=&quot;Dribbble&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“It was great to be a part of Dribbble Meetup. There were a lot of people who participated in the Meetup. I got a chance to meet and interact with local design communities. It’s a great platform for learning and creating new networks for the designers. I got the chance to learn something new from them. All the speakers gave their presentation in an interesting manner. I enjoyed myself and learned plenty of new things from the presentations. It’s an incredible event. Hopefully I will be a part of this event in the coming years as well.” - &lt;strong&gt;Punya Ruchal&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Dribbble meetup featured great presentations. I found the presentation on design principles really informative. Kudos to the organizers.” - &lt;strong&gt;Rakeeb Rajbhandari&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“More people showed up than I expected. It seemed designers were waiting for an event of this kind to happen. Of course, there were similar events such as Graphic Design Meetup happening for the past 2 years. However, this was Dribbble, the Disney Land for designers :)&lt;/p&gt;
+
+  &lt;p&gt;As soon as I entered the venue, I was greeted with a goodie bag! The bag had a Dribbble dot grid sketch book, a ball pen, a Bhav yearly planner and a Tee! It’s quite unusual to receive this many swags in a local event in Kathmandu.&lt;/p&gt;
+
+  &lt;p&gt;The event started a bit late (an hour late if i remember:) ). There was no lag in between sessions though. There were 5 sessions in total by Ishu, Amit, Diveej Shah,  Bidhan and Ankur.&lt;/p&gt;
+
+  &lt;p&gt;None of the sessions seemed lengthy or boring. They were all resourceful, fun and interesting. I specially enjoyed sessions by Ankur, Bidhan and the panel discussion that followed after the presentation sessions. Ankur’s witty presentation (or no presentation) on Human Computer Interaction was something that people will remember for a long time :) Bidhan’s session on “Marketing your design” was both fun and inspiring. He showed why one should choose a career that s/he enjoys doing and is actually good at.&lt;/p&gt;
+
+  &lt;p&gt;At the end of the event, there was snacks and free beer! I did not drink though :)&lt;/p&gt;
+
+  &lt;p&gt;I congratulate and encourage the organisers to continue Dribbble Meetups in the future. There’s only one suggestion - Please put a raised platform for presentation-screen and speaker so that people at the back can also see what is happening :)” - &lt;strong&gt;Anjan Shrestha&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Since it’s been the first meet up related to designs, I was very hopeful to get the knowledge of creative designs, work process and current projects that are affecting us daily and yes I got a chance to witness all that. It was awesome. There were speakers/presenters, design showcases, networking tables etc. I personally think this meetup was great where people shared their experiences, promoted, discovered, and explored the designs. It was fun !  - &lt;strong&gt;Nirajan Basnet&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A meetup that was both educational and inspirational for young designers like us. A lot of new things were shared making the event very lively and enjoyable. Knowledge sharing about how people changed their careers to finally have a strong platform in this sector and information on branding and advertising the products were highly inspirational. - &lt;strong&gt;Rishav Malla&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The first ever Kathmandu Dribbble meetup was a great experience for me. I was very excited to see such a good number of people. It was a great platform where we could interact with some of the amazing designers and front end developers. The presentations were interesting where I learned many things related to designs. The event also provided us an opportunity at networking with like minded people. The entire session was very interesting; we received official event t-shirt along with meetup kits from dribbble and to add up to it, they provided us with some good refreshments! I am eagerly waiting for the next meetup. All in all, it was a wonderful Saturday. Thank you Dribbble.” - &lt;strong&gt;Sweta Shrestha&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Dribbble Meetup Kathmandu” is the first UX/UI event that I have ever attended. Dribbble Meetup Kathmandu was happening for the first time in Kathmandu so it was fun and inspirational. It was good learning &amp;amp; networking with UX/UI designers”  - &lt;strong&gt;Rohit Shrestha&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Dribbble-blog/Dribbbleer-1.jpg&quot; alt=&quot;Dribbble&quot; /&gt;&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/Dribbble-meetup/&quot;&gt;Dribbble Meetup 2015&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on September 23, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Deploy a Laravel 5 application with Capistrano 3]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/deploy-laravel5-with-capistrano3/" />
+  <id>http://blog.yipl.com.np/deploy-laravel5-with-capistrano3</id>
+  <updated>2015-09-20T00:00:00-00:00</updated>
+  <published>2015-09-20T00:00:00+04:00</published>
+  
+  <author>
+    <name>Sumit Chhetri</name>
+    <uri>http://blog.yipl.com.np</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;A week ago, I wrote a blog on &lt;a href=&quot;http://blog.yipl.com.np/automated-deployment/&quot;&gt;Automated Deployment With Capistrano&lt;/a&gt;. This is a part-2 to that bolg. Here, you will learn to deploy a &lt;a href=&quot;http://laravel.com/&quot;&gt;Laravel 5&lt;/a&gt; application using &lt;a href=&quot;http://capistranorb.com/&quot;&gt;Capistrano 3&lt;/a&gt;. If you come across some terminologies, of which you have no idea, please checkout these &lt;a href=&quot;http://shhetri.github.io/capistrano-presentation/#/11&quot;&gt;slides&lt;/a&gt;. Now lets learn how to deploy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/testing-deployment/laravel-capistrano.png&quot; alt=&quot;Deploy Screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;assumptions&quot;&gt;Assumptions&lt;/h2&gt;
+
+&lt;p&gt;I will assume that the following things are setup before you try the rest of the steps.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ruby-lang.org/en/&quot;&gt;Ruby&lt;/a&gt; version 1.9.3 or newer in your local machine.&lt;/li&gt;
+  &lt;li&gt;A server to deploy your application and ssh access to the server with public key.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://laravel.com/docs/5.1#installation&quot;&gt;Laravel 5&lt;/a&gt; application and the server requirements for running it.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://git-scm.com/downloads&quot;&gt;Git&lt;/a&gt; in your local machine and in server. Make sure you do host your application in GitHub or any other git repository hosting service.&lt;/li&gt;
+  &lt;li&gt;I will name the laravel application as &lt;strong&gt;blog&lt;/strong&gt;. You can use any name of your choice.&lt;/li&gt;
+  &lt;li&gt;A working domain name (eg: blog.app) which points to the application public path in the installation directory of the server, that you will define in the &lt;code&gt;staging.rb&lt;/code&gt; file below.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Install Capistrano in your local machine
+&lt;code&gt;
+$ gem install capistrano
+&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Initialize Capistrano in your project
+&lt;code&gt;
+blog $ cap install
+&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Done!! It was as simple as that.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Now you just need to configure the server, write some deploy scripts and you are good to go.&lt;/p&gt;
+
+&lt;p&gt;Let’s first see, what exactly the &lt;code&gt;cap install&lt;/code&gt; command did in your project.&lt;/p&gt;
+
+&lt;h3 id=&quot;project-strucutre&quot;&gt;Project Strucutre&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;
+blog
+    ├── Capfile
+    |── config
+    │   ├── deploy
+    │   │   ├── production.rb
+    │   │   └── staging.rb
+    │   └── deploy.rb
+    └── lib
+        └─ capistrano
+            └── tasks
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;As you can see, it created some files and folders in you project. I will just briefly explain what each file consists.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Capfile : This is the first file capistrano reads when you run the deploy command. It takes care of loading the bundled deploy tasks as well as any custom tasks from &lt;code&gt;lib/capistrano/tasks&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;deploy.rb : Configuration that applies to all stages can be set in this file. You will write your deploy tasks in this file which runs for all the stages.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;production.rb/staging.rb : These are the stage specific files where you configure you correspondong server. These may also contain the deploy tasks which will run only for the corresponding server.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;configuration&quot;&gt;Configuration&lt;/h2&gt;
+
+&lt;p&gt;Now you will configure your server and write some deploy scripts to deploy the blog into the server.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;
+staging.rb
+
+# server ip address, username with which you ssh to your server and the roles assigned to this server
+server '192.168.10.10', user: 'vagrant', roles: %w{app db web}
+
+# path to deploy the project
+set :deploy_to, '/home/vagrant/www/app/staging'
+
+# set some variables that is used in deploy tasks written in deploy.rb
+# don't keep the sensetive credentials here; like database name, username and password
+# you can use overlay for setting sensetive information.
+set :app_path, '/home/vagrant/www/app/staging/current'
+set :app_debug, false
+set :app_key, 'NrLNIrApophsxQzbm98DGNlnWK1wxxdc'
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I am assuming your server to be an &lt;code&gt;staging server&lt;/code&gt; and hence, only configuring &lt;code&gt;staging.rb&lt;/code&gt; file. I have configured it for my server, which is a vagrant box, homestead. The idea is same for different servers.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;
+deploy.rb
+
+# config valid only for current version of Capistrano
+lock '3.4.0'
+
+# application name
+set :application, 'blog'
+
+# repo url to the project
+set :repo_url, 'https://github.com/shhetri/blog.git'
+
+namespace :environment do
+    desc &quot;Set environment variables&quot;
+    task :set_variables do
+        on roles(:app) do
+              puts (&quot;--&amp;gt; Create enviroment configuration file&quot;)
+              execute &quot;cat /dev/null &amp;gt; #{fetch(:app_path)}/.env&quot;
+              execute &quot;echo APP_DEBUG=#{fetch(:app_debug)} &amp;gt;&amp;gt; #{fetch(:app_path)}/.env&quot;
+              execute &quot;echo APP_KEY=#{fetch(:app_key)} &amp;gt;&amp;gt; #{fetch(:app_path)}/.env&quot;
+        end
+    end
+end
+
+namespace :composer do
+    desc &quot;Running Composer Install&quot;
+    task :install do
+        on roles(:app) do
+            within release_path do
+                execute :composer, &quot;install --no-dev&quot;
+                execute :composer, &quot;dumpautoload&quot;
+            end
+        end
+    end
+end
+
+namespace :deploy do
+  after :updated, &quot;composer:install&quot;
+  after :finished, &quot;environment:set_variables&quot;
+end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Here, I have written two tasks named, &lt;code&gt;set_variables&lt;/code&gt; inside &lt;code&gt;environment&lt;/code&gt; namespace and &lt;code&gt;install&lt;/code&gt; inside &lt;code&gt;composer&lt;/code&gt; namespace. Its clear with the command name itself, what these tasks do. After the repo is cloned form the github, the packages are installed through composer and after the deploy is finished, the environment variables are setup. These are the minimal tasks I have demostrated here as each project has its own requirements, and so its own deploy tasks. You can follow the same pattern to write your own tasks. Just be sure on when to call your tasks. Capistrano comes with predefined &lt;a href=&quot;http://capistranorb.com/documentation/getting-started/flow/&quot;&gt;workflow&lt;/a&gt; and you must check it.&lt;/p&gt;
+
+&lt;h2 id=&quot;deploy&quot;&gt;Deploy&lt;/h2&gt;
+
+&lt;p&gt;You have configured the server and the deploy tasks. Now its time to deploy your application.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+blog $ cap staging deploy
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;The command takes the form of : cap &lt;em&gt;stage&lt;/em&gt; deploy&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Stage&lt;/em&gt; could be staging, production or any other.&lt;/p&gt;
+
+&lt;p&gt;Now if you hit your registered domain name for this application, in the browser, you will see your application up and running.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/deploy-laravel5-with-capistrano3/&quot;&gt;Deploy a Laravel 5 application with Capistrano 3&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on September 20, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Logging with Monolog on LogEntries from your application]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/logging-with-Monolog-into-logentries/" />
+  <id>http://blog.yipl.com.np/logging-with-Monolog-into-logentries</id>
+  <updated>2015-09-19T00:00:00-00:00</updated>
+  <published>2015-09-19T00:00:00+04:00</published>
+  
+  <author>
+    <name>Sachit Bir Singh Dongol</name>
+    <uri>http://blog.yipl.com.np</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;I am currently working on a &lt;a href=&quot;http://laravel.com/&quot;&gt;Laravel&lt;/a&gt; project which has taught me a lot of new things and among those that I have learnt, I’ll be shedding a little light on &lt;a href=&quot;https://en.wikipedia.org/wiki/Logfile&quot;&gt;Logging&lt;/a&gt;, &lt;a href=&quot;http://geshan.com.np/blog/2015/08/importance-of-logging-in-your-applications/&quot;&gt;the importance of it&lt;/a&gt; and how and where to log.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/LogEntriesVsLoggly/logEntries-logo.jpeg&quot; alt=&quot;LogEntries&quot; /&gt; &lt;img src=&quot;/images/LogEntriesVsLoggly/Loggly-logo.png&quot; alt=&quot;Loggly&quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;We have been using &lt;a href=&quot;https://logentries.com/&quot;&gt;LogEntries&lt;/a&gt; for our project and its really cool. My colleagues, on the other hand use &lt;a href=&quot;https://www.loggly.com/&quot;&gt;Loggly&lt;/a&gt; which is cool too. I have put up a small comparison between the two services below, which would help you choose between them.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/LogEntriesVsLoggly/logEntriesVsLoggly.png&quot; alt=&quot;LogEntriesVsLoggly&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;logentries&quot;&gt;Logentries&lt;/h2&gt;
+
+&lt;h3 id=&quot;pros&quot;&gt;Pros&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Great search with regex support.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Real time alerts.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Timestamps are displayed in local timezone.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Works with multiple Paas and IaaS.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cons&quot;&gt;Cons&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Character limit for each log entry.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Blocked by ad blockers by default.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Can’t track the source of errors of 3rd party libraries.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;No CDN for web client logger.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;loggly&quot;&gt;Loggly&lt;/h2&gt;
+
+&lt;h3 id=&quot;pros-1&quot;&gt;Pros&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Supports raw text, syslogs and JSON.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Automatically captures JavaScript errors.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;CDN hosted.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cons-1&quot;&gt;Cons&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Timestamps are in UTC.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;No stack traces for JavaScript.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;JavaScript tracker has removed tag support.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;JS tracker on CDN is block by ad blockers by default.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With a really simple API and lots of other &lt;a href=&quot;https://logentries.com/product/&quot;&gt;cool features&lt;/a&gt;, we can store our logs and can view it online. Laravel is a really cool framework and there is a lot just out of the box, one of which is the &lt;a href=&quot;https://github.com/Seldaek/monolog&quot;&gt;Monolog&lt;/a&gt; handler that Laravel uses by default to log errors, which means we need not create our own handler. You can change the logging related values in the ‘app.php’ file in the ‘config’ directory.&lt;/p&gt;
+
+&lt;p&gt;To start logging into LogEntries, you first have to get an account which gets you a “Manual TCP” token. Then open the app/Providers/AppServiceProvider.php file, where you will find a register() method. Add the following lines to the end of the method.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-php&quot; data-lang=&quot;php&quot;&gt;&lt;span class=&quot;x&quot;&gt;$logEntriesHandler = new LogEntriesHandler(env(&amp;#39;LOGENTRIES_TOKEN)&amp;#39;));&lt;/span&gt;
+&lt;span class=&quot;x&quot;&gt;$log = $this-&amp;gt;app[&amp;#39;log&amp;#39;]-&amp;gt;getMonolog();&lt;/span&gt;
+&lt;span class=&quot;x&quot;&gt;$log-&amp;gt;pushHandler($logEntriesHandler);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;What this does is it pushes our new monolog LogEntriesHandler that we will be using to log data into LogEntries.&lt;/p&gt;
+
+&lt;p&gt;And don’t forget to add the reference to the LogEntriesHandler at the top of the file.&lt;/p&gt;
+
+&lt;p&gt;Notice that we have stored our LogEntries Token in our env file so it will be easy to change it if need be.&lt;/p&gt;
+
+&lt;p&gt;That’s pretty much there is to it. You can now view your logs in your &lt;a href=&quot;https://logentries.com/&quot;&gt;LogEntries&lt;/a&gt; account. If you want to know more on this, you can check out their &lt;a href=&quot;https://logentries.com/doc/&quot;&gt;documentation&lt;/a&gt; which is a pretty decent one.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Happy Logging !&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/logging-with-Monolog-into-logentries/&quot;&gt;Logging with Monolog on LogEntries from your application&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on September 19, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Young Innovations weekly #7]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-07/" />
+  <id>http://blog.yipl.com.np/younginnovations-weekly-07</id>
+  <updated>2015-09-18T00:00:00-00:00</updated>
+  <published>2015-09-18T00:00:00+04:00</published>
+  
+  <author>
+    <name>Sudil Shrestha</name>
+    <uri>http://blog.yipl.com.np</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;This has been a great week at YIPL with teej right around the corner. Everybody was excited for the teej party, organized at our very own office by our very own ladies, Radhika, Neha, Kriti and I’m sure others helped as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/weekly07/TEEJ_GROUP.jpg&quot; alt=&quot;YIPL Group Photo&quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;The ladies had prepared games to get all of the people involved and win some prizes. The games where only for the guys at YIPL which is fair since it’s the day for the ladies and they get a pardon. I’m sure they had fun watching us guys getting embarassed when we did the ramp walk to show off our formal attire, which was won by Achyut.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/weekly07/RAMP_WALK.jpg&quot; alt=&quot;Ramp Walk&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There was game ‘Balloon on the Air’ won by Manoj, ‘Pop the Balloon’ won by Nirajan and Prawesh, ‘Musical Chair’ won by Prashant and the last game and most fun, ‘kiss your bride’ where guys got to wear lipstick and had to kiss posters of popstars blindfolded which Rakeeb won. I’m very sure all of us had a very good time, I know I did.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/weekly07/POP_LOON.jpg&quot; alt=&quot;Pop the Balloon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/weekly07/MUSICAL_CHAIR.jpg&quot; alt=&quot;Musical Chair&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/weekly07/DANCE.jpg&quot; alt=&quot;The Final Dance&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Also we had our knowledge sharing program on Tuesday which was preponded due to teej on Wednesday, which was a holiday for the ladies. We guys had to work though. Anyways, our Sr. UX developer, Sweta gave a great presentation on ‘Quantity Queries’. If you want to go through the presentation slide, here is &lt;a href=&quot;http://blog.yipl.com.np/quantityqueries/&quot;&gt;the link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/weekly07/KSW(09-15-2015).jpg&quot; alt=&quot;KSW by Sr. UX developer, Sweta&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And here are the links shared by us at YIPL to help you make your weekend productive. Hope you have a great weekend.&lt;/p&gt;
+
+&lt;p&gt;Like we say here at YIPL,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Work hard, Play hard.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://code.tutsplus.com/articles/10-common-web-developer-mistakes--cms-24791&quot;&gt;10 common web developer mistakes - tuts code article&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.informationweek.com/cloud/10-free-tools-for-productive-programming/d/d-id/1322137?image_number=1&quot;&gt;10 free tools for productive programming - informationweek&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://techbeacon.com/top-agile-tools-keep-software-engineers-productive&quot;&gt;12 must-have agile tools that keep software engineers productive&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.ionic.io/animating-elements-in-your-ionic-app/&quot;&gt;animating elements in your ionic app - the official ionic blog&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.expeditedssl.com/aws-in-plain-english&quot;&gt;aws in plain english&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://wiki.jenkins-ci.org/display/JENKINS/Drupal Developer Plugin&quot;&gt;code reviews and testing for drupal sites using jenkins&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.wired.com/2015/09/google-2-billion-lines-codeand-one-place/&quot;&gt;google is 2 billion lines of code—and it’s all in one place - wired&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.mailchimp.com/hire-people-not-skills/&quot;&gt;hire people, not skills - mailchimp email marketing blog&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.inc.com/rahul-varshneya/how-to-build-a-mobile-app-startup-with-no-technical-background.html&quot;&gt;how to build a mobile app startup with no technical background - inc.com&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://code.facebook.com/posts/1189117404435352/&quot;&gt;react native for android: how we built the first cross-platform react native app - engineering blog - facebook code - facebook&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://techblog.trunkclub.com/javascript/2015/09/14/reactjs-the-good-and-the-bad.html&quot;&gt;react.js: the good and the bad&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://support.mozilla.org/en-US/kb/troubleshoot-extensions-themes-to-fix-problems&quot;&gt;troubleshoot extensions, themes and hardware acceleration issues to solve common firefox problems - firefox help&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://support.mozilla.org/en-US/kb/warning-unresponsive-script&quot;&gt;warning unresponsive script - what it means and how to fix it - firefox help&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.theverge.com/2015/9/17/9338963/welcome-to-hell-apple-vs-google-vs-facebook-and-the-slow-death-of-the-web&quot;&gt;welcome to hell: apple vs. google vs. facebook and the slow death of the web - the verge&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.quora.com/What-are-some-of-the-most-successful-mobile-apps-revenue-models&quot;&gt;what are some of the most successful mobile apps revenue models? - quora&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.infoq.com/articles/agile-didnt-work&quot;&gt;why agile didn’t work&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.wired.com/2015/09/whatsapp-serves-900-million-users-50-engineers/?mbid=social_twitter&quot;&gt;why whatsapp only needs 50 engineers for its 900m users - wired&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://learninglaravel.net/new-acl-features-in-laravel-5111/link&quot;&gt;learning laravel&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/younginnovations-weekly-07/&quot;&gt;Young Innovations weekly #7&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on September 18, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[A Telephony Application - VoiceInn and Its Architecture]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/telephony-application-voiceinn-and-its-architecture/" />
+  <id>http://blog.yipl.com.np/telephony-application-voiceinn-and-its-architecture</id>
+  <updated>2015-09-29T00:00:00-00:00</updated>
+  <published>2015-09-15T00:00:00+04:00</published>
+  
+  <author>
+    <name>Achyut Devkota</name>
+    <uri>http://blog.yipl.com.np</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;VoiceInn is an internal project of YoungInnovations to provide an interactive telephony service with user friendly web interface. It includes three main telephony services - Vsurvey, Vboard and Vsupport. The modular feature of VoiceInn allows client to take service they need and also provide a customizable feature as required.
+&lt;img src=&quot;/images/voiceinn/voiceinn.jpg&quot; alt=&quot;voiceinn logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Normally telephone service with IVR supports incoming call only but VoiceInn provides inbound as well as outbound call IVR. Outbound call can be set immediately as well as can be scheduled to a single or multiple numbers at once. 
+&lt;!--more--&gt;
+Any changes made by client after login  will take instant effect in telephone application after it is saved.&lt;/p&gt;
+
+&lt;h3 id=&quot;services&quot;&gt;Services&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Vsurvey&lt;/strong&gt; &lt;em&gt;- is a voice survey unlike normal survey in form.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/voiceinn/vsurvey.jpg&quot; alt=&quot;Vsurvey service&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Clients create voice survey from web interface by uploading audio file or recording from web page.  When they have done uploading audio questions they have to make a dialplan by arranging the questions. There are two methods of getting response from survey participants - either by audio answer or by dialing digit from keypad of phone set.&lt;/p&gt;
+
+&lt;p&gt;Response can be collected from participants either by receiving call from participants or by calling the participants. The system can call participants individually as well as in a group.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vboard&lt;/strong&gt; &lt;em&gt;- is a Noticeboard service.&lt;/em&gt;
+&lt;img src=&quot;/images/voiceinn/vboard.jpg&quot; alt=&quot;Vboard service&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Clients can broadcast noticeboard by recording from phone or uploading audio file from VoiceInn website. When clients set broadcast then it becomes effective. Broadcast can be scheduled at any time in the future. Unlike other noticeboard services it supports outbound calls as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vsupport&lt;/strong&gt; &lt;em&gt;- is a voice support service.&lt;/em&gt;
+&lt;img src=&quot;/images/voiceinn/vsupport.jpg&quot; alt=&quot;Vsupport service&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Users call to a support number and record complaints/ queries. For those who want to get instant support there is a live operator forward option. If first operator needs help to solve users’ complains, s/he can add other individuals and can make it as conference call or s/he can simply forward the call to other relevant numbers. All queries and complains appear in support dashboard for further followups.&lt;/p&gt;
+
+&lt;h3 id=&quot;voiceinn-components&quot;&gt;VoiceInn Components&lt;/h3&gt;
+&lt;p&gt;Asterisk, adhearsion and flask are the major components used to build VoiceInn. Asterisk, is a communication server, handles all kinds of telephone functionalities whereas  adhearsion, is a telephone application framework,  that control calls dialplan. Flask, a web microframework build in python, is used to make user interface.&lt;/p&gt;
+
+&lt;h3 id=&quot;voiceinn-architecture&quot;&gt;VoiceInn Architecture&lt;/h3&gt;
+&lt;p&gt;Call channels (SIP trunk, PSTN, E1) are connected to asterisk from telecom providers. The calls are asynchronously transferred to adhearsion application through a Asterisk Manager Interface(AMI) connection. Then all the call flows are controlled by adhearsion callcontroller.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/voiceinn/architecture.jpg&quot; alt=&quot;VoiceInn Architecture&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Each call logs and activity logs are stored in MySQL database from asterisk, adhearsion and flask. Open DataBase Connectivity(ODBC) is used to store Call Details Report (CDR) in database from asterisk. Except CDR, all call logs are handled by adhearsion and stored in database. Both telephone system and web interface (Flask) share same database. So any changes from client dashboard directly affects telephone call flow. Beside same database, Some APIs are used to connect application with client web UI. Handler handles all kind of APIs and parse data. This handler is primarily used for originating outbound call from client UI.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/voiceinn/handler.jpg&quot; alt=&quot;Call Handler&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Different APIs are handled by API handler. If there is an API request for a single call then it immediately sends a request to originate call. If call request is more than one then it checks for time of call. If time is immediate then call takes place, or else handler starts scheduler. Queue handler makes queue for multiple call before sending requests to originate call to asterisk through adhearsion.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/voiceinn/adhearsion_call_controller.jpg&quot; alt=&quot;Adhearsion Architecture&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Adhearsion has very flexible call controller to handle calls. Incoming as well as outgoing calls are routed by router to a specific callcontroller. Each controller has ability to include other controllers. In this case call can be passed to included call controller and returns to original controller after execution is completed. And also call can pass to other call controller with parameter.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;3a9e1922f56d44bba98f0bbfdb326aff&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;VoiceInn has modular call controllers for each service and feature. So that services and features can be enabled and disabled according to clients’ need. Individual client maintains his/her own set of  available features. For instance, a client can use only Vboard service with inbound and outbound call feature.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/telephony-application-voiceinn-and-its-architecture/&quot;&gt;A Telephony Application - VoiceInn and Its Architecture&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on September 15, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Young Innovations weekly #6]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-06/" />
+  <id>http://blog.yipl.com.np/younginnovations-weekly-06</id>
+  <updated>2015-09-11T00:00:00-00:00</updated>
+  <published>2015-09-11T00:00:00+04:00</published>
+  
+  <author>
+    <name>Prashant Shrestha</name>
+    <uri>http://blog.yipl.com.np</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;This week we were part of a Partner workshop on &lt;a href=&quot;http://developmentcheck.org/&quot;&gt;DevelopmentCheck&lt;/a&gt;. &lt;a href=&quot;http://developmentcheck.org/&quot;&gt;DevelopmentCheck&lt;/a&gt; is a user driven and solution oriented online tool for citizen feedback on the transparency, participation and effectiveness of development projects. This tool was developed by YoungInnovations for &lt;a href=&quot;http://www.integrityaction.org/&quot;&gt;IntegrityAction&lt;/a&gt;. We had participants from many countries like Kenya, Democratic Republic of Congo, Palestine, Liberia, Sierra Leone and Nepal present in the workshop. The workshop ended with a dinner where all the participants enjoyed some authentic Nepali cuisines. The partners also had a lot of fun dancing to traditional Nepali tunes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/weekly06/dinner-ia.jpg&quot; alt=&quot;Dinner with Integrity Aciton&quot; /&gt;
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;I also participated in a Branding Strategy Development Workshop for Chyangra Pashmina as part of the Pashmina Enhancement &amp;amp; Trade Support(PETS) project. We have been working with &lt;a href=&quot;http://www.intracen.org/&quot;&gt;ITC&lt;/a&gt; to develop the website for Chyangra Pashmina.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/weekly06/cp-brand.jpg&quot; alt=&quot;Chyangra Pashmina Branding Strategy Development Workshop&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As usual here are our weekly selection of interesting reads to keep you busy this weekend.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.alexkras.com/19-git-tips-for-everyday-use/&quot;&gt;19 tips for everyday git use&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2015/09/making-svg-maps-from-natural-earth-data/&quot;&gt;a guide to building svg maps from natural earth data – smashing magazine&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://capistranorb.com/&quot;&gt;a remote server automation and deployment tool written in ruby.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://laracasts.com/series/whats-new-in-laravel-5-1/episodes/13&quot;&gt;acl in laravel: part 1&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/&quot;&gt;an introduction to microservices, part 1&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://developers.google.com/android/for-all/vocab-words/&quot;&gt;android vocabs&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://labs.bigroomstudios.com/libraries/animo-js&quot;&gt;animo.js • labs by big room studios&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://docs.ansible.com/ansible/intro.html&quot;&gt;ansible docs&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.pegler.co/2012/03/django-deployment.html&quot;&gt;automating deployment - hubot and fabric - matt pegler&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460&quot;&gt;beginner’s guide to webpack — medium&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://robots.thoughtbot.com/better-commit-messages-with-a-gitmessage-template&quot;&gt;better commit messages with a .gitmessage template&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://vexxhost.com/resources/tutorials/centos-6-to-centos-7-upgrade-procedure/&quot;&gt;centos 6 to centos 7 upgrade procedure&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.devbattles.com/en/sand/post-1732-&quot;&gt;create and save files in javascript&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blogs.adobe.com/dreamweaver/2015/09/css-vs-svg-shapes-and-arbitrarily-shaped-ui-components.html&quot;&gt;css vs. svg: shapes and arbitrarily-shaped ui components : adobe dreamweaver team blog&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://code.tutsplus.com/articles/data-structures-with-javascript-stack-and-queue--cms-23348&quot;&gt;data structures with javascript: stack and queue - tuts code article&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://cheerfulsw.com/2015/destroying-apples-legacy/&quot;&gt;destroying apple’s legacy… or saving it : cheerful&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://internetdevels.com/blog/drupal-7-vs-drupal-8-prezi-presentation&quot;&gt;drupal 7 vs drupal 8: presentation — internetdevels official blog&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://colans.net/blog/drupal-helpers-tools-devops-and-deployment&quot;&gt;drupal helpers: tools for devops and deployment - colan schwartz&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.pixelite.co.nz/article/dynamic-content-caching-based-on-attributes-in-drupal-7/&quot;&gt;dynamic content caching based on attributes in drupal 7 - pixelite&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/fabric-bolt/fabric-bolt&quot;&gt;fabric deployments via a web interface&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://serversforhackers.com/video/firewalls-basics-of-iptables&quot;&gt;firewalls: basics of iptables - servers for hackers&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.codinghorror.com/flattening-arrow-code/&quot;&gt;flattening arrow code - too many nesting&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://flexboxin5.com/&quot;&gt;flexbox in 5 minutes&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://cloudacademy.com/cloud-computing/courses/getting-started-with-docker/&quot;&gt;getting started with docker&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ftp.newartisans.com/pub/git.from.bottom.up.pdf&quot;&gt;git from bottom up&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/google-play-services-using-the-nearby-connections-api--cms-24534&quot;&gt;google play services: using the nearby connections api - tuts code tutorial&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://materialdesignblog.com/googles-material-design-language-can-inject-life-into-your-boring-website/&quot;&gt;google’s material design language can inject life into your boring website&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://jekyll-windows.juthilo.com/&quot;&gt;home · run jekyll on windows&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dmitryfrank.com/articles/js_closures&quot;&gt;how do javascript closures work under the hood [dmitry frank]&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mikecr.it/ramblings/how-drupal-7-works-part-2-the-bootstrap&quot;&gt;how drupal 7 works, part 2: the bootstrap - mike crittenden&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.wellnet.it/en/blog/how-drupal-8-builds-your-pages-infographic&quot;&gt;how drupal 8 builds your pages [infographic] - wellnet milano&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.devbattles.com/en/sand/post-1742-How_to_play_with_setIterval_in_JavaScript&quot;&gt;how to play with setiterval in javascript&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/@thomasfuchs/how-to-write-an-error-message-883718173322&quot;&gt;how to write a great error message — medium&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html?&quot;&gt;how we ended up with microservices.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://hubot.github.com/&quot;&gt;hubot - chatbot by github&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/introduction-to-scratch--cms-23855&quot;&gt;introduction to scratch - tuts code tutorial&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/LaraDock/laradock&quot;&gt;laradock/laradock&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://alves.im/minigrid/&quot;&gt;minigrid: minimal 2kb cascading grid layout - by @healves82&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v4.0.0/&quot;&gt;node v4.0.0 (stable)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://opensource.com/life/15/9/open-source-alternatives-gmail&quot;&gt;open source webmail clients for browser-based email - opensource.com&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/phpro/grumphp&quot;&gt;phpro/grumphp&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://serversforhackers.com/series/process-monitoring?utm_source=Servers for Hackers&quot;&gt;process monitoring - servers for hackers&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.kris-lab.com/pulsar-rest-api/&quot;&gt;pulsar rest api - kris-lab’s blog (krzysztof chris stasiak)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.cio.com/article/2431557/developer/running-an-effective-code-review.html&quot;&gt;running an effective code review - cio&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://supervisord.org/index.html&quot;&gt;supervisor: a process control system — supervisor 3.1.3 documentation&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://topalternatives.com/best-business-apps/&quot;&gt;the best business apps of 2015 - topalternatives&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://virtuecenter.com/blog/the_effects_of_computer_programming_on_the_brain.html&quot;&gt;the effects of computer programming on the brain&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://hacks.mozilla.org/2015/09/the-future-of-layout-with-css-grid-layouts/?utm_source=html5weekly&quot;&gt;the future of layout with css: grid layouts ✩ mozilla hacks – the web developer blog&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/fgrehm/notify-send-http&quot;&gt;trigger notify-send across the network using http&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.dailymail.co.uk/sciencetech/article-3225281/Turn-phone-BODYGUARD-Companion-app-virtually-accompanies-journeys-warns-friends-family-trouble.html&quot;&gt;turn your phone into a bodyguard: companion app virtually accompanies you on journeys and warns friends and family if you’re in trouble - daily mail online&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://realpython.com/blog/python/web-scraping-with-scrapy-and-mongodb/&quot;&gt;web scraping with scrapy and mongodb - real python&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://themasterworld.com/web-services-in-php-get-post-and-request/&quot;&gt;web services in php get post and request&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/@stiebitzhofer/why-developers-should-speak-at-meetups-6dec5d101d16&quot;&gt;why developers should speak at meetups — medium&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/younginnovations-weekly-06/&quot;&gt;Young Innovations weekly #6&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on September 11, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Automated Testing with PHPUnit is a puzzle, Continuous Integration is the missing Piece [Slides]]]></title>
   <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/automated-testing-and-continuous-integration/" />
   <id>http://blog.yipl.com.np/automated-testing-and-continuous-integration</id>
-  <updated>2015-09-5T00:00:00-00:00</updated>
-  <published>2015-09-05T00:00:00+05:45</published>
+  <updated>2015-09-05T00:00:00-00:00</updated>
+  <published>2015-09-05T00:00:00+04:00</published>
   
   <author>
     <name>Sachit Bir Singh Dongol</name>
@@ -55,7 +838,56 @@
   &lt;p&gt;Write testable code and readable tests.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/automated-testing-and-continuous-integration/&quot;&gt;Automated Testing with PHPUnit is a puzzle, Continuous Integration is the missing Piece.&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on September 05, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/automated-testing-and-continuous-integration/&quot;&gt;Automated Testing with PHPUnit is a puzzle, Continuous Integration is the missing Piece [Slides]&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on September 05, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Still stuck with FTP or Git pull to deploy? It's high time to embrace Automated Deployment with Capistrano [Slides]]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/automated-deployment/" />
+  <id>http://blog.yipl.com.np/automated-deployment</id>
+  <updated>2015-09-05T00:00:00-00:00</updated>
+  <published>2015-09-05T00:00:00+04:00</published>
+  
+  <author>
+    <name>Sumit Chhetri</name>
+    <uri>http://blog.yipl.com.np</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;Are you still using FTP to deploy your code? Are you still manually performing the same steps of deploying a feature, again and again? How many hours have you spent on ssh-ing into the server, pulling the repo, migrating the database, reloading the web server and so on, for each deployment?? Ever wondered if there is a process as simple as a single click to perform all these steps for you?&lt;/p&gt;
+
+&lt;p&gt;Automated Deployment does exactly these things for you. It takes the burden of remembering all the steps required in each deployment process and execute it smoothly.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/testing-deployment/deploy-screenshot.png&quot; alt=&quot;Deploy Screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;You don’t need to know the rocket sicence to conclude that machine is reliable, efficient and faster than humans. In context to the software development, be it writing your code, testing your code and deploying your code, it is not a different story. You need to leverage the tools and technologies available, if you want to be a better software engineer. If the tools are free that is even better.&lt;/p&gt;
+
+&lt;p&gt;In regard to software deployment, just try to count the number of times you deploy your software to staging, testing or production server, during its life cycle. I am pretty sure you don’t have an exact number, or if you have, it is no less than hundreds. In each deployment you execute, it involves numerous steps; be it running some package installer scripts/commands, migrating your databases, notifying the clients about the deployment, and so on, which you will repeat again and again. You have no guarantee either, that the deployment will be successful each and everytime because YOU, a human, are deploying. Since you are deploying, it is more likely to be error prone than it would have been, had it been automated.&lt;/p&gt;
+
+&lt;p&gt;I am going to deliver a presentation in the &lt;a href=&quot;https://developers-nepal.github.io/php/meetups/05-Sep-2015/&quot;&gt;PHP Dev Meetup #14&lt;/a&gt; on the very topic and below are the slides for that presentation. You can have a look at it and decide for yourself, whether you wanna keep getting stuck to the old fashioned and unreliable deployment process or or you want to follow modern deployment paradigm.&lt;/p&gt;
+
+&lt;h3 id=&quot;slides&quot;&gt;Slides&lt;/h3&gt;
+
+&lt;center&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/2pJCggyg9f24hj&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/SumitChhetri1/automated-deployment-with-capistrano&quot; title=&quot;Automated Deployment with Capistrano&quot; target=&quot;_blank&quot;&gt;Automated Deployment with Capistrano&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/SumitChhetri1&quot; target=&quot;_blank&quot;&gt;Sumit Chhetri&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You can also view the slides in browser from &lt;a href=&quot;http://shhetri.github.io/capistrano-presentation/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There is a &lt;a href=&quot;http://blog.yipl.com.np/deploy-laravel5-with-capistrano3/&quot;&gt;part-2&lt;/a&gt; to this blog, in which I have written in detail, on how you can setup and deploy a &lt;a href=&quot;http://laravel.com/&quot;&gt;Laravel 5&lt;/a&gt; project using &lt;a href=&quot;http://capistranorb.com/&quot;&gt;Capistrano 3&lt;/a&gt;. So do check it out.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Happy Deploying!! :)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/automated-deployment/&quot;&gt;Still stuck with FTP or Git pull to deploy? It's high time to embrace Automated Deployment with Capistrano [Slides]&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on September 05, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -67,7 +899,7 @@
   <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-05/" />
   <id>http://blog.yipl.com.np/younginnovations-weekly-05</id>
   <updated>2015-09-03T00:00:00-00:00</updated>
-  <published>2015-09-03T00:00:00+05:45</published>
+  <published>2015-09-03T00:00:00+04:00</published>
   
   <author>
     <name>Santosh Neupane</name>
@@ -229,7 +1061,7 @@
   <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/how-to-integrate-hookah-laravel/" />
   <id>http://blog.yipl.com.np/how-to-integrate-hookah-laravel</id>
   <updated>2015-08-29T00:00:00-00:00</updated>
-  <published>2015-08-29T00:00:00+05:45</published>
+  <published>2015-08-29T00:00:00+04:00</published>
   
   <author>
     <name>Geshan Manandhar</name>
@@ -266,7 +1098,7 @@ how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
   <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-04/" />
   <id>http://blog.yipl.com.np/younginnovations-weekly-04</id>
   <updated>2015-08-28T00:00:00-00:00</updated>
-  <published>2015-08-28T00:00:00+05:45</published>
+  <published>2015-08-28T00:00:00+04:00</published>
   
   <author>
     <name>Manoj Byanjankar</name>
@@ -422,11 +1254,154 @@ how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
   
 
 <entry>
+  <title type="html"><![CDATA[Automate Your Tasks Easily with Gulp]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/gulp-workflow/" />
+  <id>http://blog.yipl.com.np/gulp-workflow</id>
+  <updated>2015-08-28T00:00:00-00:00</updated>
+  <published>2015-08-28T00:00:00+04:00</published>
+  
+  <author>
+    <name>Nirajan Basnet</name>
+    <uri>http://blog.yipl.com.np</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;It was the first time I was using Gulp. The experience, I must say, was quite enjoyable.
+&lt;a href=&quot;https://www.gulpjs.com&quot;&gt;Gulp&lt;/a&gt; is a javascript automated task runner. And it prefers code over configuration and gives you the plugins to create tasks that fit your specific needs and helps in the production process.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/1400/1*jbeaev-Xdy4S4pNNJHwA0Q.png&quot; alt=&quot;Gulp&quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h3 id=&quot;why-we-need-gulp-&quot;&gt;Why we need Gulp ?&lt;/h3&gt;
+
+&lt;p&gt;As front-end developers, we often need to look at the tools we use and decide if we are using the right tool for the job. It creates a good practice within the flow to the system. You’ll save hours of effort and reduce human error. It’s a build tool that helps to speed up your workflow by :
+* Automating Repetitive tasks
+* Optimising Images
+* Concatenating
+* Minifying Css and Javascript
+* Browser Prefixes&lt;/p&gt;
+
+&lt;p&gt;It focuses on piping the result of one task into the next until you reach the point where you’ve completed all your tasks on that particular file.
+To do a front-end project, this was a new world to me! Initially, I usually just dragged my project folder into Prepros and wrote some Scss or LESS but it makes platform dependent which is very difficult to share and co-operate with other members. But after using Gulp the whole thing changed. My workflow became clean, effective and the entire process helped me save a lot of time. So, here’s the further process of how we can include Gulp to our projects.&lt;/p&gt;
+
+&lt;h3 id=&quot;for-gulp-to-run-into-the-system-we-need-following-things-first&quot;&gt;For Gulp to run into the system we need following things first:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Node.js — we’ll be using Node.js, but you don’t need to be a Node.js developer. JavaScript knowledge is helpful but there are plenty snippets to use and adapt.&lt;/li&gt;
+  &lt;li&gt;The command line — you will be typing commands rather than using a GUI.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;documentation&quot;&gt;Documentation&lt;/h3&gt;
+
+&lt;p&gt;For a Getting started guide, API docs, recipes, making a plugin, etc. see the &lt;a href=&quot;https://github.com/gulpjs/gulp/blob/master/docs/README.md&quot;&gt;documentation page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sample gulpfile.js&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/700/1*HUunezYVm2zlYxsLludocQ.png&quot; alt=&quot;gulpfile.js&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;getting-started&quot;&gt;Getting Started&lt;/h3&gt;
+
+&lt;h4 id=&quot;install-gulp-globally&quot;&gt;Install gulp globally&lt;/h4&gt;
+
+&lt;p&gt;$ npm install –global gulp&lt;/p&gt;
+
+&lt;h4 id=&quot;install-gulp-in-your-project-devdependencies&quot;&gt;Install gulp in your project devDependencies&lt;/h4&gt;
+
+&lt;p&gt;$ npm install –save-dev gulp&lt;/p&gt;
+
+&lt;h4 id=&quot;create-a-gulpfilejs-at-the-root-of-the-project&quot;&gt;Create a gulpfile.js at the root of the project&lt;/h4&gt;
+
+&lt;p&gt;var gulp = require(‘gulp’);&lt;/p&gt;
+
+&lt;p&gt;gulp.task(‘default’, function() {
+  // place code for your default task here
+});&lt;/p&gt;
+
+&lt;h4 id=&quot;run-gulp&quot;&gt;Run Gulp&lt;/h4&gt;
+
+&lt;p&gt;$ gulp&lt;/p&gt;
+
+&lt;p&gt;Let’s just have a quick tour on how to set up a Gulp workflow to work with its powerful plugins. Here is what I have included in my project:
+* Sass compilation
+* Image minified
+* Autoprefixer
+* SourceMaps&lt;/p&gt;
+
+&lt;h3 id=&quot;compiling-sass&quot;&gt;Compiling Sass&lt;/h3&gt;
+
+&lt;p&gt;The first thing to do is to install the dependencies and to create a Gulpfile.js.&lt;/p&gt;
+
+&lt;h4 id=&quot;install&quot;&gt;Install&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/748/1*k3Q-en45Uba996wCKuIi1A.png&quot; alt=&quot;sass&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;usage&quot;&gt;Usage&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/757/1*5Ufdi77cRL0RKi6pZu2sbg.png&quot; alt=&quot;sass&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;image-compression&quot;&gt;Image Compression&lt;/h3&gt;
+
+&lt;h4 id=&quot;install-1&quot;&gt;Install&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/759/1*joNwufwJJUgFphaGg3k12w.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;usage-1&quot;&gt;Usage&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/755/1*B6Gr29zNVBPlfUgKC5TVKQ.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;autoprefixer&quot;&gt;Autoprefixer&lt;/h3&gt;
+
+&lt;h4 id=&quot;install-2&quot;&gt;Install&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/748/1*istDCs8RLJuWbJ3z5TXavA.png&quot; alt=&quot;autoprefixer&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;usage-2&quot;&gt;Usage&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/756/1*SpCKtCguQWAtnXQHi23vsw.png&quot; alt=&quot;autoprefixer&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;sourcemaps&quot;&gt;SourceMaps&lt;/h3&gt;
+
+&lt;h4 id=&quot;install-3&quot;&gt;Install&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/751/1*Vm1n-IMkIVZBaiu-BYvlHA.png&quot; alt=&quot;sourcemaps&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;usage-3&quot;&gt;Usage&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/760/1*0_KiBYmo0FczR9v52mad2w.png&quot; alt=&quot;sourcemaps&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;watch&quot;&gt;Watch&lt;/h3&gt;
+
+&lt;p&gt;Before finishing there is still one thing to do: creating a watch task. The point of this task is to watch for changes in stylesheets to recompile them. It is very convenient when working on the project so you don’t have to run the task/command manually every time you save a file.&lt;/p&gt;
+
+&lt;h4 id=&quot;install-4&quot;&gt;Install&lt;/h4&gt;
+
+&lt;p&gt;npm install –save-dev gulp-watch&lt;/p&gt;
+
+&lt;h4 id=&quot;usage-4&quot;&gt;Usage&lt;/h4&gt;
+
+&lt;p&gt;![watch](https://d262ilb51hltx0.cloudfront.net/max/700/1*yEEs45GT_CXp35aLQ1Baqw.png “”)&lt;/p&gt;
+
+&lt;h3 id=&quot;adding-the-final-touch&quot;&gt;Adding the final touch&lt;/h3&gt;
+
+&lt;p&gt;Running gulp in the default task:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/741/1*YSHzxpr-2Wc2-WzLtwP9ug.png&quot; alt=&quot;task&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;Gulp is a popular and powerful tool for automating web development tasks. It seems to be overtaking Grunt in popularity. If you are not currently using Gulp, you should definitely give it a shot!&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://blog.yipl.com.np/gulp-workflow/&quot;&gt;Automate Your Tasks Easily with Gulp&lt;/a&gt; was originally published by YoungInnovations Blog at &lt;a href=&quot;http://blog.yipl.com.np&quot;&gt;YoungInnovations Blog&lt;/a&gt; on August 28, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[Say Hello to Ncell App Camp 2015]]></title>
   <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/NcellAppCamp_Debriefing_session_2015/" />
   <id>http://blog.yipl.com.np/NcellAppCamp_Debriefing_session_2015</id>
   <updated>2015-08-28T00:00:00-00:00</updated>
-  <published>2015-08-28T00:00:00+05:45</published>
+  <published>2015-08-28T00:00:00+04:00</published>
   
   <author>
     <name>Anubhuti Poudyal</name>
@@ -484,7 +1459,7 @@ how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
   <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/quantityqueries/" />
   <id>http://blog.yipl.com.np/quantityqueries</id>
   <updated>2015-09-01T00:00:00-00:00</updated>
-  <published>2015-08-27T00:00:00+05:45</published>
+  <published>2015-08-27T00:00:00+04:00</published>
   
   <author>
     <name>Sweta Shrestha</name>
@@ -597,7 +1572,7 @@ how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
   <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-03/" />
   <id>http://blog.yipl.com.np/younginnovations-weekly-03</id>
   <updated>2015-08-21T00:00:00-00:00</updated>
-  <published>2015-08-21T00:00:00+05:45</published>
+  <published>2015-08-21T00:00:00+04:00</published>
   
   <author>
     <name>Rakeeb Rajbhandari</name>
@@ -798,7 +1773,7 @@ how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
   <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-02/" />
   <id>http://blog.yipl.com.np/younginnovations-weekly-02</id>
   <updated>2015-08-14T00:00:00-00:00</updated>
-  <published>2015-08-14T00:00:00+05:45</published>
+  <published>2015-08-14T00:00:00+04:00</published>
   
   <author>
     <name>Prawesh Shrestha</name>
@@ -994,7 +1969,7 @@ how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
   <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/short-documentary-youngInnovations-tbt/" />
   <id>http://blog.yipl.com.np/short-documentary-youngInnovations-tbt</id>
   <updated>2015-08-13T00:00:00-00:00</updated>
-  <published>2015-08-13T00:00:00+05:45</published>
+  <published>2015-08-13T00:00:00+04:00</published>
   
   <author>
     <name>Prawesh Shrestha</name>
@@ -1028,7 +2003,7 @@ how to integrate Hookah with Laravel 5.x.&lt;/p&gt;
   <link rel="alternate" type="text/html" href="http://blog.yipl.com.np/younginnovations-weekly-01/" />
   <id>http://blog.yipl.com.np/younginnovations-weekly-01</id>
   <updated>2015-08-07T00:00:00-00:00</updated>
-  <published>2015-08-07T00:00:00+05:45</published>
+  <published>2015-08-07T00:00:00+04:00</published>
   
   <author>
     <name>Sweta Shrestha</name>

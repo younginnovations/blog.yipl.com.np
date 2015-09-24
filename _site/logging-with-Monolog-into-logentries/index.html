@@ -5,25 +5,21 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Automated Testing with PHPUnit is a puzzle, Continuous Integration is the missing Piece [Slides] &#8211; YoungInnovations Blog</title>
-<meta name="description" content="Well I&#8217;m going to present today at the 14th PHP developers meetup. I will be talking about Automated Unit Testing and Continuous Integration. I am going to be explaining about why testing, in general is important, the features of unit tests and why CI is cool.
+<title>Logging with Monolog on LogEntries from your application &#8211; YoungInnovations Blog</title>
+<meta name="description" content="I am currently working on a Laravel project which has taught me a lot of new things and among those that I have learnt, I&#8217;ll be shedding a little light on Logging, the importance of it and how and where to log.
 
-Automated tests with phpunit is a puzzle, CI is the missing piece
-
-
+ 
 
 ">
-<meta name="keywords" content="phpunit, unit tests, automated testing, continuous integration, shippable">
+<meta name="keywords" content="laravel, logging, logEntries, loggly">
 
   
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="Automated Testing with PHPUnit is a puzzle, Continuous Integration is the missing Piece [Slides]">
-<meta name="twitter:description" content="Well I&#8217;m going to present today at the 14th PHP developers meetup. I will be talking about Automated Unit Testing and Continuous Integration. I am going to be explaining about why testing, in general is important, the features of unit tests and why CI is cool.
+<meta name="twitter:title" content="Logging with Monolog on LogEntries from your application">
+<meta name="twitter:description" content="I am currently working on a Laravel project which has taught me a lot of new things and among those that I have learnt, I&#8217;ll be shedding a little light on Logging, the importance of it and how and where to log.
 
-Automated tests with phpunit is a puzzle, CI is the missing piece
-
-
+ 
 
 ">
 <meta name="twitter:site" content="@yipl">
@@ -35,15 +31,13 @@ Automated tests with phpunit is a puzzle, CI is the missing piece
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Automated Testing with PHPUnit is a puzzle, Continuous Integration is the missing Piece [Slides]">
-<meta property="og:description" content="Well I&#8217;m going to present today at the 14th PHP developers meetup. I will be talking about Automated Unit Testing and Continuous Integration. I am going to be explaining about why testing, in general is important, the features of unit tests and why CI is cool.
+<meta property="og:title" content="Logging with Monolog on LogEntries from your application">
+<meta property="og:description" content="I am currently working on a Laravel project which has taught me a lot of new things and among those that I have learnt, I&#8217;ll be shedding a little light on Logging, the importance of it and how and where to log.
 
-Automated tests with phpunit is a puzzle, CI is the missing piece
-
-
+ 
 
 ">
-<meta property="og:url" content="http://blog.yipl.com.np/automated-testing-and-continuous-integration/">
+<meta property="og:url" content="http://blog.yipl.com.np/logging-with-Monolog-into-logentries/">
 <meta property="og:site_name" content="YoungInnovations Blog">
 
 <meta property="og:image" content="http://blog.yipl.com.np/images/default-thumb.png">
@@ -54,7 +48,7 @@ Automated tests with phpunit is a puzzle, CI is the missing piece
 
 
 
-<link rel="canonical" href="http://blog.yipl.com.np/automated-testing-and-continuous-integration/">
+<link rel="canonical" href="http://blog.yipl.com.np/logging-with-Monolog-into-logentries/">
 <link href="http://blog.yipl.com.np/feed.xml" type="application/atom+xml" rel="alternate" title="YoungInnovations Blog Feed">
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <!-- http://t.co/dKP3o1e -->
@@ -162,55 +156,127 @@ Automated tests with phpunit is a puzzle, CI is the missing piece
   <article class="post">
     <div class="headline-wrap">
       
-        <h1><a href="http://blog.yipl.com.np/automated-testing-and-continuous-integration/" rel="bookmark" title="Automated Testing with PHPUnit is a puzzle, Continuous Integration is the missing Piece [Slides]">Automated Testing with PHPUnit is a puzzle, Continuous Integration is the missing Piece [Slides]</a></h1>
+        <h1><a href="http://blog.yipl.com.np/logging-with-Monolog-into-logentries/" rel="bookmark" title="Logging with Monolog on LogEntries from your application">Logging with Monolog on LogEntries from your application</a></h1>
       
     </div><!--/ .headline-wrap -->
     <div class="article-wrap">
-      <p>Well I’m going to <a href="http://sachit-singh.github.io/kswsbs/">present</a> today at the <a href="https://developers-nepal.github.io/php/meetups/05-Sep-2015/">14th PHP developers meetup</a>. I will be talking about <a href="https://en.wikipedia.org/wiki/Test_automation">Automated</a> <a href="https://en.wikipedia.org/wiki/Unit_testing">Unit Testing</a> and <a href="https://en.wikipedia.org/wiki/Continuous_integration">Continuous Integration</a>. I am going to be explaining about why testing, in general is important, the features of unit tests and why CI is cool.</p>
+      <p>I am currently working on a <a href="http://laravel.com/">Laravel</a> project which has taught me a lot of new things and among those that I have learnt, I’ll be shedding a little light on <a href="https://en.wikipedia.org/wiki/Logfile">Logging</a>, <a href="http://geshan.com.np/blog/2015/08/importance-of-logging-in-your-applications/">the importance of it</a> and how and where to log.</p>
 
-<h4 id="automated-tests-with-phpunit-is-a-puzzle-ci-is-the-missing-piece">Automated tests with phpunit is a puzzle, CI is the missing piece</h4>
-
-<p><img src="/images/testing-ci/slide.png" alt="Automated tests with phpunit is a puzzle, CI is the missing piece" /></p>
+<p><img src="/images/LogEntriesVsLoggly/logEntries-logo.jpeg" alt="LogEntries" /> <img src="/images/LogEntriesVsLoggly/Loggly-logo.png" alt="Loggly" /></p>
 
 <!--more-->
 
-<p>Automated unit test simply put is code testing another piece of code. Unit testing focuses on testing a small independent working part of the code which is generally a method/function. Unit tests need to be fast, offline, not dependent on database and test only one thing. <a href="https://en.wikipedia.org/wiki/Mock_object">Mocking</a> other dependencies is a great way to unit test the class to be tested. To a beginner understanding this is as difficult as solving a puzzle.</p>
+<p>We have been using <a href="https://logentries.com/">LogEntries</a> for our project and its really cool. My colleagues, on the other hand use <a href="https://www.loggly.com/">Loggly</a> which is cool too. I have put up a small comparison between the two services below, which would help you choose between them.</p>
 
-<p>With Continuous Integration, at every push, all the tests are run that covers the code changes and approves what works, what doesn’t and all the bugs you have in your system from a unit perspective with a fast feedback loop. If your change broke something existing you know it in minutes then you can fix your code and add more tests for the parts you did.</p>
+<p><img src="/images/LogEntriesVsLoggly/logEntriesVsLoggly.png" alt="LogEntriesVsLoggly" /></p>
 
-<p>Moreover continuous integration is a mentality to keep software quality high with having the build green for main branch in a <a href="https://en.wikipedia.org/wiki/Revision_control">VCS</a> at all times. CI goes like a hand in a glove with the issue flow and <a href="http://geshan.com.np/blog/2014/12/do-you-git-your-code-follow-this-simplified-gitflow-model/">simplified gitflow</a> that we follow. I will talk about how we integrated our automated tests with <a href="https://app.shippable.com/">Shippable</a> and the benefits of CI.</p>
+<h2 id="logentries">Logentries</h2>
 
-<p>You can check out the slides for my talk at my <a href="http://sachit-singh.github.io/kswsbs/">github page</a> or down below.</p>
+<h3 id="pros">Pros</h3>
 
-<center><iframe src="//www.slideshare.net/slideshow/embed_code/key/hbssZXH906Wdgx" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen=""> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bsscht/automated-unit-testing-and-continuous-integration" title="Automated Unit Testing and Continuous Integration" target="_blank">Automated Unit Testing and Continuous Integration</a> </strong> from <strong><a href="//www.slideshare.net/bsscht" target="_blank">bsscht</a></strong> </div></center>
-<p><br /></p>
+<ul>
+  <li>
+    <p>Great search with regex support.</p>
+  </li>
+  <li>
+    <p>Real time alerts.</p>
+  </li>
+  <li>
+    <p>Timestamps are displayed in local timezone.</p>
+  </li>
+  <li>
+    <p>Works with multiple Paas and IaaS.</p>
+  </li>
+</ul>
 
-<!--more-->
+<h3 id="cons">Cons</h3>
 
-<p>Interested in what you see? Then you can check out the <a href="https://phpunit.de/manual/current/en/phpunit-book.pdf">offical documentation</a> for <a href="https://phpunit.de/">PHPUnit</a> and to learn more about Shippable, they have got a pretty decent <a href="http://docs.shippable.com/">documentation</a>.</p>
+<ul>
+  <li>
+    <p>Character limit for each log entry.</p>
+  </li>
+  <li>
+    <p>Blocked by ad blockers by default.</p>
+  </li>
+  <li>
+    <p>Can’t track the source of errors of 3rd party libraries.</p>
+  </li>
+  <li>
+    <p>No CDN for web client logger.</p>
+  </li>
+</ul>
+
+<h2 id="loggly">Loggly</h2>
+
+<h3 id="pros-1">Pros</h3>
+
+<ul>
+  <li>
+    <p>Supports raw text, syslogs and JSON.</p>
+  </li>
+  <li>
+    <p>Automatically captures JavaScript errors.</p>
+  </li>
+  <li>
+    <p>CDN hosted.</p>
+  </li>
+</ul>
+
+<h3 id="cons-1">Cons</h3>
+
+<ul>
+  <li>
+    <p>Timestamps are in UTC.</p>
+  </li>
+  <li>
+    <p>No stack traces for JavaScript.</p>
+  </li>
+  <li>
+    <p>JavaScript tracker has removed tag support.</p>
+  </li>
+  <li>
+    <p>JS tracker on CDN is block by ad blockers by default.</p>
+  </li>
+</ul>
+
+<p>With a really simple API and lots of other <a href="https://logentries.com/product/">cool features</a>, we can store our logs and can view it online. Laravel is a really cool framework and there is a lot just out of the box, one of which is the <a href="https://github.com/Seldaek/monolog">Monolog</a> handler that Laravel uses by default to log errors, which means we need not create our own handler. You can change the logging related values in the ‘app.php’ file in the ‘config’ directory.</p>
+
+<p>To start logging into LogEntries, you first have to get an account which gets you a “Manual TCP” token. Then open the app/Providers/AppServiceProvider.php file, where you will find a register() method. Add the following lines to the end of the method.</p>
+
+<div class="highlight"><pre><code class="language-php" data-lang="php"><span class="x">$logEntriesHandler = new LogEntriesHandler(env(&#39;LOGENTRIES_TOKEN)&#39;));</span>
+<span class="x">$log = $this-&gt;app[&#39;log&#39;]-&gt;getMonolog();</span>
+<span class="x">$log-&gt;pushHandler($logEntriesHandler);</span></code></pre></div>
+
+<p>What this does is it pushes our new monolog LogEntriesHandler that we will be using to log data into LogEntries.</p>
+
+<p>And don’t forget to add the reference to the LogEntriesHandler at the top of the file.</p>
+
+<p>Notice that we have stored our LogEntries Token in our env file so it will be easy to change it if need be.</p>
+
+<p>That’s pretty much there is to it. You can now view your logs in your <a href="https://logentries.com/">LogEntries</a> account. If you want to know more on this, you can check out their <a href="https://logentries.com/doc/">documentation</a> which is a pretty decent one.</p>
 
 <blockquote>
-  <p>Write testable code and readable tests.</p>
+  <p>Happy Logging !</p>
 </blockquote>
 
-      <div class="tags"><span>Tags:</span> phpunit , unit tests , automated testing , continuous integration , shippable</div>
+      <div class="tags"><span>Tags:</span> laravel , logging , logEntries , loggly</div>
       <hr />
       <footer role="contentinfo">
         <div class="social-share">
   <h4>Share on</h4>
   <ul>
     <li>
-      <a href="https://twitter.com/intent/tweet?text=http://blog.yipl.com.np/automated-testing-and-continuous-integration/" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+      <a href="https://twitter.com/intent/tweet?text=http://blog.yipl.com.np/logging-with-Monolog-into-logentries/" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
     </li>
     <li>
-      <a href="https://www.facebook.com/sharer/sharer.php?u=http://blog.yipl.com.np/automated-testing-and-continuous-integration/" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://blog.yipl.com.np/logging-with-Monolog-into-logentries/" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
     </li>
     <li>
-      <a href="https://plus.google.com/share?url=http://blog.yipl.com.np/automated-testing-and-continuous-integration/" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
+      <a href="https://plus.google.com/share?url=http://blog.yipl.com.np/logging-with-Monolog-into-logentries/" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
     </li>
   </ul>
 </div><!-- /.social-share -->
-        <p class="byline"><strong>Automated Testing with PHPUnit is a puzzle, Continuous Integration is the missing Piece [Slides]</strong> was published on <time datetime="2015-09-05T00:00:00+04:00">September 05, 2015</time> and last modified on <time datetime="2015-09-05">September 05, 2015</time>.</p>
+        <p class="byline"><strong>Logging with Monolog on LogEntries from your application</strong> was published on <time datetime="2015-09-19T00:00:00+04:00">September 19, 2015</time> and last modified on <time datetime="2015-09-19">September 19, 2015</time>.</p>
       </footer>
     </div><!-- /.article-wrap -->
   
