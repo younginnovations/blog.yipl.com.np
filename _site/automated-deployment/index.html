@@ -1,0 +1,270 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Still stuck with FTP or Git pull to deploy? It's high time to embrace Automated Deployment with Capistrano [Slides] &#8211; YoungInnovations Blog</title>
+<meta name="description" content="Are you still using FTP to deploy your code? Are you still manually performing the same steps of deploying a feature, again and again? How many hours have you spent on ssh-ing into the server, pulling the repo, migrating the database, reloading the web server and so on, for each deployment?? Ever wondered if there is a process as simple as a single click to perform all these steps for you?
+
+Automated Deployment does exactly these things for you. It takes the burden of remembering all the steps required in each deployment process and execute it smoothly.
+
+
+
+">
+<meta name="keywords" content="deployment, devops, capistrano">
+
+  
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="Still stuck with FTP or Git pull to deploy? It's high time to embrace Automated Deployment with Capistrano [Slides]">
+<meta name="twitter:description" content="Are you still using FTP to deploy your code? Are you still manually performing the same steps of deploying a feature, again and again? How many hours have you spent on ssh-ing into the server, pulling the repo, migrating the database, reloading the web server and so on, for each deployment?? Ever wondered if there is a process as simple as a single click to perform all these steps for you?
+
+Automated Deployment does exactly these things for you. It takes the burden of remembering all the steps required in each deployment process and execute it smoothly.
+
+
+
+">
+<meta name="twitter:site" content="@yipl">
+<meta name="twitter:creator" content="@shhetri">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://blog.yipl.com.np/images/default-thumb.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Still stuck with FTP or Git pull to deploy? It's high time to embrace Automated Deployment with Capistrano [Slides]">
+<meta property="og:description" content="Are you still using FTP to deploy your code? Are you still manually performing the same steps of deploying a feature, again and again? How many hours have you spent on ssh-ing into the server, pulling the repo, migrating the database, reloading the web server and so on, for each deployment?? Ever wondered if there is a process as simple as a single click to perform all these steps for you?
+
+Automated Deployment does exactly these things for you. It takes the burden of remembering all the steps required in each deployment process and execute it smoothly.
+
+
+
+">
+<meta property="og:url" content="http://blog.yipl.com.np/automated-deployment/">
+<meta property="og:site_name" content="YoungInnovations Blog">
+
+<meta property="og:image" content="http://blog.yipl.com.np/images/default-thumb.png">
+
+
+<!-- Webmaster Tools verfication -->
+<meta name="google-site-verification" content="ohAwulapf87s0SWlslqhJUAb2phTTGjazQ0AvLD3xv0">
+
+
+
+<link rel="canonical" href="http://blog.yipl.com.np/automated-deployment/">
+<link href="http://blog.yipl.com.np/feed.xml" type="application/atom+xml" rel="alternate" title="YoungInnovations Blog Feed">
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://blog.yipl.com.np/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="http://blog.yipl.com.np/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://blog.yipl.com.np/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://blog.yipl.com.np/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700%7CPT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://blog.yipl.com.np/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://blog.yipl.com.np/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://blog.yipl.com.np/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://blog.yipl.com.np/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://blog.yipl.com.np/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://blog.yipl.com.np/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body class="post">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="http://blog.yipl.com.np/">YoungInnovations Blog</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+				    
+				        
+				    
+				    <li><a href="http://blog.yipl.com.np/about/" >About</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://blog.yipl.com.np/posts/" >Posts</a></li>
+				
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    
+  
+
+<div itemscope itemtype="http://schema.org/Person">
+
+
+	<img src="http://blog.yipl.com.np/images/sumit-avatar.png" class="bio-photo" alt="Sumit Chhetri bio photo">
+
+
+  <h3 itemprop="name">Sumit Chhetri</h3>
+  <p>Software Engineer</p>
+  
+  <a href="http://twitter.com/shhetri" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>
+  
+  
+  
+  
+  
+  
+  <a href="http://github.com/shhetri" class="author-social" target="_blank"><i class="fa fa-fw fa-github"></i> Github</a>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+  </div>
+  <article class="post">
+    <div class="headline-wrap">
+      
+        <h1><a href="http://blog.yipl.com.np/automated-deployment/" rel="bookmark" title="Still stuck with FTP or Git pull to deploy? It's high time to embrace Automated Deployment with Capistrano [Slides]">Still stuck with FTP or Git pull to deploy? It's high time to embrace Automated Deployment with Capistrano [Slides]</a></h1>
+      
+    </div><!--/ .headline-wrap -->
+    <div class="article-wrap">
+      <p>Are you still using FTP to deploy your code? Are you still manually performing the same steps of deploying a feature, again and again? How many hours have you spent on ssh-ing into the server, pulling the repo, migrating the database, reloading the web server and so on, for each deployment?? Ever wondered if there is a process as simple as a single click to perform all these steps for you?</p>
+
+<p>Automated Deployment does exactly these things for you. It takes the burden of remembering all the steps required in each deployment process and execute it smoothly.</p>
+
+<p><img src="/images/testing-deployment/deploy-screenshot.png" alt="Deploy Screenshot" /></p>
+
+<!--more-->
+
+<p>You don’t need to know the rocket sicence to conclude that machine is reliable, efficient and faster than humans. In context to the software development, be it writing your code, testing your code and deploying your code, it is not a different story. You need to leverage the tools and technologies available, if you want to be a better software engineer. If the tools are free that is even better.</p>
+
+<p>In regard to software deployment, just try to count the number of times you deploy your software to staging, testing or production server, during its life cycle. I am pretty sure you don’t have an exact number, or if you have, it is no less than hundreds. In each deployment you execute, it involves numerous steps; be it running some package installer scripts/commands, migrating your databases, notifying the clients about the deployment, and so on, which you will repeat again and again. You have no guarantee either, that the deployment will be successful each and everytime because YOU, a human, are deploying. Since you are deploying, it is more likely to be error prone than it would have been, had it been automated.</p>
+
+<p>I am going to deliver a presentation in the <a href="https://developers-nepal.github.io/php/meetups/05-Sep-2015/">PHP Dev Meetup #14</a> on the very topic and below are the slides for that presentation. You can have a look at it and decide for yourself, whether you wanna keep getting stuck to the old fashioned and unreliable deployment process or or you want to follow modern deployment paradigm.</p>
+
+<h3 id="slides">Slides</h3>
+
+<center><iframe src="//www.slideshare.net/slideshow/embed_code/key/2pJCggyg9f24hj" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen=""> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SumitChhetri1/automated-deployment-with-capistrano" title="Automated Deployment with Capistrano" target="_blank">Automated Deployment with Capistrano</a> </strong> from <strong><a href="//www.slideshare.net/SumitChhetri1" target="_blank">Sumit Chhetri</a></strong> </div></center>
+<p><br /></p>
+
+<blockquote>
+  <p>You can also view the slides in browser from <a href="http://shhetri.github.io/capistrano-presentation/">here</a></p>
+</blockquote>
+
+<p>There is a <a href="http://blog.yipl.com.np/deploy-laravel5-with-capistrano3/">part-2</a> to this blog, in which I have written in detail, on how you can setup and deploy a <a href="http://laravel.com/">Laravel 5</a> project using <a href="http://capistranorb.com/">Capistrano 3</a>. So do check it out.</p>
+
+<blockquote>
+  <p>Happy Deploying!! :)</p>
+</blockquote>
+
+      <div class="tags"><span>Tags:</span> deployment , devops , capistrano</div>
+      <hr />
+      <footer role="contentinfo">
+        <div class="social-share">
+  <h4>Share on</h4>
+  <ul>
+    <li>
+      <a href="https://twitter.com/intent/tweet?text=http://blog.yipl.com.np/automated-deployment/" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+    </li>
+    <li>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://blog.yipl.com.np/automated-deployment/" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+    </li>
+    <li>
+      <a href="https://plus.google.com/share?url=http://blog.yipl.com.np/automated-deployment/" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
+    </li>
+  </ul>
+</div><!-- /.social-share -->
+        <p class="byline"><strong>Still stuck with FTP or Git pull to deploy? It's high time to embrace Automated Deployment with Capistrano [Slides]</strong> was published on <time datetime="2015-09-05T00:00:00+04:00">September 05, 2015</time> and last modified on <time datetime="2015-09-05">September 05, 2015</time>.</p>
+      </footer>
+    </div><!-- /.article-wrap -->
+  
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrap">
+  
+  <div class="related-articles">
+  <h4>You might also enjoy <small class="pull-right">(<a href="http://blog.yipl.com.np/posts/">View all posts</a>)</small></h4>
+    <ul>
+    
+      <li><a href="http://blog.yipl.com.np/7-golden-rules-of-simple-clean-code/" title="7 Golden Rules of Simple and Clean code and some more considerations [Slides]">7 Golden Rules of Simple and Clean code and some more considerations [Slides]</a></li>
+    
+      <li><a href="http://blog.yipl.com.np/Dribbble-meetup/" title="Dribbble Meetup 2015">Dribbble Meetup 2015</a></li>
+    
+      <li><a href="http://blog.yipl.com.np/deploy-laravel5-with-capistrano3/" title="Deploy a Laravel 5 application with Capistrano 3">Deploy a Laravel 5 application with Capistrano 3</a></li>
+    
+    </ul>
+    <hr />
+  </div><!-- /.related-articles -->
+  
+  <footer>
+    
+
+<span>&copy; 2015 YoungInnovations Blog. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
+
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://blog.yipl.com.np/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://blog.yipl.com.np/assets/js/scripts.min.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl =
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-66282424-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+</body>
+</html>
