@@ -8,13 +8,15 @@ tags:  [ app, awesome code, behat, chrome, concept, css framework, design, found
 
 This week has been about knowledge and some good achievements 
 
-The knowledge sharing by Sumit Chettri was highly inspirational and gave a new idea on  how the codes should be actually written. 
+The knowledge sharing by Sumit Chettri was highly inspirational and gave a new idea on  how the codes can be actually written. 
 
-![YIPL Group Photo](/images/weekly07/SUMIT_PRESENTATION.jpg)
+![YIPL Group Photo](/images/weekly08/sumit-presentation.jpg)
 
-Well, congratulations are on the air as 150 ideas for NCELL Appcamp has finally been chosen.
+<!--more-->
 
-![YIPL Group Photo](/images/weekly07/150_IDEA_SELECTED.jpg)
+[Well, congratulations are on the air as 150 ideas for NCELL Appcamp has finally been chosen.](http://ncellappcamp.com/ideas/150)
+
+![YIPL Group Photo](/images/weekly08/150ideasannounced.jpg)
 
 For a weekly digest on some Tech news, feel free to check out the links below.
 
