@@ -1,3 +1,3 @@
 # blog.yipl.com.np
 
-Official Blog of YoungInnovations.
+Official Blog of YoungInnovations
