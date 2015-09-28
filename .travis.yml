@@ -3,3 +3,5 @@ rvm:
     - 2.1.1
 script: "bundle exec jekyll build"
 sudo: false
+notifications:
+  email: false
