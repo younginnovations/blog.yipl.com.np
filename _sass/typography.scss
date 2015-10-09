@@ -11,11 +11,11 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: normal;
 }
 h1 {
-	@include font-size(36);
-	line-height: 46px;
+	@include font-size(32);
+	line-height: 38px;
 }
 h2 {
-	@include font-size(30);
+	@include font-size(16);
 }
 h3 {
 	@include font-size(21);
@@ -37,8 +37,10 @@ h6 {
 a {
 	text-decoration: none;
 	color: $link-color;
+	color: $link-transparent-color;
 	&:visited {
 		color: $linkcolorvisited;
+		color: $link-transparent-color;
 	}
 	&:hover {
 		color: $linkcolorhover;
@@ -110,11 +112,15 @@ figcaption {
    ========================================================================== */
 
 blockquote {
-	margin-left: -28px;
-	padding-left: 20px;
-	border-left: 8px solid $border-color;
-	font-family: $alt-font;
-	font-style: italic;
+	border-top: 1px solid #ccc;
+	border-top: 1px solid rgba(0,0,0,0.2);
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+	padding: 30px 0;
+	margin: 0;
+	text-align: center;
+	font-size: 18px;
+	margin-bottom: 50px
 }
 
 /*
