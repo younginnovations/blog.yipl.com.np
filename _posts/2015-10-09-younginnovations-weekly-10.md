@@ -107,4 +107,4 @@ Dashain is just around the corner so Happy Shopping ![Bag](/images/shopping-bag.
 
 * [writing software is an art — startups, wanderlust, and life hacking — medium](https://medium.com/@ayasin/writing-software-is-an-art-f3ab53853344)
 
-* [xor trojan threatens linux networks - enterprise - technewsworld](http://www.technewsworld.com/story/XOR-Trojan-Threatens-Linux-Networks-825
+* [xor trojan threatens linux networks - enterprise - technewsworld](http://www.technewsworld.com/story/XOR-Trojan-Threatens-Linux-Networks-82559.html)
