@@ -2,7 +2,7 @@
 layout: post
 title: "A short documentary on YoungInnovations #tbt"
 author: prawesh_shrestha
-modified: 2015-08-13
+modified: 13 Aug, 2015
 tags: [ tbt, thursday, younginnovations]
 image: 
   feature: short-documentary/short-documentary.png

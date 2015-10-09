@@ -2,7 +2,7 @@
 layout: post
 title: "Young Innovations weekly #5"
 author: santosh_neupane
-modified: 2015-09-03
+modified: 03 Sep, 2015
 tags:  [ android, android developers, angular, apps, bank, capistrano, chrome extension, collaboration, design, dr. martin cooper, drag, drop, finance, google, google logo, gulp, integration testing, internet, internet of everything, js, laracon eu presentations, laravel, mobile, mobile phones, motorola, pocketnow, python fabric, react, sms, testing, agile, automated deployment, blog, build, cellphone, channel, ci, colorschemes, css, deployment, design, developersnepal, docker, dragand drop, drupal, ftp, git, google, grunt, html5, integration testing, internet of things, iot, javascript, logging, logo, materialdesign, meteor, mobile, mobile app, mobilebanking, monolog, nginx, node, optimization, performance, php, phpunit, prototype, pu
 shbullet, react, software engineering, survey, team, website, xss, youtube]
 image:
@@ -11,9 +11,9 @@ image:
 
 We have a trend of celebrating Birthday at the end of every month. So, on 31st of August, we celebrated the Birthday of five of us: Prashant Shrestha, Nirajan Basnet, Lunek Suwal, Sachit Bir Singh Dangol, Manoj Byanjankar.
 
-![Celebration of Birthday](/images/weekly05/BirthDayBoys.jpg)
-
 <!--more-->
+
+![Celebration of Birthday](/images/weekly05/BirthDayBoys.jpg)
 
 We also had our TT Tournament Final on 2nd September, 2015. Manoj Byanjankar held the first position from men's category and Pratiksha Rayamajhi held 1st position from women's category.
 

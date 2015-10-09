@@ -29,6 +29,9 @@ collections:
     output: true
     permalink: /:collection/:title/
 
+paginate: 5
+paginate_path: /page:num/
+
 # Site owner
 owner:
   name: YoungInnovations Blog
