@@ -6,15 +6,15 @@ modified: 2015-10-09
 tags: [adobe, agile, api, apple, apps, chatops, code quality, coding practice, commenting, compilers, continuous integration, dumps, facebook, hack, internet, internet of everything, ios9, mobile, mobile apps, mobile phones, naming, origami, photoshop, poor vision, prototype, summer of code 2016, technology, tool, ui/ux, android, android-performance, animation, asteriskwith adhearsion, business card, capistrano, ci, coding, comet, container, css, db, db dumps, design, dev practices, devops, docker, drupal, drupal 8, eye, eyewear, form, git, git workflow, google, googlesheets, gui, guide, http2, hubot, internet of things, iot, java, javascrit, jquery, linux, marshmallow, mobile payments, multi-dex, mysql, nfc, openshift, programming, progressbar, refactoring, resource, samsung, sass, sketch, softwaredevelopment, sorting-algorithms, sprite, svg, tdd, testing, ui, validation, video, web]
 ---
 
-October, the month of autumn, has brought changes not only to season but also to Young Innovation's family. During this week-day, we celebrated birthday of our very own CEO, **Mr. Bibhusan Bista**. Our tummy became full because of delicious food he had for us. Once again, Happy Birthday Dai ![Smiley](/images/birthdayCake.gif)
+October, the month of autumn, has brought changes not only to season but also to Young Innovation's family. This week, we celebrated birthday of our very own CEO, **Bibhusan Bista**. Thank you for the delicious food and once again, Happy Birthday ![Smiley](/images/birthdayCake.gif)
 
-Another drastic change that occured in YIPL is not having KSW. But Yeah !! we will be starting SLW (Skill Learning Wednesday) instead. On this very 1st week of SLW, **Mr. Prashant Shrestha**, VP, Business and Technology Innovations, spread the skills regarding the git flow and issue flow to the developers engaged in different projects.
+Another drastic change that occured in YIPL is not having KSW. But Yeah !! we will be starting SLW (Skill Learning Wednesday) instead. On this very 1st week of SLW, **Prashant Shrestha**, VP, Business and Technology Innovations, spread the skills regarding the git flow and issue flow to the developers engaged in different projects.
 
 ![SLW photo](/images/weekly10/SLW10.jpg)
 
 <!--more-->
 
-Also, our very own co-worker, **Mr. Achyut Devkota**, will depart to US from YIPL family for his higher studies. We, YIPL Family, wish him for his bright future. Lets hope that we will be enjoying some american delight soon.
+Also, our very own co-worker, **Achyut Devkota**, will depart to US from YIPL family for his higher studies. We, YIPL Family, wish him for his bright future. Lets hope that we will be enjoying some american delight soon.
 
 Dashain is just around the corner so Happy Shopping ![Bag](/images/shopping-bag.png) . And, do enjoy some of the links below while basking in the sun and probably flying kites as well. Multitasking at its best.
 
@@ -107,4 +107,4 @@ Dashain is just around the corner so Happy Shopping ![Bag](/images/shopping-bag.
 
 * [writing software is an art — startups, wanderlust, and life hacking — medium](https://medium.com/@ayasin/writing-software-is-an-art-f3ab53853344)
 
-* [xor trojan threatens linux networks - enterprise - technewsworld](http://www.technewsworld.com/story/XOR-Trojan-Threatens-Linux-Networks-82559.html)
+* [xor trojan threatens linux networks - enterprise - technewsworld](http://www.technewsworld.com/story/XOR-Trojan-Threatens-Linux-Networks-825
