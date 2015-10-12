@@ -2,11 +2,11 @@
 layout: post
 title: "Pre Examination Symptoms"
 author: dadhiramp
-modified: 2015-10-06
+modified: 2015-10-12
 tags: [ examination]
 ---
 
-Its no wonder that we have gone through so many examinations in our learning period, where we strive to get an academic degree. Before each and every examination, most of us (assuming all of us) do go through some funny cycles that include changes in the physical and mental behaviour. Some might notice the things, but most of us are unaware of the fact that something does go on at the onset of any examination. More the gravity of examination more it sounds resonable. The chain of cycles presented here have hold true for me, and my target is to gather how much of a coincidence will it be with all the people who took part in the presentatioin session and reading it right now.
+Its no wonder that we have gone through so many examinations in our learning period, where we strive to get an academic degree. Before each and every examination, most of us (assuming all of us) do go through some funny cycles that include changes in the physical and mental behaviour. Some might notice the things, but most of us are unaware of the fact that something does go on at the onset of any examination. More the gravity of examination more it sounds resonable. The chain of cycles presented here have hold true for me, and my target is to gather how much of a coincidence will it be with all the people who took part in the presentation session and reading it right now.
 
 <!--more-->
 
