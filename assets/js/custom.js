@@ -75,11 +75,11 @@ $(document).ready(function(){
         return false;
     });
 
-    $('.article-wrap ul li a').parents('ul').addClass('links-list');
+    $('.article-wrap ul li p a').parents('ul').addClass('links-list');
 
     // fix the post title to the top on scroll
     $(window).on('scroll',function(){
-        var scrollHeight = $('body').scrollTop();
+        var scrollHeight = $(document).scrollTop();
         var navigationHeight = $('.navigation-wrapper').outerHeight();
         var postTopHeight = $('.post-top-wrap').outerHeight();
         var totalHeight = navigationHeight + postTopHeight;

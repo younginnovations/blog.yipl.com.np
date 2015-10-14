@@ -2,16 +2,17 @@
 layout: post
 title: "Young Innovations weekly #7"
 author: sudil_shrestha
-modified: 2015-09-18
+modified: 18 Sep, 2015
 tags:  [ ad blocker, ads, advertisement, app, entrepreneur, entrepreneurship, facebook, freemium, mobile, mobile app, paid app, revenue models, silicon valley, agile, android, animation, apple, aws, drupal, erlang, firefox issues and solutions, google, ionic, javascript, javascriptwarning unresponsive script, jenkins, laravel5.1 new acl feature, mobileapp, mobileapp startup, programming, react, webdevelopment]
-
+image:
+  feature: weekly_illustration.png
 ---
 
 This has been a great week at YIPL with teej right around the corner. Everybody was excited for the teej party, organized at our very own office by our very own ladies, Radhika, Neha, Kriti and I'm sure others helped as well. 
 
-![YIPL Group Photo](/images/weekly07/TEEJ_GROUP.jpg)
-
 <!--more-->
+
+![YIPL Group Photo](/images/weekly07/TEEJ_GROUP.jpg)
 
 The ladies had prepared games to get all of the people involved and win some prizes. The games where only for the guys at YIPL which is fair since it's the day for the ladies and they get a pardon. I'm sure they had fun watching us guys getting embarassed when we did the ramp walk to show off our formal attire, which was won by Achyut. 
 

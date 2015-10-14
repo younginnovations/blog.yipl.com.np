@@ -2,17 +2,19 @@
 layout: post
 title: "Young Innovations weekly #9"
 author: rakesh_pradhan
-modified: 2015-10-02
+modified: 02 Oct, 2015
 tags:  [ animation, apple, apple watch, browser, css, culture, deployment, drupal, html, javascript, js, minimalism, motion, patent, performance, physics, plan, prototype, redesign, stand out, success, trend, ui, unique, version control, web design, animation, caching, code, companyculture, container, contribute, css, design, devops, docker, documentary, dribbble, drupal8, flux, folio, future, git, github, import csv, invision, javascript, js, laravel, pattern, php, phyrics, productmgmt, programming, pusher, shared cookie, slices, smartring, startup, symfony, tech, technology, ux, varnish, video, web, webdesign, webdevelopment, website]
+image:
+  feature: weekly_illustration.png
 ---
 
 This last week of september has been a weary week with no fuel and lack of vehicles. But walking to work has been a good workout, for me at least. Hope everything goes back to normal soon. Besides this, it has been a normal week at YIPL.
 
+<!--more-->
+
 On this week's Knowledge Sharing Wednesday (KSW), our very own Dadhiram Poudel, _Sr. Software Engineer_ gave a wonderful presentation on __Pre Examination Symtoms__, which was full of humour. I think he made it very entertaining for all of us.
 
 ![KSW photo](/images/weekly09/dadhiram-presentation.jpg)
-
-<!--more-->
 
 From next week onwards, we won't be having KSW unless somebody comes with a topic which everybody can enjoy and benefit from. Now we will have Skill Learning Wednesday (SLW) where people interested can get involved and learn about the topic being presented and not just listen to the presenter. Yay to developing new skills!
 

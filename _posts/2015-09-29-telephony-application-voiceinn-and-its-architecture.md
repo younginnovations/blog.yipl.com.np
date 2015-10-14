@@ -2,15 +2,20 @@
 layout: post
 title: "A Telephony Application - VoiceInn and Its Architecture"
 author: achyut_devkota
-modified: 2015-09-29
+modified: 29 Sep, 2015
 tags: [telephone application, asterisk, adhearsion, sip, voip, call, IVR, PSTN, E1,]
+image:
+  feature: voiceinn/voice-inn.png
 ---
 
 VoiceInn is an internal project of YoungInnovations to provide an interactive telephony service with user friendly web interface. It includes three main telephony services - Vsurvey, Vboard and Vsupport. The modular feature of VoiceInn allows client to take service they need and also provide a customizable feature as required.
+
+<!--more-->
+
 ![voiceinn logo](/images/voiceinn/voiceinn.jpg)
 
 Normally telephone service with IVR supports incoming call only but VoiceInn provides inbound as well as outbound call IVR. Outbound call can be set immediately as well as can be scheduled to a single or multiple numbers at once. 
-<!--more-->
+
 Any changes made by client after login  will take instant effect in telephone application after it is saved.
 
 ###Services

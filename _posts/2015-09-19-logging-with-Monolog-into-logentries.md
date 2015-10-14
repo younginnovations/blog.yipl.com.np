@@ -2,15 +2,15 @@
 layout: post
 title: "Logging with Monolog on LogEntries from your application"
 author: sachit
-modified: 2015-09-19
+modified: 19 Sep, 2015
 tags: [ laravel, logging, logEntries, loggly ]
 ---
 
 I am currently working on a [Laravel](http://laravel.com/) project which has taught me a lot of new things and among those that I have learnt, I'll be shedding a little light on [Logging](https://en.wikipedia.org/wiki/Logfile), [the importance of it](http://geshan.com.np/blog/2015/08/importance-of-logging-in-your-applications/) and how and where to log.
 
-![LogEntries](/images/LogEntriesVsLoggly/logEntries-logo.jpeg) ![Loggly](/images/LogEntriesVsLoggly/Loggly-logo.png)
-
 <!--more-->
+
+![LogEntries](/images/LogEntriesVsLoggly/logEntries-logo.jpeg) ![Loggly](/images/LogEntriesVsLoggly/Loggly-logo.png)
 
 We have been using [LogEntries](https://logentries.com/) for our project and its really cool. My colleagues, on the other hand use [Loggly](https://www.loggly.com/) which is cool too. I have put up a small comparison between the two services below, which would help you choose between them.
 

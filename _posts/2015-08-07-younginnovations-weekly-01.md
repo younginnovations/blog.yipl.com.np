@@ -7,16 +7,17 @@ tags: [ asmjs, authentication, computer-science, development setup, gulp, gunter
 image:
   feature: weekly_illustration.png
 ---
-We recently had our annual retreat, everyone at YIPL enjoyed a relaxed mood from
-their daily work and had loads of fun. Sneak peak below:
+We recently had our annual retreat, everyone at YIPL enjoyed a relaxed mood from their daily work and had loads of fun.
+
+<!--more-->
+
+ Sneak peak below:
 
 ![retreat photo](/images/weekly01/yipl-retreat.jpg)
 
 This is our first weekly at YIPL which has links to blogs, posts, articles and podcasts.
 We aim to continue this so that YIPLies can share things they read over the week and found useful
 which can benefit a larger tech community.  
-
-<!--more-->
 
 Enjoy! the techy links with a hot tea in this rain over the weekend. Happy Weekend!!
 

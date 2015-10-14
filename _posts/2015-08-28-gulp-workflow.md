@@ -2,16 +2,18 @@
 layout: post
 title: "Automate Your Tasks Easily with Gulp"
 author: nirajan_basnet
-modified: 2015-08-28
+modified: 28 Aug, 2015
 tags: [ gulp, javascript ]
+image:
+  feature: gulp-blog/Gulp.png
 ---
 
 It was the first time I was using Gulp. The experience, I must say, was quite enjoyable.
 [Gulp](https://www.gulpjs.com) is a javascript automated task runner. And it prefers code over configuration and gives you the plugins to create tasks that fit your specific needs and helps in the production process.
 
-![Gulp](https://d262ilb51hltx0.cloudfront.net/max/1400/1*jbeaev-Xdy4S4pNNJHwA0Q.png)
-
 <!--more-->
+
+![Gulp](https://d262ilb51hltx0.cloudfront.net/max/1400/1*jbeaev-Xdy4S4pNNJHwA0Q.png)
 
 ### Why we need Gulp ?
 
