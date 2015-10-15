@@ -2,17 +2,19 @@
 layout: post
 title: "Young Innovations weekly #8"
 author: rishav_malla
-modified: 2015-09-25
+modified: 25 Sep, 2015
 tags:  [ app, awesome code, behat, chrome, concept, css framework, design, foundation, framework, html, innovation, jquery, js, open source, phpspec, safari, scss, vivaldi, android, animation, api, bdd, browser, business, cdn, cloud, code, company, composer.jsonvs composer.lock, css, cursor, design, docker, docker-compose, drag and drop cursor, dropbox, drupal, elk, file management, git, gitlab, health, javascript, jwt, laravel, logging, logo, microservices, nginx, nodejs, opera, php, podcast, responsive, sass, simple code, sleep basics, spark, startbucks, stripe, tbt, testing, tools, varnish, webdevelopment, wordpress, writing]
+image:
+  feature: weekly_illustration.png
 ---
 
-This week has been about knowledge and some good achievements 
+This week has been about knowledge and some good achievements. 
 
 The knowledge sharing by Sumit Chettri was highly inspirational and gave a new idea on  how the codes can be actually written. 
 
-![YIPL Group Photo](/images/weekly08/sumit-presentation.jpg)
-
 <!--more-->
+
+![YIPL Group Photo](/images/weekly08/sumit-presentation.jpg)
 
 [Well, congratulations are on the air as 150 ideas for NCELL Appcamp has finally been chosen.](http://ncellappcamp.com/ideas/150)
 

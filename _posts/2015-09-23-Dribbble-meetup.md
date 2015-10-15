@@ -2,15 +2,15 @@
 layout: post
 title: "Dribbble Meetup 2015"
 author: rishav_malla
-modified: 2015-09-23
+modified: 23 Sep, 2015
 tags: [ Design, Frontend, speaker, presenter, motivation, creative, UX, UI]
 ---
 
 August 22, 2015 was an adventurous day for designers and front end developers in the city mostly because majority of us attended the Kathmandu dribbble meetup at the Entrance Cafe, Pulchowk. With the objective of creating learning and networking platform for designers in Nepal, Kathmandu Dribbble meetup was organized for the first time in Kathmandu. The event had speakers/presenters, design showcases, networking tables among the major attractions. There were five speakers who shared their experiences in design, branding and marketing. So let's talk about what happened at the Dribbble meetup.
 
-![Dribbble](/images/Dribbble-blog/Dribbblers-2.jpg)
-
 <!--more-->
+
+![Dribbble](/images/Dribbble-blog/Dribbblers-2.jpg)
 
 The event started off with Ishu Subedi sharing her experience about how she gradually moved towards web designing. Even though she had a stable career before stepping in web designing, she was not very satisfied with what she did. She wanted to do something that she truly wanted – “DESIGNING”. 
 

@@ -2,8 +2,10 @@
 layout: post
 title: "A short documentary on YoungInnovations #tbt"
 author: prawesh_shrestha
-modified: 2015-08-13
+modified: 13 Aug, 2015
 tags: [ tbt, thursday, younginnovations]
+image: 
+  feature: short-documentary/short-documentary.png
 ---
 
 Here's a short documentary on YoungInnovations prepared by students of KCM as one of their academic projects. It has been more than 2 and half years and lot of things have changed here. 

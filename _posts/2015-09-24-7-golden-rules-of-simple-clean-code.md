@@ -2,7 +2,7 @@
 layout: post
 title: "7 Golden Rules of Simple and Clean code and some more considerations [Slides]"
 author: geshan_manandhar
-modified: 2015-09-24
+modified: 24 Sep, 2015
 tags: [ code, simple code, clean code, maintainable code]
 ---
 
@@ -12,9 +12,9 @@ server monitoring we realized that we should start from the basics, so we though
 talk on how to write Simple, Clean, Readable, Understandable, maintainable and testable (SCRUMT)
 code.
 
-![7 Rules of simple and clean code](/images/7-rules-of-simple-code/7-rules-of-simple-clean-code.png)
-
 <!--more-->
+
+![7 Rules of simple and clean code](/images/7-rules-of-simple-code/7-rules-of-simple-clean-code.png)
 
 ## Slides:
 

@@ -2,15 +2,17 @@
 layout: post
 title: "Say Hello to Ncell App Camp 2015"
 author: anubhuti_poudyal
-modified: 2015-08-28
+modified: 28 Aug, 2015
 tags: [ NcellAppCamp, Ncell, Mobile App Competition, mobile apps, apps, mobile, competition]
+image:
+  feature: ncellappcamp-debriefing/NcellAppCamp- 2015.png
 ---
 
 What is the difference between Ncell App Camp 2014 and [Ncell App Camp 2015](http://ncellappcamp.com)?  There is more than one difference, most definitely. But, heightened anticipation, is something I’d mention with certainty. With the incredible success last year, this year’s event is being looked upon with much enthusiasm (and scrutiny) and we are excited to present to you every phase of the five month long journey. 
 
-![Ncell App Camp 2015 Debriefing Session photo](/images/NcellAppCamp_deb_ses_2015.jpg) 
-
 <!--more-->
+
+![Ncell App Camp 2015 Debriefing Session photo](/images/ncellappcamp-debriefing/NcellAppCamp_deb_ses_2015.jpg) 
 
 August 22, 2015 was a bright Saturday morning. The organizers of Ncell App Camp 2015 were ready to welcome tech enthusiasts - those who had heard of the event, were interested in the event or wanted to know more about it. The idea was to clarify any queries participants had regarding the event. An elaborate description of the next few months until December, was ready. There were two sessions planned, the first starting at 10:30 AM and second at 2:30 PM. Both sessions were planned to be two hours long each. Everyone was waiting for the participants.
 

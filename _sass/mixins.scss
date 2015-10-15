@@ -153,6 +153,10 @@ $indent-var: 0rem + ($doc-line-height / $doc-font-size);
    ========================================================================== */
 
 @mixin rounded($radius:4px) {
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  -ms-border-radius: $radius;
+  -o-border-radius: $radius;
   border-radius : $radius;
 }
 

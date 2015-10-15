@@ -2,16 +2,16 @@
 layout: post
 title: "Nepal Earthquake Relief and Humanitarian Aid Monitoring System"
 author: alina_acharya
-modified: 2015-09-24
+modified: 24 Sep, 2015
 tags: [earthquake, humanitarian aid, pledge]
 ---
 
 On April 25, 2015, earthquake of magnitude 7.8 struck Nepal that destroyed millions of home and thousands of people lost their lives. It became one of the destructive events in Nepalese history after 1934 A.D. earthquake.  The constant aftershocks and two major quakes had left Nepalese people in deep sorrow. The earthquake killed more than 8,960 and injured more than twice as many. Many historic buildings were collapsed, one of the greatest historic building “Dharahara” was turned down in pile of mud and debris. More than 600,000 people were displaced form their home. 
 
-
-![Nepal Earthquake Relief and Humanitarian Aid Monitoring System](/images/earthquake-website-screenshot.jpg)
-
 <!--more-->
+
+
+![Nepal Earthquake Relief and Humanitarian Aid Monitoring System](/images/earthquake/earthquake-website-screenshot.jpg)
 
 After few hour of the incident, rescue teams and volunteer from national and international relief teams  reached to the affected parts. Different kinds of donation were appealed by various organizations and people throughout the world. The relief was coming from every corner of the world. But the problem was, we didn't have any kind of tracking system to record how much aid was pledged or distributed. 
 

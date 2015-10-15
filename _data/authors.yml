@@ -43,7 +43,7 @@ manoj_byanjankar:
 santosh_neupane:
   name: Santosh Neupane
   bio: "System Admin"
-  avatar: santosh-neupane-bio-photo.jpg
+  avatar: santosh-bio-photo.jpg
   github: santosh_neupane
 
 sachit:
@@ -55,28 +55,28 @@ sachit:
 sumit_chhetri:
   name: Sumit Chhetri
   bio: "Software Engineer"
-  avatar: sumit-avatar.png
+  avatar: sumit-bio-photo.jpg
   github: shhetri
   twitter: shhetri
 
 nirajan_basnet:
   name: Nirajan Basnet
   bio: "Jr. Web Developer"
-  avatar: nirajan-blog-profile.jpg
+  avatar: nirajan-bio-photo.jpg
   twitter: Nirajanb89
   github: Neev89
 
 prashant_shrestha:
   name: Prashant Shrestha
   bio: "VP, Business and Technology Innovations"
-  avatar: prashant.jpg
+  avatar: prashant-bio-photo.jpg
   twitter: prashant_sh
   github: prashantsh
 
 achyut_devkota:
   name: Achyut Devkota
   bio: "System Engineer | Voice Application Developer"
-  avatar: achyutdev-bio-photo.jpg
+  avatar: achyut-bio-photo.jpg
   twitter: achyutdev
   github: achyutdev
 
@@ -85,7 +85,7 @@ sudil_shrestha:
   bio: "Jr. Software Engineer"
   twitter: sudilshr
   github: sudilshr
-  avatar: sudil-shrestha-avatar.jpg
+  avatar: sudil-bio-photo.jpg
 
 rohit_shrestha:
   name: Rohit Shrestha
@@ -102,10 +102,10 @@ rishav_malla:
 alina_acharya:
   name: Alina Acharya
   bio: "Jr. Data Analyst"
-  avatar: alina.jpg
+  avatar: alina-bio-photo.jpg
   twitter: alina_acharya
   github: Alinaaa
-  
+
 rakesh_pradhan:
   name: Rakesh Pradhan
   bio: "Sr. Web Developer"
@@ -116,7 +116,7 @@ rakesh_pradhan:
 dadhiramp:
   name: Dadhi Ram Poudel
   bio: "Sr. Software Engineer"
-  avatar: dadhi.jpg
+  avatar: dadhi-bio-photo.jpg
   twitter: dadhiramp
   github: dadhiramp  
 

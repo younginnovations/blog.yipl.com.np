@@ -2,17 +2,19 @@
 layout: post
 title: "Still stuck with FTP or Git pull to deploy? It's high time to embrace Automated Deployment with Capistrano [Slides]"
 author: sumit_chhetri
-modified: 2015-09-05
+modified: 05 Sep, 2015
 tags: [ deployment, devops, capistrano]
+image:
+  feature: testing-deployment/Capistrano.png
 ---
 
 Are you still using FTP to deploy your code? Are you still manually performing the same steps of deploying a feature, again and again? How many hours have you spent on ssh-ing into the server, pulling the repo, migrating the database, reloading the web server and so on, for each deployment?? Ever wondered if there is a process as simple as a single click to perform all these steps for you?
 
+<!--more-->
+
 Automated Deployment does exactly these things for you. It takes the burden of remembering all the steps required in each deployment process and execute it smoothly.
 
 ![Deploy Screenshot](/images/testing-deployment/deploy-screenshot.png)
-
-<!--more-->
 
 You don't need to know the rocket sicence to conclude that machine is reliable, efficient and faster than humans. In context to the software development, be it writing your code, testing your code and deploying your code, it is not a different story. You need to leverage the tools and technologies available, if you want to be a better software engineer. If the tools are free that is even better.
 

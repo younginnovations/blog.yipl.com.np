@@ -13,40 +13,64 @@
 
 {% include _navigation.html %}
 
-{% if page.image.feature %}
-  <div class="image-wrap">
-  <img src=
-    {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
-    {% endif %}
-  alt="{{ page.title }} feature image">
-  {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-  {% endif %}
-  </div><!-- /.image-wrap -->
-{% endif %}
 
 <div id="main" role="main">
-  <div class="article-author-side">
-    {% include _author-bio.html %}
-  </div>
   <article class="post">
-    <div class="headline-wrap">
-      {% if page.link %}
-        <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
-      {% else %}
-        <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
+  <div class="top-wrap">
+    <div class="post-top-wrap">
+        <div class="headline-wrap">
+          {% if page.link %}
+            <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
+          {% else %}
+            <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
+          {% endif %}
+        </div><!--/ .headline-wrap -->
+        <div class="article-author-side">
+            {% include _author-bio.html %}
+        </div>
+      </div>
+      <div class="fixed-top-wrap">
+        <div class="post-link-wrap">
+          <div class="post-author-section">
+            {% if author.avatar contains 'http' %}
+            <img src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
+            {% else %}
+              <img src="{{ site.url }}/images/bio-photo/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
+            {% endif %}
+          </div>
+            <div class="headline-wrap">
+            {% if page.link %}
+              <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
+            {% else %}
+              <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+    {% if page.image.feature %}
+      <div class="image-wrap">
+      <img src=
+        {% if page.image.feature contains 'http' %}
+          "{{ page.image.feature }}"
+        {% else %}
+          "{{ site.url }}/images/{{ page.image.feature }}"
+        {% endif %}
+      alt="{{ page.title }} feature image">
+      {% if page.image.credit %}
+        <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
       {% endif %}
-    </div><!--/ .headline-wrap -->
+      </div><!-- /.image-wrap -->
+  {% endif %}
     <div class="article-wrap">
       {{ content }}
       <div class="tags"><span>Tags:</span> {{ page.tags | join: ' , ' }}</div>
-      <hr />
       <footer role="contentinfo">
         {% if page.share != false %}{% include _social-share.html %}{% endif %}
-        <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
+        <div class="article-author-wrap">
+        {% include _author-bio.html %}
+      </div>
+        <!-- <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p> -->
       </footer>
     </div><!-- /.article-wrap -->
   {% if site.owner.disqus-shortname and page.comments == true %}
@@ -58,13 +82,19 @@
 <div class="footer-wrap">
   {% if site.related_posts.size > 0 %}
   <div class="related-articles">
-  <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/posts/">View all posts</a>)</small></h4>
+  <h4>You might also enjoy <!-- <small class="pull-right">(<a href="{{ site.url }}/posts/">View all posts</a>)</small> --></h4>
     <ul>
     {% for post in site.related_posts limit:3 %}
-      <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+      <li>
+      {% assign author = site.data.authors[post.author] %}
+      <img src="{{ site.url }}/images/bio-photo/{{author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
+      <div class="author-related-info">
+        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        <span>by {{author.name}}</span>
+      </div>
+      </li>
     {% endfor %}
     </ul>
-    <hr />
   </div><!-- /.related-articles -->
   {% endif %}
   <footer>

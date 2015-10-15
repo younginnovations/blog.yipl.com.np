@@ -6,8 +6,8 @@
    Typography
    ========================================================================== */
 
-$doc-font-size: 14;
-$doc-line-height: 20;
+$doc-font-size: 16;
+$doc-line-height: 24;
 $paragraph-indent: true !default;
 $base-font: 'Open Sans', sans-serif;
 $heading-font: 'Open Sans', sans-serif;
@@ -53,7 +53,9 @@ $youtube-color      : #ff3333;
 
 /* links */
 $linkcolor 		    : #343434;
+$link-transparent-color: rgba(0,0,0,0.7);
 $link-color       : $linkcolor;
+$text-link-color  : #f16622;
 $linkcolorhover 	: darken($linkcolor, 10);
 $linkcolorvisited : lighten($linkcolorhover, 20);
 $linkcolorfocus 	: darken($linkcolorvisited, 10);
