@@ -2,15 +2,17 @@
 layout: post
 title: "Young Innovations weekly #4"
 author: manoj_byanjankar
-modified: 2015-08-28
+modified: 28 Aug, 2015
 tags:  [ cheap, chinese, college student, cortana, course, design, flux, google now, interactive, khan academy, mysql, mysqlm nginx, php, prototype, siri, sketch, u1, ui, ux, android, angular, animation, api, container, css, docker, drupal, drush, easter-egg, email, facebook, flexbox, flinto, git, google, gulp, internet-rights, interview, javascript, jekyll, khanacademy, laravel, library, m, map, markdown, meetup, mobile, openshift, performance, php, php7, pixar, programming, reactjs, remote-working, responsivetabs, right-to-be-forgotten, softwaredesign, tools, trait, tutorials, ui prototype, webdevelopment, work-efficiency, wysiwyg]
+image:
+  feature: weekly_illustration.png
 ---
 
 On August 22, Saturday, Ncell App Camp 2015 debriefing session was organized at Hotel Himalaya, Pulchowk. More than 300 students, developers and mobile enthusiasts participated altogether in 2 sessions. This week's Knowledge Sharing Wednesday featured Alina Acharya ,Data Analyst, who presented on our earthquake fund tracking portal.
 
-![Presentation on  Earthquake (http://earthquake.opennepal.net) by Alina Acharya ](/images/weekly04/alina_ksw_earthquake.jpg)
-
 <!--more-->
+
+![Presentation on  Earthquake (http://earthquake.opennepal.net) by Alina Acharya ](/images/weekly04/alina_ksw_earthquake.jpg)
 
 TGIF! And we have few links to interesting articles that we read and which are here for everyone. We hope it will be useful to anyone as it was for us. 
 

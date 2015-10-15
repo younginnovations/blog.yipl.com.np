@@ -2,13 +2,15 @@
 layout: post
 title: "Young Innovations weekly #1"
 author: sweta_shrestha
-modified: 2015-08-07
+modified: 07 Aug, 2015
 tags: [ asmjs, authentication, computer-science, development setup, gulp, gunter, import, javascript, language agnostic, laravel elixir, math-and-music, podcast, query, rules, tips, unit testing, website monitoring, 500px, android, animation, bdd, beemo, chrome, cli, code-review, coding, css, culture, ddd, defensiveprogramming, deployment, dev, devops, docker, drupal, elasticsearch, eloquent, excel, extract link, filters, giantbionet, java, javascript, kurt-godel, laravel, login throttle, mac, mobile, mysql, nodejs, not-even-remotely-technical, php, piechart, pm, podcast, programming, programming pattern, quantity queries, security, server, simple code, simpledesign, taskrunner, testing, web scraper, webassembly, webpage seed test]
+image:
+  feature: weekly_illustration.png
 ---
 We recently had our annual retreat, everyone at YIPL enjoyed a relaxed mood from
 their daily work and had loads of fun. Sneak peak below:
 
-![retreat photo](/images/yipl-retreat.jpg)
+![retreat photo](/images/weekly01/yipl-retreat.jpg)
 
 This is our first weekly at YIPL which has links to blogs, posts, articles and podcasts.
 We aim to continue this so that YIPLies can share things they read over the week and found useful

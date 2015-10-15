@@ -2,8 +2,10 @@
 layout: post
 title: "Young Innovations weekly #3"
 author: rakeeb_rajbhandari
-modified: 2015-08-21
+modified: 21 Aug, 2015
 tags:  [ android-studio, app, character, collaboration, composer, drupal7, google developer, laravel, mysql, photo edit, photo editor, picture edit, podcast, ruby, symbol, tech, testing, traits, android, android-libraries, angular, animation, api, bootstrap, chromeextension, code reuse, css, data, database, datavisualization, design share, devops, docker, drupal, drupal8, flexbox, go, google, google-play-services, gulp, inheritance, ionic, ios, javascript, jekyll, js, laraconrecap, mobile, mobile-tech, nodejs, php, podcast, productmgmt, programming, robot, sass, security, server, solar, startups, string concatenation, svg, symbolguide, testing, testwebspeed, tools, translation, wake, workstation-ergonomics]
+image:
+  feature: weekly_illustration.png
 ---
 
 We recently made our smoke testing library [Hookah](http://bit.ly/1EBJyYL) open source, you can get it as a composer package from [packagist](http://bit.ly/1LiDppx).
@@ -12,9 +14,9 @@ Hookah is a small [smoke testing](http://bit.ly/1huFGnR) command line library fo
 
 This week's Knowledge Sharing Wednesday featured Achyut Devkota, System Engineer, who presented on VoiceInn, a Telephony Application and it's architecture. VoiceInn is an interactive telephony solution with capabilities to take surveys from callers, have noticeboards built in and user support. To know more about VoiceInn you can view Achyut's [presentation](https://speakerdeck.com/achyutdev/telephony-application-voiceinn-and-its-architecture).
 
-![Presentation on VoiceInn by Achyut](/images/weekly03/Achyut_VoiceInn_KSW.jpg)
-
 <!--more-->
+
+![Presentation on VoiceInn by Achyut](/images/weekly03/Achyut_VoiceInn_KSW.jpg)
 
 We also received dates from Geshan Manadhar all the way from Dubai :) Thank you [Geshan](http://geshan.com.np).
 

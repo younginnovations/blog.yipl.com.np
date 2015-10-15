@@ -1,19 +1,43 @@
 <div class="navigation-wrapper">
-	<div class="site-name">
-		<a href="{{ site.url }}/">{{ site.title }}</a>
-	</div><!-- /.site-name -->
-	<div class="top-navigation">
-		<nav role="navigation" id="site-nav" class="nav">
-		    <ul>
-		        {% for link in site.data.navigation %}
-				    {% if link.url contains 'http' %}
-				        {% assign domain = '' %}
-				        {% else %}
-				        {% assign domain = site.url %}
-				    {% endif %}
-				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-				{% endfor %}
-		    </ul>
-		</nav>
-	</div><!-- /.top-navigation -->
+    <div class="site-name">
+        <a href="{{ site.url }}/">{{ site.title }}</a>
+    </div><!-- /.site-name -->
+    <div class="top-navigation navigation">
+        <div class="trigger inactive">
+            <div class="trigger-wrap">
+                <div class="bar">
+                    <span class="icon-bar top"></span>
+                    <span class="icon-bar middle"></span>
+                    <span class="icon-bar bottom"></span>
+                </div>
+                <div class="menu">Menu</div>
+            </div>
+        </div>
+        <!--		<div class="navigation-wrap morph-content">-->
+        <div class="navigation-wrap">
+            <!--			<span class="icon icon-close"><span>Menu</span></span>-->
+            <div class="site-name">
+                <a href="{{ site.url }}">{{ site.title }}</a>
+            </div><!-- /.site-name -->
+            <nav role="navigation" id="site-nav" class="nav">
+                <ul>
+                    {% for link in site.data.navigation %}
+                    {% if link.url contains 'http' %}
+                    {% assign domain = '' %}
+                    {% else %}
+                    {% assign domain = site.url %}
+                    {% endif %}
+                    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+                    {% endfor %}
+                </ul>
+            </nav>
+            <div class="navigation-footer">
+                <p>Journals from people at</p>
+                <div class="yipl-footer-logo">
+                    <img src="{{site.url}}/images/pages/yipl-footer-logo.png" alt="">
+                </div>
+            </div>
+        </div>
+
+    </div><!-- /.top-navigation -->
 </div><!-- /.navigation-wrapper -->

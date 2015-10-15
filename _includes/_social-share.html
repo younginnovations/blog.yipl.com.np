@@ -1,14 +1,30 @@
 <div class="social-share">
-  <h4>Share on</h4>
-  <ul>
-    <li>
-      <a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
-    </li>
-    <li>
-      <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
-    </li>
-    <li>
-      <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
-    </li>
-  </ul>
+  <div class="social-share-menu">
+  <div class="btn share-trigger">
+  </div>
+  <div class="icons">
+    <div class="rotater">
+      <div class="btn btn-icon">
+      <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" class="social-menu-item-icon icon icon-googleplus" title="Share on Google Plus">
+        <img src="{{site.url}}/images/social-icons/ic-googleplus.png" class="social-icon">
+      </a>
+      </div>
+    </div>
+    <div class="rotater">
+      <div class="btn btn-icon">
+       <a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}" class="social-menu-item-icon icon icon-twitter" title="Share on Twitter">
+        <img src="{{site.url}}/images/social-icons/ic-twitter.png" class="social-icon">
+        </a>
+      </div>
+    </div>
+    <div class="rotater">
+      <div class="btn btn-icon">
+      <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" class="social-menu-item-icon icon icon-facebook" title="Share on Facebook">
+        <img src="{{site.url}}/images/social-icons/ic-facebook.png" class="social-icon">
+      </a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="share-text">Share this article</div>
 </div><!-- /.social-share -->
