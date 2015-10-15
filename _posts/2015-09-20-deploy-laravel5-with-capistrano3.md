@@ -4,8 +4,6 @@ title: "Deploy a Laravel 5 application with Capistrano 3"
 author: sumit_chhetri
 modified: 20 Sep, 2015
 tags: [deployment, devops, laravel, capistrano]
-image:
-  feature: testing-deployment/Capistrano.png
 ---
 
 A week ago, I wrote a blog on [Automated Deployment With Capistrano](http://blog.yipl.com.np/automated-deployment/). This is a part-2 to that bolg. Here, you will learn to deploy a [Laravel 5](http://laravel.com/) application using [Capistrano 3](http://capistranorb.com/). If you come across some terminologies, of which you have no idea, please checkout these [slides](http://shhetri.github.io/capistrano-presentation/#/11). Now lets learn how to deploy.
