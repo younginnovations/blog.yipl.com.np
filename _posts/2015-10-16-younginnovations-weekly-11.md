@@ -3,7 +3,7 @@ layout: post
 title: "Young Innovations weekly #11"
 author: prawesh_shrestha
 modified: 16 Oct, 2015
-tags: [adobe, data, ui design, adobe, android, aws, css, deploy, design, docker, drupal, email, git, google maps, graphic design, health, laravel, learning, navigation, new relic, photoshop, programming, projectcomet, recruitment, sass, security, trello]
+tags: [adobe, coding, data, devops, js, tdd, ui design, adobe, android, angularjs, aws, blog, ci, code, coding, css, deploy, deployment, design, devops, docker, drupal, email, git, google maps, graphic design, health, javascript, jekyll, laravel, learning, navigation, new relic, photoshop, programming, projectcomet, recruitment, refactoring, sass, screen, security, ssh, sys admin, systemadmin, tdd, testing, trello, uxdesign, views]
 image:
   feature: weekly11/Dashain-2015.jpg
 ---
@@ -23,15 +23,25 @@ At present, the scarcity of petroleum product in our country has affected us bad
 And below, you can find links to satisfy your weekly reads on articles that are useful to us. Happy reading! 
 
 
+* [30 useful linux commands for system administrators](http://www.tecmint.com/useful-linux-commands-for-system-administrators/)
+
+* [angularjs: get started – pluralsight training](http://www.pluralsight.com/courses/angularjs-get-started)
+
 * [assembly - graphic design for everyone](http://assemblyapp.co/?ref=webdesignernews.com)
 
 * [build your own dashboard on the trello api - the corrello blog](http://blog.getcorrello.com/2015/10/14/build-your-own-dashboard-on-the-trello-api/)
 
 * [building an email notification system for drupal - realityloop. drupal development melbourne](http://realityloop.com/blog/2015/10/14/building-email-notification-system-drupal)
 
+* [continuous integration essentials - codeship](https://codeship.com/continuous-integration-essentials)
+
+* [custom conditionals with laravel's blade directives - matt stauffer on laravel, php, frontend development](https://mattstauffer.co/blog/custom-conditionals-with-laravels-blade-directives)
+
 * [deploy laravel to digitalocean](http://deploybot.com/guides/deploy-a-laravel-app-to-digitalocean)
 
 * [design with data - adobe max 2015 - sneak peeks - youtube](https://www.youtube.com/watch?v=e8ebPSJR3U0)
+
+* [docker production toolset](http://blog.cloud66.com/docker-in-production-from-a-to-z/?utm_content=buffer284ad)
 
 * [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws)
 
@@ -43,20 +53,36 @@ And below, you can find links to satisfy your weekly reads on articles that are 
 
 * [git - master branch and 'origin/master' have diverged, how to 'undiverge' branches'? - stack overflow](http://stackoverflow.com/questions/2452226/master-branch-and-origin-master-have-diverged-how-to-undiverge-branches)
 
+* [good unit test - one assert - pragmatic developer](http://www.mfranc.com/unit-testing/good-unit-test-one-assert/)
+
 * [how tech firms are becoming more diverse by changing the way they recruit - tuts code article](http://code.tutsplus.com/articles/how-tech-firms-are-becoming-more-diverse-by-changing-the-way-they-recruit--cms-25000)
 
 * [how to improve your website’s navigation — internetdevels official blog](http://internetdevels.com/blog/how-to-improve-your-websits-navigation)
 
 * [how to monitor docker-based applications using new relic - tuts code tutorial](http://code.tutsplus.com/tutorials/how-to-monitor-docker-based-applications-using-new-relic--cms-24891)
 
+* [i want to be programmer where to start ? - pragmatic developer](http://www.mfranc.com/career/i-want-to-be-programmer-where-to-start/)
+
 * [motion ui - playground from zurb](http://zurb.com/playground/motion-ui)
 
-* [preventing problems on your drupal site before they happen -`` erpal – flexible and open business apps.](http://www.erpal.info/blog/blog/preventing-problems-on-your-drupal-site-before-they-happen)
+* [multiple levels of subnavigation with jekyll](http://blog.honeybadger.io/multiple-levels-of-subnavigation-with-jekyll/)
+
+* [preventing problems on your drupal site before they happen - erpal – flexible and open business apps.](http://www.erpal.info/blog/blog/preventing-problems-on-your-drupal-site-before-they-happen)
 
 * [protecting your aws website from a ddos attack - tuts code tutorial](http://code.tutsplus.com/tutorials/protecting-your-aws-website-from-a-ddos-attack--cms-24631)
 
+* [refactoring module dependencies](http://martinfowler.com/articles/refactoring-dependencies.html)
+
 * [seven tips for the healthy programmer - tuts code article](http://code.tutsplus.com/articles/seven-tips-for-the-healthy-programmer--cms-25043)
+
+* [simplifying ssh-based deployment with wercker](http://blog.wercker.com/2013/08/22/Simplifying-ssh-based-deployment.html)
 
 * [squash several git commits into a single commit - makandropedia](http://makandracards.com/makandra/527-squash-several-git-commits-into-a-single-commit)
 
+* [tdd - commit by commit string calculator (i) - pragmatic developer](http://www.mfranc.com/tdd/tdd-commit-by-commit-string-calculator-i/)
+
 * [tech talk: towards a docker and containerised future - just eat technology](http://tech.just-eat.com/2015/10/14/tech-talk-towards-a-docker-and-containerised-future/)
+
+* [using screen](https://sipb.mit.edu/doc/screen/)
+
+* [what does a ux designer actually do?](http://www.sitepoint.com/ux-designer-actually/)
