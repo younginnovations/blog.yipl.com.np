@@ -2,27 +2,25 @@
 layout: post
 title: "Young Innovations weekly #11"
 author: prawesh_shrestha
-modified: 16 Oct,2015
+modified: 16 Oct, 2015
 tags: [adobe, data, ui design, adobe, android, aws, css, deploy, design, docker, drupal, email, git, google maps, graphic design, health, laravel, learning, navigation, new relic, photoshop, programming, projectcomet, recruitment, sass, security, trello]
 image:
-  feature: weekly_illustration.png
+  feature: weekly11/Dashain-2015.jpg
 ---
 
-The last week before Dashain holidays had few things to offer. Start of chilly morning and evening and making them even colder was on-and-off drizzles from heaven. Design of our blog has changed for your eyes only. We finished our first to-be-continued Skill Learning Week (SLW). 
+The last week before Dashain holidays had few things to offer - chilly mornings and evenings with on-and-off drizzles from heaven making them even colder. We have come up with a new design for our blog to sooth readers' eyes. We concluded our first two-part Skill Learning Week (SLW) this week. 
 
 <!--more-->
 
-We are very happy to bring out our new design of our blog as you can see the difference reading this weekly. All the credits for the new look goes to relentless work of Anjan and Sweta. Anjan provided a new perspective to the blog with his awesome imagination and wonderful cover images for each blog post. Sweta with her prowess in front-end made his imagination come to reality. Hats off guys! The blog looks awesome. 
+We are happy to implement new design for our blog as you might have already seen the difference while reading this weekly. All credit for the new look goes to relentless work of Anjan, Sweta and Nirajan. Anjan provided a new perspective to the blog with his awesome imagination and wonderful cover images for each blog post (well, almost). Sweta with her prowess in front-end made Anjan's imagination come to reality. This is an ongoing process though. Hats off guys! The blog looks awesome.
 
-Last week, Prashant-led first SLW had to be continued last wednesday. He shared how to use trello appropriately to create issue and maintain it using different columns. He showed us the relationship between git flow and issue flow for better output in our work. Our decision to start SLW was perfect to learn new topics to improve our work and personality as well. Since we have holidays next week, upcoming SLW will be held when we come back to work.
+Prashant continued to provide his knowledge of gitflow and issue flow during the second session of first SLW on Wednesday. He shared how to use trello appropriately to create meaningful cards to record issues and maintain it using different columns. He showed us the relationship between git flow and issue flow for better output in our work. Our decision to start SLW was perfect to learn new topics to improve our work and personality as well. Since we have holidays next week, upcoming SLW will be held when we come back from holidays to work.
 
 ![SLW photo](/images/weekly11/SLW1-part2.jpg)
 
-Although there is a scarcity of petroleum products and because of which we are going to have some trouble, let's make up with what we have and enjoy Dashain with our family and friends. Let the best season of the year bring out best in us. Happy Dashain folks!
+At present, the scarcity of petroleum product in our country has affected us badly in our daily life. However, let's make up with what we have and enjoy Dashain with our family and friends. Let the best season of the year bring out best in us. Happy Dashain folks!
 
-![Dashain 2015](/images/weekly11/Dashain-2015.jpg)
-
-And below, you can find links for you to satisfy your weekly reads on collective articles from well-picked from our side. 
+And below, you can find links to satisfy your weekly reads on articles that are useful to us. Happy reading! 
 
 
 * [assembly - graphic design for everyone](http://assemblyapp.co/?ref=webdesignernews.com)
