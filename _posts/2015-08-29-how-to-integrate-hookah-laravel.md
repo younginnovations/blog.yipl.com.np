@@ -5,7 +5,7 @@ author: geshan_manandhar
 modified: 29 Aug, 2015
 tags: [ testing, quality, smoke tests, hookah]
 image:
-  feature: hookah-laravel/Hookah-laravel.png
+  feature: hookah-laravel/Hookah-laravel.jpg
 ---
 
 We made our smoke testing library [hookah](https://github.com/younginnovations/hookah) open source last week.
