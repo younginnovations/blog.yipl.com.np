@@ -23,9 +23,9 @@ Also, Happy Birthday to Sweta & Neha !!! Thank you for the Chocolates :)
 Here are this week's links. Happy Weekend !
 
 
-* [9 bad programming habits we secretly love | infoworld](http://www.infoworld.com/article/2992566/application-development/9-bad-programming-habits-we-secretly-love.html)
+* [9 bad programming habits we secretly love - infoworld](http://www.infoworld.com/article/2992566/application-development/9-bad-programming-habits-we-secretly-love.html)
 
-* [an introduction to preventing sql injection in drupal modules | befused](http://befused.com/drupal/sql-injection)
+* [an introduction to preventing sql injection in drupal modules - befused](http://befused.com/drupal/sql-injection)
 
 * [blog: tips for a sustainable drupal 7 ](https://openconcept.ca/blog/mike/tips-sustainable-drupal-7-8-website)
 
@@ -35,23 +35,23 @@ Here are this week's links. Happy Weekend !
 
 * [docker and dockerfiles made easy!](http://www.sitepoint.com/docker-and-dockerfiles-made-easy/)
 
-* [facebook is unleashing universal search across its entire social network | the verge](http://www.theverge.com/2015/10/22/9587122/new-facebook-search-all-public-posts)
+* [facebook is unleashing universal search across its entire social network - the verge](http://www.theverge.com/2015/10/22/9587122/new-facebook-search-all-public-posts)
 
 * [five things old programmers should remember — medium](https://medium.com/@garywiz/five-things-old-programmers-need-to-remember-e78caf0b0973)
 
 * [from development to production with docker and aws elastic beanstalk](http://engineering.facile.it/from-development-to-production-with-docker-and-amazon-ecs/)
 
-* [grav - a modern flat-file cms | grav](http://getgrav.org/)
+* [grav - a modern flat-file cms - grav](http://getgrav.org/)
 
 * [guide to using webp images today: a case study – smashing magazine](http://www.smashingmagazine.com/2015/10/webp-images-and-performance/?utm_source=html5weekly)
 
 * [how to manipulate svg text - vanseo design](http://vanseodesign.com/web-design/how-to-manipulate-svg-text/)
 
-* [mastercard wants to turn every gadget into a credit card | the verge](http://www.theverge.com/2015/10/26/9615746/mastercard-enabling-wireless-payment-through-iot-devices)
+* [mastercard wants to turn every gadget into a credit card - the verge](http://www.theverge.com/2015/10/26/9615746/mastercard-enabling-wireless-payment-through-iot-devices)
 
 * [onepage website builder for wordpress and joomla!](http://getonepager.com/)
 
-* [optimizing composer's autoloader performance | mouf - dependency injection on steroids](http://mouf-php.com/optimizing-composer-autoloader-performance)
+* [optimizing composer's autoloader performance - mouf - dependency injection on steroids](http://mouf-php.com/optimizing-composer-autoloader-performance)
 
 * [please, don’t commit commented out code — medium](https://medium.com/@kentcdodds/please-don-t-commit-commented-out-code-53d0b5b26d5f)
 
@@ -65,6 +65,6 @@ Here are this week's links. Happy Weekend !
 
 * [turning the iphone 6s into a digital scale — startups, wanderlust, and life hacking — medium](https://medium.com/swlh/turning-the-iphone-6s-into-a-digital-scale-f2197dc2b6e7)
 
-* [website development workflow | drupal watchdog](https://drupalwatchdog.com/volume-5/issue-2/website-development-workflow)
+* [website development workflow - drupal watchdog](https://drupalwatchdog.com/volume-5/issue-2/website-development-workflow)
 
 * [what makes docker so good?](http://www.schibsted.pl/2015/10/what-makes-docker-so-good/)
