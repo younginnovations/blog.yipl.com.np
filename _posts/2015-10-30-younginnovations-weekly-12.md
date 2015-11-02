@@ -8,7 +8,7 @@ image:
   feature: weekly_illustration.png
 ---
 
-This is our first week after Dashain where most of the workers came back from their hometown. Some individuals still seem to be in a festive mood :) Overall this year's Dashian was a bit hassle due to shortage of Petrol, Diesel & Liquified Petroleum Gas.
+This is our first week after Dashain where most of our colleagues came back from their hometown. Some individuals still seem to be in a festive mood :) Overall this year's Dashian was bit of a hassle due to shortage of Petrol, Diesel & Liquified Petroleum Gas.
 
 This week we had our Skill Learning Wednesday (SLW) presented by Nirajan Basnet on "Awesome CSS with Bourbon, Neat, Bitters & Refills". He showed interesting examples & demos to our UI/UX Team. He also mentioned about how the implementation of these libraries can increase our performance.
 
