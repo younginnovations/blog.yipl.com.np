@@ -9,12 +9,12 @@ blogfeed:  true
 <article>
     {% if post.image.feature %}
     <div class="image-wrap">
-        <img src={% if post.image.feature contains 'http' %}
+        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img class="svg" src={% if post.image.feature contains 'http' %}
         "{{ post.image.feature }}"
         {% else %}
         "{{ site.url }}/images/{{ post.image.feature }}"
         {% endif %}
-        alt="{{ post.title }} feature image">
+        alt="{{ post.title }} feature image"></a>
         {% if post.image.credit %}
         <span class="image-credit">Photo Credit: <a href="{{ post.image.creditlink }}">{{ post.image.credit }}</a></span>
         {% endif %}

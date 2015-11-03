@@ -5,7 +5,7 @@ author: achyut_devkota
 modified: 29 Sep, 2015
 tags: [telephone application, asterisk, adhearsion, sip, voip, call, IVR, PSTN, E1,]
 image:
-  feature: voiceinn/voice-inn.png
+  feature: voiceinn/voice-inn.svg
 ---
 
 VoiceInn is an internal project of YoungInnovations to provide an interactive telephony service with user friendly web interface. It includes three main telephony services - Vsurvey, Vboard and Vsupport. The modular feature of VoiceInn allows client to take service they need and also provide a customizable feature as required.

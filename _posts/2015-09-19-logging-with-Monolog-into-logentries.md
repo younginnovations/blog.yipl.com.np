@@ -4,6 +4,8 @@ title: "Logging with Monolog on LogEntries from your application"
 author: sachit
 modified: 19 Sep, 2015
 tags: [ laravel, logging, logEntries, loggly ]
+image:
+  feature: LogEntriesVsLoggly/logging.svg
 ---
 
 I am currently working on a [Laravel](http://laravel.com/) project which has taught me a lot of new things and among those that I have learnt, I'll be shedding a little light on [Logging](https://en.wikipedia.org/wiki/Logfile), [the importance of it](http://geshan.com.np/blog/2015/08/importance-of-logging-in-your-applications/) and how and where to log.

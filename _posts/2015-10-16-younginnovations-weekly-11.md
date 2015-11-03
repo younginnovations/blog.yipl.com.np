@@ -5,7 +5,7 @@ author: prawesh_shrestha
 modified: 16 Oct, 2015
 tags: [adobe, coding, data, devops, js, tdd, ui design, adobe, android, angularjs, aws, blog, ci, code, coding, css, deploy, deployment, design, devops, docker, drupal, email, git, google maps, graphic design, health, javascript, jekyll, laravel, learning, navigation, new relic, photoshop, programming, projectcomet, recruitment, refactoring, sass, screen, security, ssh, sys admin, systemadmin, tdd, testing, trello, uxdesign, views]
 image:
-  feature: weekly11/Dashain-2015.jpg
+  feature: weekly11/Dashain-2015.svg
 ---
 
 The last week before Dashain holidays had few things to offer - chilly mornings and evenings with on-and-off drizzles from heaven making them even colder. We have come up with a new design for our blog to sooth readers' eyes. We concluded our first two-part Skill Learning Week (SLW) this week. 

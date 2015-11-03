@@ -5,7 +5,7 @@ author: rohit_shrestha
 modified: 30 Oct, 2015
 tags: [connected devices, design, digital scale, kubernetes, payment, posts, ui, users, ux, website, cms, coding, composer, container, css, cssfilters, development, development workflow, devops, docker, drupal, ecs, facebook, gadget payment, html, iphone, iphone 6s, laravel, mastercard, medium, mobileapps, onepager, php, programming, programminghabits, search, security, site builder, sustainable website, svgtexts, webpimage, wordpress]
 image:
-  feature: weekly_illustration.png
+  feature: weekly_illustration.svg
 ---
 
 This is our first week after Dashain where most of our colleagues came back from their hometown. Some individuals still seem to be in a festive mood :) Overall this year's Dashian was bit of a hassle due to shortage of Petrol, Diesel & Liquified Petroleum Gas.

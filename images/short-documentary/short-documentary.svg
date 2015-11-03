@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="2880px" height="1440px" viewBox="0 0 2880 1440" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>Short documentary</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Short-documentary" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup">
+            <rect id="Rectangle-17" opacity="0.9" fill="#9648C0" sketch:type="MSShapeGroup" x="0" y="0" width="2880" height="1440"></rect>
+            <circle id="Oval-1" stroke="#4E083B" stroke-width="54" fill="#6976EA" sketch:type="MSShapeGroup" cx="1262" cy="635" r="111"></circle>
+            <circle id="Oval-1-Copy-2" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="1262" cy="635" r="25"></circle>
+            <circle id="Oval-1-Copy" stroke="#4E083B" stroke-width="94" fill="#FB9816" sketch:type="MSShapeGroup" cx="1565.5" cy="575.5" r="214.5"></circle>
+            <circle id="Oval-1-Copy-3" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="1565.5" cy="575.5" r="64.5"></circle>
+            <path d="M1525.9692,1237 C1524.73746,1227.01388 1486.71926,1219 1440,1219 C1393.28074,1219 1355.26254,1227.01388 1354.0308,1237 L1354,1237 L1354,1336 L1354.03082,1335.99982 C1354.01032,1336.16601 1354,1336.33275 1354,1336.5 C1354,1346.71727 1392.50351,1355 1440,1355 C1487.49649,1355 1526,1346.71727 1526,1336.5 C1526,1335.99557 1525.90615,1335.49585 1525.722,1335.00162 L1526,1335 L1526,1237 L1525.9692,1237 Z" id="Oval-4" fill="#4D083B" sketch:type="MSShapeGroup"></path>
+            <path d="M1131.81771,1234.01118 L1131.81771,918.182287 L1096.81771,918.182287 L1096.81771,1233.38542 C1086.08063,1234.8496 1077.81771,1244.05099 1077.81771,1255.18354 L1077.81771,1412.18103 C1077.81771,1424.33451 1087.6694,1434.18229 1099.82207,1434.18229 L1125.81336,1434.18229 C1137.97387,1434.18229 1147.81771,1424.33199 1147.81771,1412.18103 L1147.81771,1255.18354 C1147.81771,1245.11182 1141.05194,1236.62356 1131.81771,1234.01118 Z" id="Rectangle-9" fill="#4E083B" sketch:type="MSShapeGroup" transform="translate(1112.817713, 1176.182287) rotate(45.000000) translate(-1112.817713, -1176.182287) "></path>
+            <path d="M1758.45306,887.817391 L1887,919 L1887,753 L1758.45306,787.891304 L1713,787.891304 L1713,887.817391 L1758.45306,887.817391 Z" id="Rectangle-3" stroke="#4E083B" stroke-width="22" fill="#6976EA" sketch:type="MSShapeGroup"></path>
+            <rect id="Rectangle-2" stroke="#450C36" stroke-width="22" fill="#FFFFFF" sketch:type="MSShapeGroup" x="1149" y="720" width="582" height="380" rx="44"></rect>
+            <rect id="Rectangle-22" fill="#4E083B" sketch:type="MSShapeGroup" x="1100" y="789.5" width="49" height="90"></rect>
+            <rect id="Rectangle-23" fill="#4E083B" sketch:type="MSShapeGroup" x="1074" y="772" width="28" height="125" rx="14"></rect>
+            <g id="Oval-17-+-Oval-17-Copy-+-Oval-17-Copy-2" sketch:type="MSLayerGroup" transform="translate(1368.000000, 1022.000000)" fill="#4E083B">
+                <circle id="Oval-17" sketch:type="MSShapeGroup" cx="16.5" cy="16.5" r="16.5"></circle>
+                <circle id="Oval-17-Copy" sketch:type="MSShapeGroup" cx="71.5" cy="16.5" r="16.5"></circle>
+                <circle id="Oval-17-Copy-2" sketch:type="MSShapeGroup" cx="127.5" cy="16.5" r="16.5"></circle>
+            </g>
+            <rect id="Rectangle-21" fill="#4E083B" sketch:type="MSShapeGroup" x="1151" y="982" width="580" height="25"></rect>
+            <circle id="Oval-3" stroke="#4E083B" stroke-width="22" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="1440" cy="1166" r="86"></circle>
+            <circle id="Oval-3-Copy" fill="#4E083B" sketch:type="MSShapeGroup" cx="1440" cy="1166" r="47"></circle>
+            <path d="M1354,1337 L1393,1337 L1359,1440 L1320,1440 L1354,1337 Z" id="Rectangle-6" fill="#4D083B" sketch:type="MSShapeGroup"></path>
+            <path d="M1524,1337 L1485,1337 L1519,1440 L1558,1440 L1524,1337 Z" id="Rectangle-6-Copy" fill="#4D083B" sketch:type="MSShapeGroup"></path>
+            <rect id="Rectangle-10" fill="#4D083B" sketch:type="MSShapeGroup" x="1417" y="1345" width="43" height="99"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,7 +1,7 @@
 # Site navigation links
 
- - title: Home
+ - title: <span>01</span> home
    url: 
 
- - title: About
+ - title: <span>02</span> about
    url: /about/

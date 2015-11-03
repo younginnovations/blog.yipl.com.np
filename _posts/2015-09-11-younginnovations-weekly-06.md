@@ -5,7 +5,7 @@ author: prashant_shrestha
 modified: 11 Sep, 2015
 tags:  [ android, authorization, chat, chatops, companion, deployment ui, devops, fabric, hubot, ios, mongodb, php, ui, ux, web design, android, animation, apple, automateddeployment, bot, clean code, code, code-reviews, course, css, deploy, deployment, design, developement, docker, drupal, drupal8, email, fabrric, file, firewalls, flexbox, git, githook, hubot, iptables, javascript, jekyllinstallation, js, laravel, maps, materialdesign, microservices, misc, mobileapps, monitoring, nodejs, notify, performance, php, processmonitoring, python, ruby, scratch, server, servermonitoring tool, setinterval, shapes, svg, tools, transition, ui, webscraping, webservices]
 image:
-  feature: weekly_illustration.png
+  feature: weekly_illustration.svg
 ---
 
 This week we were part of a Partner workshop on [DevelopmentCheck](http://developmentcheck.org/). [DevelopmentCheck](http://developmentcheck.org/) is a user driven and solution oriented online tool for citizen feedback on the transparency, participation and effectiveness of development projects. This tool was developed by YoungInnovations for [IntegrityAction](http://www.integrityaction.org/). We had participants from many countries like Kenya, Democratic Republic of Congo, Palestine, Liberia, Sierra Leone and Nepal present in the workshop. The workshop ended with a dinner where all the participants enjoyed some authentic Nepali cuisines. The partners also had a lot of fun dancing to traditional Nepali tunes.

@@ -5,7 +5,7 @@ author: anubhuti_poudyal
 modified: 28 Aug, 2015
 tags: [ NcellAppCamp, Ncell, Mobile App Competition, mobile apps, apps, mobile, competition]
 image:
-  feature: ncellappcamp-debriefing/NcellAppCamp- 2015.png
+  feature: ncellappcamp-debriefing/NcellAppCamp- 2015.svg
 ---
 
 What is the difference between Ncell App Camp 2014 and [Ncell App Camp 2015](http://ncellappcamp.com)?  There is more than one difference, most definitely. But, heightened anticipation, is something I’d mention with certainty. With the incredible success last year, this year’s event is being looked upon with much enthusiasm (and scrutiny) and we are excited to present to you every phase of the five month long journey. 

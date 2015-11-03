@@ -5,7 +5,7 @@ author: rakesh_pradhan
 modified: 02 Oct, 2015
 tags:  [ animation, apple, apple watch, browser, css, culture, deployment, drupal, html, javascript, js, minimalism, motion, patent, performance, physics, plan, prototype, redesign, stand out, success, trend, ui, unique, version control, web design, animation, caching, code, companyculture, container, contribute, css, design, devops, docker, documentary, dribbble, drupal8, flux, folio, future, git, github, import csv, invision, javascript, js, laravel, pattern, php, phyrics, productmgmt, programming, pusher, shared cookie, slices, smartring, startup, symfony, tech, technology, ux, varnish, video, web, webdesign, webdevelopment, website]
 image:
-  feature: weekly_illustration.png
+  feature: weekly_illustration.svg
 ---
 
 This last week of september has been a weary week with no fuel and lack of vehicles. But walking to work has been a good workout, for me at least. Hope everything goes back to normal soon. Besides this, it has been a normal week at YIPL.
