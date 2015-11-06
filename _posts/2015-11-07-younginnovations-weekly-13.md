@@ -30,7 +30,7 @@ Here are this week's links.
 
 * [installation of asterisk gui](http://www.asteriskguru.com/tutorials/asterisk_gui.html)
 
-* [interview: adobe’s andrew shorten discusses project comet | webdesigner depot](http://www.webdesignerdepot.com/2015/11/interview-adobes-andrew-shorten-discusses-project-comet/?ref=webdesignernews.com)
+* [interview: adobe’s andrew shorten discusses project comet - webdesigner depot](http://www.webdesignerdepot.com/2015/11/interview-adobes-andrew-shorten-discusses-project-comet/?ref=webdesignernews.com)
 
 * [make docker container persistant](http://container-solutions.com/understanding-volumes-docker/)
 
@@ -38,8 +38,8 @@ Here are this week's links.
 
 * [our logo looks like underpants: a case study in internationalization](https://blog.rjmetrics.com/2013/10/09/our-logo-looks-like-underpants-a-case-study-in-internationalization/)
 
-* [polygraph | data-driven storytelling](http://poly-graph.co/)
+* [polygraph - data-driven storytelling](http://poly-graph.co/)
 
 * [three universal methods of reducing complexity](http://www.computing.dcu.ie/~renaat/ca2/ca214/ca214vii.html)
 
-* [understanding border-image | bitsofcode](http://bitsofco.de/2015/understanding-border-image/)
+* [understanding border-image - bitsofcode](http://bitsofco.de/2015/understanding-border-image/)
