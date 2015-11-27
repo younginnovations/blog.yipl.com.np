@@ -8,7 +8,7 @@ image:
   feature: weekly_illustration.png
 ---
 
-Slush is one of the biggest international tech-event where the startup world meets international investors, executives and media. Slush 2015 was held on November 11-12, 2015 at Helsinki, Finland. Bibhusan, our CEO, attended this year's event along with the grand winner of Ncell App Camp 2014. 
+[Slush](http://www.slush.org/) is one of the biggest international tech-event where the startup world meets international investors, executives and media. Slush 2015 was held on November 11-12, 2015 at Helsinki, Finland. Bibhusan, our CEO, attended this year's event along with the grand winner of Ncell App Camp 2014. 
 <!--more-->
 
 ![Slush Photo](/images/weekly15/slush2015)
@@ -19,11 +19,11 @@ Slush 2015 was an opportunity for YoungInnovations to share what we've done sinc
 
 Talking about tech startup, Ncell App Camp 2015 has reached the stage of series of Seminars and Training for selected 150 participants. After a successful run of training on designing & development of app and supporting systems; business development and idea pitching & presentation, four sessions of seminars were conducted this week. 
 
-![Bibhusan @ Slush 2015 Photo](/images/weekly15/panel-sessions-bibhusan.png)
+![Bibhusan-moderating-NcellAppCamp-seminars](/images/weekly15/panel-sessions-bibhusan.png)
 
-Seminars on Games & Entertainment and Health were held on November 23, 2015 at Soaltee Crown Plaza. Whereas the other two sessions - Seminars on Tourism and Health were conducted on November 25, 2015 at same place. In all sessions, experts in related fields were present to share their experiences and stories to motivate the participants. Bibhusan Bista, took the responsibilities of moderating two sessions - Games & Entertainment and Utilities. In both sessions, he put forward important questions in front of the panelists so that the participants could learn more from each panelists. 
+Seminars on Games & Entertainment and Health were held on November 23, 2015 at Soaltee Crown Plaza. Whereas the other two sessions - Seminars on Tourism and Health were conducted on November 25, 2015 at same place. In all sessions, experts in related fields were present to share their experiences and stories to motivate the participants. Bibhusan Bista, took the responsibility of moderating two sessions - Games & Entertainment and Utilities. In both sessions, he put forward important questions in front of the panelists so that the participants could learn more from each panelist. 
 
-For you only, here are few links you can go through this weekend:
+Here are few links you can go through this weekend:
 
 * [2015 subtraction.com design tools survey - the tools designers are using today](http://tools.subtraction.com/)
 
