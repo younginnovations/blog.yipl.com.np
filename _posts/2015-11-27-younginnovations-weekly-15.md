@@ -8,7 +8,7 @@ image:
   feature: weekly_illustration.png
 ---
 
-[Slush](http://www.slush.org/) is one of the biggest international tech-event where the startup world meets international investors, executives and media. Slush 2015 was held on November 11-12, 2015 at Helsinki, Finland. Bibhusan, our CEO, attended this year's event along with the grand winner of Ncell App Camp 2014. 
+[Slush](http://www.slush.org/) is one of the biggest international tech-events where the startup world meets international investors, executives and media. Slush 2015 was held on November 11-12, 2015 at Helsinki, Finland. Bibhusan, our CEO, attended this year's event along with the grand winner of Ncell App Camp 2014. 
 <!--more-->
 
 ![Slush Photo](/images/weekly15/slush2015)
