@@ -11,7 +11,7 @@ image:
 [Slush](http://www.slush.org/) is one of the biggest international tech-events where the startup world meets international investors, executives and media. Slush 2015 was held on November 11-12, 2015 at Helsinki, Finland. Bibhusan, our CEO, attended this year's event along with the grand winner of Ncell App Camp 2014. 
 <!--more-->
 
-![Slush Photo](/images/weekly15/slush2015)
+![Slush Photo](/images/weekly15/slush2015.jpg)
 
 Slush 2015 was an opportunity for YoungInnovations to share what we've done since 2011 in Nepal regarding mobile app entrepreneurship development. In a focused side event, Bibhusan participated in a knowledge sharing event to share our experience along with representatives from 15 different countries across the globe. At the same time, Slush was an opportunity to look into the future of global startup scene at a global level. Stay tuned for Bibhusan's focused piece on what he has to share on his visit to Slush 2015 with us all !
 
