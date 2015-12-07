@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="2880px" height="1439px" viewBox="0 0 2880 1439" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 3 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.391304348" y="0.985157699" width="1173.04348" height="609.721707" rx="11"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="10" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.070000001 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="5" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.070000001 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="10" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.070000001 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M471.846053,1.30813056 C403.675372,29.6599141 337.560453,69.3876735 275.25,121.626566 C-152.640623,480.355016 46.1249977,1083.25938 46.1249977,1083.25938 L140.713824,1481.89841 C146.195663,1505.0013 169.854587,1522.67889 193.556209,1521.37694 C193.556209,1521.37694 337.23436,1516.84371 471.937485,1482.14058 C716.914122,1419.02806 827.999985,1357.28121 1029.15238,1422.07387 C1230.30478,1486.86652 1315.2202,1388.51595 1315.2202,1388.51595 L1404.95958,1141.06148 C1404.95958,1141.06148 1134.1223,845.13448 1262.80113,722.48763 C1391.47997,599.840779 1518.11451,476.054399 1530.85936,447.797175 C1430.01732,240.257341 1248.20149,79.263733 1039.63603,0.0154994823 C998.885529,22.370951 886.623428,38.4318184 754.516285,38.4318184 C624.969471,38.4318184 514.505931,22.9874599 471.846049,1.30813169 Z" id="path-6"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="5" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.070000001 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Logging" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-3-Copy" sketch:type="MSArtboardGroup">
+            <rect id="Rectangle-85" fill="#ABE2FF" sketch:type="MSShapeGroup" x="0" y="0" width="2880" height="2160"></rect>
+            <rect id="Rectangle-28-Copy" fill="#9FCBE1" sketch:type="MSShapeGroup" x="2570" y="356" width="162" height="832" rx="22"></rect>
+            <rect id="Rectangle-29-Copy" fill="#9FCAE1" sketch:type="MSShapeGroup" x="2645" y="1107" width="119" height="87"></rect>
+            <g id="Group-Copy" sketch:type="MSLayerGroup" transform="translate(1296.000000, 314.000000)">
+                <rect id="Rectangle-2" stroke="#140E12" stroke-width="22" fill="#35342F" sketch:type="MSShapeGroup" x="29.326087" y="0" width="1361.34783" height="781.061224" rx="22"></rect>
+                <g id="Rectangle-5-+-Path-1" transform="translate(120.000000, 87.000000)">
+                    <mask id="mask-2" sketch:name="Mask" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#08AE8E" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                    <rect id="Rectangle-10" opacity="0.1" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="55" y="40" width="5" height="571"></rect>
+                    <rect id="Rectangle-10-Copy" opacity="0.1" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="136" y="40" width="5" height="571"></rect>
+                    <rect id="Rectangle-10-Copy-2" opacity="0.1" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="217" y="40" width="5" height="571"></rect>
+                    <rect id="Rectangle-10-Copy-3" opacity="0.1" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="298" y="40" width="5" height="571"></rect>
+                    <rect id="Rectangle-10-Copy-4" opacity="0.1" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="379" y="40" width="5" height="571"></rect>
+                    <rect id="Rectangle-10-Copy-5" opacity="0.1" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="460" y="40" width="5" height="571"></rect>
+                    <rect id="Rectangle-10-Copy-6" opacity="0.1" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="541" y="40" width="5" height="571"></rect>
+                    <rect id="Rectangle-10-Copy-7" opacity="0.1" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="622" y="40" width="5" height="571"></rect>
+                    <rect id="Rectangle-10-Copy-8" opacity="0.1" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="703" y="40" width="5" height="571"></rect>
+                    <rect id="Rectangle-10-Copy-9" opacity="0.1" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="784" y="40" width="5" height="571"></rect>
+                    <rect id="Rectangle-10-Copy-10" opacity="0.1" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="865" y="40" width="5" height="571"></rect>
+                    <rect id="Rectangle-10-Copy-11" opacity="0.1" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="946" y="40" width="5" height="571"></rect>
+                    <rect id="Rectangle-10-Copy-12" opacity="0.1" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="1027" y="40" width="5" height="571"></rect>
+                    <rect id="Rectangle-10-Copy-13" opacity="0.1" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="1109" y="40" width="5" height="571"></rect>
+                    <path d="M-24.984375,352.828125 C-24.984375,352.828125 16.53125,234.578125 172.4375,361.125 C328.34375,487.671875 470.859375,452.801364 593.71875,392.34375 C716.578125,331.886136 697.53125,392.5 882.3125,392.5 C1067.09375,392.5 1185.5,100.109375 1185.5,100.109375 L1230.73438,285.78125 L1226.59375,631.25 L989.96875,679.6875 L-30.953125,681.078125 L-24.984375,352.828125 Z" id="Path-2" fill="#F4C58F" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    <path d="M-1.859375,426.117187 C-1.859375,426.117187 7.1328125,316.484375 94.0078125,379.835937 C180.882812,443.1875 366.757813,595.015621 469.242187,520.671875 C571.726562,446.328129 658.601562,444.867192 777.523437,495.375 C896.445312,545.882808 966.171875,453.459374 1015.91406,387.054687 C1065.65625,320.650001 1145.21875,349.851567 1209.48438,430.796875 C1273.75,511.742183 1212.86719,624.445312 1212.86719,624.445312 L-11.609375,643.273438 L-1.859375,426.117187 Z" id="Path-2" fill="#FA7A57" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                </g>
+                <rect id="Rectangle-6" fill="#D5D5D5" sketch:type="MSShapeGroup" x="120.391304" y="87.9851577" width="1173.04348" height="41.67718" rx="8"></rect>
+                <ellipse id="Oval-1" fill="#DD2424" sketch:type="MSShapeGroup" cx="148.945652" cy="110.367347" rx="11.576087" ry="11.5769944"></ellipse>
+                <ellipse id="Oval-1-Copy" fill="#F7A02D" sketch:type="MSShapeGroup" cx="182.902174" cy="110.367347" rx="11.576087" ry="11.5769944"></ellipse>
+                <ellipse id="Oval-1-Copy-2" fill="#63B934" sketch:type="MSShapeGroup" cx="213.771739" cy="110.367347" rx="11.576087" ry="11.5769944"></ellipse>
+                <rect id="Rectangle-3" fill="#D2D0C1" sketch:type="MSShapeGroup" x="0" y="767.168831" width="1420" height="64.8311688"></rect>
+                <rect id="Rectangle-4" fill="#6F6D60" sketch:type="MSShapeGroup" x="598.869565" y="767.168831" width="213" height="21.6103896"></rect>
+            </g>
+            <rect id="Rectangle-38-Copy-2" fill="#F8EFE8" sketch:type="MSShapeGroup" x="-186" y="1145" width="3155.51562" height="86"></rect>
+            <rect id="Rectangle-38-Copy-3" fill="#ECE2DA" sketch:type="MSShapeGroup" x="-186" y="1188" width="3155.51562" height="450"></rect>
+            <ellipse id="Oval-32" fill="#174060" sketch:type="MSShapeGroup" cx="1347" cy="1697" rx="581" ry="356"></ellipse>
+            <rect id="Rectangle-24-Copy-2" fill="#E0D5CD" filter="url(#filter-3)" sketch:type="MSShapeGroup" x="1350" y="1231" width="1482" height="336.9375"></rect>
+            <ellipse id="Oval-4-Copy-2" fill="#AB9F98" filter="url(#filter-4)" sketch:type="MSShapeGroup" cx="2091" cy="1390" rx="49" ry="49"></ellipse>
+            <rect id="Rectangle-24-Copy-3" fill="#E0D5CD" filter="url(#filter-5)" sketch:type="MSShapeGroup" x="-186" y="1231" width="1482" height="336.9375"></rect>
+            <path d="M2011,539.015625 C2011,539.015625 2227.46875,864.125 2256.375,1022.65625 C2285.28125,1181.1875 1975.32812,1161.96875 1877.23438,1104 C1779.14062,1046.03125 1710.10938,621.53125 1710.10938,621.53125 L2011,539.015625 Z" id="Path-4-Copy" fill="#DFC89B" sketch:type="MSShapeGroup"></path>
+            <rect id="Rectangle-26-Copy-2" fill="#DFC89C" sketch:type="MSShapeGroup" x="1179" y="20" width="373" height="232"></rect>
+            <path d="M1552,63.9057501 L1552,22 L1179,22 L1179,47.4823825 C1223.58431,101.288496 1293.89619,136 1373,136 C1443.73196,136 1507.43448,108.246995 1552,63.9057501 Z" id="Rectangle-26-Copy-3" fill="#C9B388" sketch:type="MSShapeGroup"></path>
+            <path d="M2106.08398,693.015625 L2114.12207,706.751953 L2015.84375,805.875 L1990.95117,753.070312 L2106.08398,693.015625 Z" id="Path-5-Copy" fill="#C0AC84" sketch:type="MSShapeGroup"></path>
+            <path d="M2142.85936,646.797175 C2113.92186,710.95591 1859.82813,864.883245 1859.82813,864.883245 L1922.4375,1555.47096 L771.46875,1587.0625 L658.124998,1282.25938 C658.124998,1282.25938 459.359377,679.355016 887.25,320.626566 C1315.14062,-38.1018848 1922.43749,193.153831 2142.85936,646.797175 Z" id="Path-3-Copy-2" fill="#DFC89B" sketch:type="MSShapeGroup"></path>
+            <g id="Path-3-Copy-3" sketch:type="MSLayerGroup" transform="translate(612.000000, 199.000000)">
+                <mask id="mask-7" sketch:name="Mask" fill="white">
+                    <use xlink:href="#path-6"></use>
+                </mask>
+                <use id="Mask" fill="#95C15E" sketch:type="MSShapeGroup" xlink:href="#path-6"></use>
+                <rect id="Rectangle-99" fill="#84AC52" sketch:type="MSShapeGroup" mask="url(#mask-7)" x="146" y="1207" width="1248" height="97" rx="22"></rect>
+            </g>
+            <ellipse id="Oval-4-Copy-3" fill="#AB9F98" filter="url(#filter-8)" sketch:type="MSShapeGroup" cx="555" cy="1390" rx="49" ry="49"></ellipse>
+            <path d="M2102,1156 C2102,634.643196 1770.243,212 1361,212 C951.757,212 620,634.643196 620,1156 C620,1268.70379 649.183585,1400.42227 649.183585,1400.42227 C657.334183,1442.71498 698.859899,1477 741.945375,1477 L1980.05462,1477 C2023.13495,1477 2067.06719,1443.26294 2076.73764,1401.29389 C2076.73764,1401.29389 2102,1268.70379 2102,1156 Z" id="Oval-6-Copy-2" fill="#3B3530" sketch:type="MSShapeGroup"></path>
+            <path d="M1983.5,1138 C1983.5,700.038193 1704.79726,345 1361,345 C1017.20274,345 738.5,700.038193 738.5,1138 C738.5,1209.97556 750.17172,1275.71533 750.17172,1275.71533 C755.673604,1314.53248 791.929056,1346 831.125674,1346 L1890.87433,1346 C1930.08208,1346 1966.55544,1314.56116 1971.83026,1275.69995 C1971.83026,1275.69995 1983.5,1209.97556 1983.5,1138 Z" id="Oval-6-Copy-3" fill="#2C2926" sketch:type="MSShapeGroup"></path>
+            <ellipse id="Oval-8-Copy-2" fill="#528694" sketch:type="MSShapeGroup" cx="1363" cy="-111" rx="244" ry="225"></ellipse>
+            <path d="M521.5,998.928801 C521.5,963.82906 510.804183,931.227461 492.494047,904.205502 C451.904807,908.743937 403.887217,911.368329 352.428801,911.368329 C300.970384,911.368329 252.952795,908.743937 212.363555,904.205502 C194.053419,931.227461 183.357602,963.82906 183.357602,998.928801 C183.357602,1061.23796 217.063813,1115.67461 267.237482,1145 L437.620125,1145 C487.793788,1115.67461 521.5,1061.23796 521.5,998.928801 Z" id="Oval-11-Copy" fill="#F6FCFE" sketch:type="MSShapeGroup"></path>
+            <circle id="Oval-13" stroke="#F6FBFD" stroke-width="20" stroke-linecap="square" sketch:type="MSShapeGroup" cx="202.5" cy="1056.5" r="77.5"></circle>
+            <text id="CODE-IS-Copy" opacity="0.2" sketch:type="MSTextLayer" font-family="Source Sans Pro" font-size="53" font-weight="bold" sketch:alignment="middle" line-spacing="60">
+                <tspan x="264.5" y="1030.896" fill="#2C2927">C</tspan>
+                <tspan x="294.422" y="1027" font-size="57" fill="#FA7A57">O</tspan>
+                <tspan x="333.41" y="1027" font-size="57" fill="#2C2927">D</tspan>
+                <tspan x="370.529" y="1030.896" fill="#2C2927">E IS</tspan>
+                <tspan x="314.5465" y="1092.51794" fill="#2C2927">ART</tspan>
+            </text>
+            <rect id="Rectangle-97" fill="#373432" sketch:type="MSShapeGroup" x="1161" y="701" width="400" height="400" rx="22"></rect>
+            <rect id="Rectangle-95-Copy" opacity="0.1" fill="#000000" sketch:type="MSShapeGroup" x="1288" y="883" width="206" height="1389" rx="40"></rect>
+            <rect id="Rectangle-95" fill="#221F1D" sketch:type="MSShapeGroup" x="1258" y="843" width="206" height="1389" rx="40"></rect>
+        </g>
+    </g>
+</svg>

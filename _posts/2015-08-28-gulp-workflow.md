@@ -5,7 +5,7 @@ author: nirajan_basnet
 modified: 28 Aug, 2015
 tags: [ gulp, javascript ]
 image:
-  feature: gulp-blog/Gulp.png
+  feature: gulp-blog/Gulp.svg
 ---
 
 It was the first time I was using Gulp. The experience, I must say, was quite enjoyable.

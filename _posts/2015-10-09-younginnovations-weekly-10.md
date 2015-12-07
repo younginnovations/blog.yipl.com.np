@@ -5,7 +5,7 @@ author: neha_rajbanshi
 modified: 09 Oct,2015
 tags: [adobe, agile, api, apple, apps, chatops, code quality, coding practice, commenting, compilers, continuous integration, dumps, facebook, hack, internet, internet of everything, ios9, mobile, mobile apps, mobile phones, naming, origami, photoshop, poor vision, prototype, summer of code 2016, technology, tool, ui/ux, android, android-performance, animation, asteriskwith adhearsion, business card, capistrano, ci, coding, comet, container, css, db, db dumps, design, dev practices, devops, docker, drupal, drupal 8, eye, eyewear, form, git, git workflow, google, googlesheets, gui, guide, http2, hubot, internet of things, iot, java, javascrit, jquery, linux, marshmallow, mobile payments, multi-dex, mysql, nfc, openshift, programming, progressbar, refactoring, resource, samsung, sass, sketch, softwaredevelopment, sorting-algorithms, sprite, svg, tdd, testing, ui, validation, video, web]
 image:
-  feature: weekly_illustration.png
+  feature: weekly_illustration.svg
 ---
 
 October, the month of autumn, has brought changes not only to season but also to Young Innovation's family. This week, we celebrated birthday of our very own CEO, **Bibhusan Bista**. Thank you for the delicious food and once again, Happy Birthday ![Smiley](/images/weekly10/birthdayCake.gif)

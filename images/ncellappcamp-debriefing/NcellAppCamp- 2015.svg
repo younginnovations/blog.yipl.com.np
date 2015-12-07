@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="2880px" height="1440px" viewBox="0 0 2880 1440" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>Ncell App Camp 2015</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="49.2203772%" cy="46.3530816%" fx="49.2203772%" fy="46.3530816%" r="82.2688802%" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#82A5AE" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.070000001 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.070000001 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.070000001 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Ncell-app-Camp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Ncell-App-Camp-2015" sketch:type="MSArtboardGroup">
+            <rect id="Rectangle-5" fill="url(#radialGradient-1)" sketch:type="MSShapeGroup" x="0" y="0" width="2880" height="1440"></rect>
+            <path d="M-66.859375,711.96875 L222.046875,564.203125 L408.546875,735.78125 L450.0625,681.96875 L895.796875,1087.73438 L1087.6953,942.40625 L1614.89063,1307.59375 L2050.76563,1011.46875 L2432.0625,1220.26562 L2976.65625,798.53125 L2976.65625,1499.55248 L-98.6927611,1499.55248 L-66.859375,711.96875 Z" id="Path-1" fill="#C3D7DB" sketch:type="MSShapeGroup"></path>
+            <path d="M223.973145,558.104492 L311.543252,916.634526 L412.46875,729.609375 L223.973145,558.104492 Z" id="Path-2" fill="#F2F9FB" sketch:type="MSShapeGroup"></path>
+            <path d="M483.84375,926.15625 L894.172974,1088.0871 L450.078125,684 L483.84375,926.15625 Z" id="Path-4" fill="#F2F9FB" sketch:type="MSShapeGroup"></path>
+            <path d="M2120.37751,1440 L2426.17914,1216.267 L2051.07812,1012.33594 L2120.37751,1440 Z" id="Path-4-Copy" fill="#778B91" sketch:type="MSShapeGroup"></path>
+            <path d="M482.0625,925.5625 L0,1439.99999 L411.410034,729.052099 L449.559845,683.688954 L482.0625,925.5625 Z" id="Path-5" fill="#778B91" sketch:type="MSShapeGroup"></path>
+            <path d="M307.53125,908.695312 L-5.3125,681 L224.234375,557.84375 L307.53125,908.695312 Z" id="Path-6" fill="#ACBFC4" sketch:type="MSShapeGroup"></path>
+            <path d="M0,1440 L1087.78516,941.644531 L1057.73438,1209.65039 L0,1440 Z" id="Path-7" fill="#778B91" sketch:type="MSShapeGroup"></path>
+            <path d="M482.585175,924.803493 L616.820312,1157.24023 L0,1440.00003 L482.585175,924.803493 Z" id="Path-8" fill="#9FB1B7" sketch:type="MSShapeGroup"></path>
+            <path d="M-3.8671875,679.742188 L309.9375,908.90625 L-22.941061,1481.10101 L-3.8671875,679.742188 Z" id="Path-9" fill="#687C82" sketch:type="MSShapeGroup"></path>
+            <path d="M1057.59375,1210.78125 L1615.9425,1309.00653 L1089.01855,941.827222 L1057.59375,1210.78125 Z" id="Path-10" fill="#F1F8FA" sketch:type="MSShapeGroup"></path>
+            <path d="M1057.67752,1208.79733 L918.548668,1453.68767 L0.375027142,1438.13766 L1057.67752,1208.79733 Z" id="Path-11" fill="#ACBFC4" sketch:type="MSShapeGroup"></path>
+            <path d="M1614.8267,1307.75234 L2051.11071,1011.82905 L2121.46067,1440.00001 L1614.8267,1307.75234 Z" id="Path-12" fill="#F1F8FA" sketch:type="MSShapeGroup"></path>
+            <path d="M1615.5628,1308.69446 L1756.12105,1439.90511 L2122.19264,1439.90511 L1615.5628,1308.69446 Z" id="Path-13" fill="#ACBFC4" sketch:type="MSShapeGroup"></path>
+            <path d="M2121.08937,1440 L2965.04688,815.28125 L2959.51562,1500.39062 L2121.08937,1440 Z" id="Path-14" fill="#F1F8FA" sketch:type="MSShapeGroup"></path>
+            <path d="M2586.47723,1093.71352 L2461.75,1452.39062 L2879.79688,1448.39062 L2586.47723,1093.71352 Z" id="Path-15" fill="#778B91" sketch:type="MSShapeGroup"></path>
+            <path d="M2586.67582,1094.70198 L2901.46876,853.605469 L2923.03125,1499.54688 L2586.67582,1094.70198 Z" id="Path-16" fill="#ACBFC4" sketch:type="MSShapeGroup"></path>
+            <g id="Group-Copy-+-Group-Copy-2-+-Group" sketch:type="MSLayerGroup" transform="translate(706.000000, 113.000000)">
+                <g id="Group-Copy" transform="translate(0.000000, 129.000000)" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-11" fill="#FFFFFF" filter="url(#filter-2)" x="0" y="0" width="644" height="1038"></rect>
+                    <path d="M0,0 L644,0 L644,426 L0,582 L0,0 Z" id="Rectangle-12" fill="#1E98D9"></path>
+                    <ellipse id="Oval-4" fill="#F52A4C" filter="url(#filter-3)" cx="513.882353" cy="450.62381" rx="63.4117647" ry="63.4333333"></ellipse>
+                    <rect id="Rectangle-13" opacity="0.2" fill="#FFFFFF" x="80.7058824" y="137.57619" width="465.294118" height="56.0190476"></rect>
+                    <rect id="Rectangle-13-Copy" opacity="0.2" fill="#FFFFFF" x="82.7647059" y="233.55" width="337.827206" height="56.0190476"></rect>
+                    <rect id="Rectangle-15" opacity="0.8" fill="#414141" x="192.705882" y="617.857143" width="162.235294" height="23.0666667"></rect>
+                    <rect id="Rectangle-15-Copy-2" opacity="0.8" fill="#414141" x="192.705882" y="749.666667" width="162.235294" height="23.0666667"></rect>
+                    <rect id="Rectangle-15-Copy-4" opacity="0.8" fill="#414141" x="192.705882" y="896.304762" width="162.235294" height="23.0666667"></rect>
+                    <rect id="Rectangle-15-Copy" opacity="0.3" fill="#414141" x="192.705882" y="659.047619" width="271.764706" height="23.0666667"></rect>
+                    <rect id="Rectangle-15-Copy-3" opacity="0.3" fill="#414141" x="192.705882" y="791.133891" width="271.764706" height="23.0666667"></rect>
+                    <rect id="Rectangle-15-Copy-5" opacity="0.3" fill="#414141" x="192.705882" y="938.068043" width="271.764706" height="23.0666667"></rect>
+                    <ellipse id="Oval-5" fill="#ACBFC4" cx="130.529412" cy="647.92619" rx="40.7647059" ry="40.7785714"></ellipse>
+                    <ellipse id="Oval-5-Copy" fill="#ACBFC4" cx="130.529412" cy="780.012463" rx="40.7647059" ry="40.7785714"></ellipse>
+                    <ellipse id="Oval-5-Copy-2" fill="#ACBFC4" cx="130.529412" cy="926.946615" rx="40.7647059" ry="40.7785714"></ellipse>
+                </g>
+                <g id="Group-Copy-2" transform="translate(910.000000, 129.000000)" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-11" fill="#FFFFFF" filter="url(#filter-4)" x="0" y="0" width="644" height="1038"></rect>
+                    <path d="M0,0 L644,0 L644,426 L0,582 L0,0 Z" id="Rectangle-12" fill="#3FAB40"></path>
+                    <circle id="Oval-4" fill="#2AD6F5" filter="url(#filter-5)" cx="513.5" cy="450.5" r="63.5"></circle>
+                    <rect id="Rectangle-13" opacity="0.2" fill="#FFFFFF" x="80.7058824" y="137.57619" width="465.294118" height="56.0190476"></rect>
+                    <rect id="Rectangle-13-Copy" opacity="0.2" fill="#FFFFFF" x="82.7647059" y="233.55" width="337.827206" height="56.0190476"></rect>
+                    <rect id="Rectangle-15" opacity="0.8" fill="#414141" x="192.705882" y="617.857143" width="162.235294" height="23.0666667"></rect>
+                    <rect id="Rectangle-15-Copy-2" opacity="0.8" fill="#414141" x="192.705882" y="749.666667" width="162.235294" height="23.0666667"></rect>
+                    <rect id="Rectangle-15-Copy-4" opacity="0.8" fill="#414141" x="192.705882" y="896.304762" width="162.235294" height="23.0666667"></rect>
+                    <rect id="Rectangle-15-Copy" opacity="0.3" fill="#414141" x="192.705882" y="659.047619" width="271.764706" height="23.0666667"></rect>
+                    <rect id="Rectangle-15-Copy-3" opacity="0.3" fill="#414141" x="192.705882" y="791.133891" width="271.764706" height="23.0666667"></rect>
+                    <rect id="Rectangle-15-Copy-5" opacity="0.3" fill="#414141" x="192.705882" y="938.068043" width="271.764706" height="23.0666667"></rect>
+                    <ellipse id="Oval-5" fill="#ACBFC4" cx="130.529412" cy="647.92619" rx="40.7647059" ry="40.7785714"></ellipse>
+                    <ellipse id="Oval-5-Copy" fill="#ACBFC4" cx="130.529412" cy="780.012463" rx="40.7647059" ry="40.7785714"></ellipse>
+                    <ellipse id="Oval-5-Copy-2" fill="#ACBFC4" cx="130.529412" cy="926.946615" rx="40.7647059" ry="40.7785714"></ellipse>
+                </g>
+                <g id="Group" transform="translate(321.000000, 0.000000)" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-11" fill="#FFFFFF" filter="url(#filter-6)" x="0" y="0" width="782" height="1260"></rect>
+                    <path d="M0,0 L782,0 L782,517 L0,707 L0,0 Z" id="Rectangle-12" fill="#9E1ED9"></path>
+                    <circle id="Oval-4" fill="#F52A4C" filter="url(#filter-7)" cx="624" cy="547" r="77"></circle>
+                    <rect id="Rectangle-13" opacity="0.2" fill="#FFFFFF" x="98" y="167" width="565" height="68"></rect>
+                    <rect id="Rectangle-13-Copy" opacity="0.2" fill="#FFFFFF" x="100.5" y="283.5" width="410.21875" height="68"></rect>
+                    <rect id="Rectangle-15" opacity="0.8" fill="#414141" x="234" y="750" width="197" height="28"></rect>
+                    <rect id="Rectangle-15-Copy-2" opacity="0.8" fill="#414141" x="234" y="910" width="197" height="28"></rect>
+                    <rect id="Rectangle-15-Copy-4" opacity="0.8" fill="#414141" x="234" y="1088" width="197" height="28"></rect>
+                    <rect id="Rectangle-15-Copy" opacity="0.3" fill="#414141" x="234" y="800" width="330" height="28"></rect>
+                    <rect id="Rectangle-15-Copy-3" opacity="0.3" fill="#414141" x="234" y="960.335938" width="330" height="28"></rect>
+                    <rect id="Rectangle-15-Copy-5" opacity="0.3" fill="#414141" x="234" y="1138.69531" width="330" height="28"></rect>
+                    <circle id="Oval-5" fill="#ACBFC4" cx="158.5" cy="786.5" r="49.5"></circle>
+                    <circle id="Oval-5-Copy" fill="#ACBFC4" cx="158.5" cy="946.835938" r="49.5"></circle>
+                    <circle id="Oval-5-Copy-2" fill="#ACBFC4" cx="158.5" cy="1125.19531" r="49.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

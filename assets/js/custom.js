@@ -3,42 +3,24 @@ $(document).ready(function(){
         //hide navigation wrap when clicked esc key
 
 
-        $(document).keyup(function(event) {
-            if(event.which === 27) {
-                $( ".navigation-wrap" ).animate({
-                    'opacity': '0',
-                    'width': '0%',
-                    'height': '100%',
-                    'top': '400px',
-                    'left': '50%'
-                },300, function() {
-                    // Animation complete.
-                });
-                $('.navigation-wrapper').addClass('noscroll').removeClass('scroll');
-                $('body').removeClass('fixed');
-                $('.trigger').removeClass('active').addClass('inactive');
-            }
-            else {
-                $( ".navigation-wrap" ).animate({
-                    'opacity': '1',
-                    'width': '100%',
-                    'height': '100%',
-                    'top': '0',
-                    'left': '0'
-                }, 10, function() {
-                    // Animation complete.
-                });
-
-            }
-        });
-        
         $(".nav ul").slideToggle("300");
-        var firstmenu = $("ul li:nth-child(1)");
-        $("ul li:nth-child(2)").css("opacity", "0");
-        firstmenu.on('webkitAnimationEnd oAnimationend msAnimationEnd animationend', function (e) {
-            // code to execute after transition ends
-            $("ul li:nth-child(2)").css("opacity", "1");
-        });
+        
+        $('nav ul li').addClass('needs_animation');
+
+        var $divs = $('nav ul li.needs_animation'),
+            count = $divs.length;
+
+        (function animateDiv(i) {
+            var $div = $divs.eq(i);
+            if (i < count) {
+                $('nav ul li:nth-child(2)').css("opacity", "0");
+                $div.removeClass('needs_animation');
+                $div.animate({ opacity: 1 }, 500, function() {
+                    animateDiv(i + 1)
+                });
+            }
+        })(0);
+
 
 
         $(this).toggleClass("inactive");
@@ -72,7 +54,26 @@ $(document).ready(function(){
                 // Animation complete.
             });
         }
-        return false;
+        
+
+        $(document).keydown(function(event) {
+            if(event.which === 27) {
+                $( ".navigation-wrap" ).animate({
+                    'opacity': '0',
+                    'width': '0%',
+                    'height': '100%',
+                    'top': '400px',
+                    'left': '50%'
+                },300, function() {
+                    // Animation complete.
+                });
+                $('.navigation-wrapper').addClass('noscroll').removeClass('scroll');
+                $('body').removeClass('fixed');
+                $('.trigger').removeClass('active').addClass('inactive');
+                $('.nav ul').css('display','none');
+            }
+        });
+       return false;
     });
 
     $('.article-wrap ul li p a').parents('ul').addClass('links-list');
@@ -102,6 +103,11 @@ $(document).ready(function(){
         $(this).toggleClass("active"); 
     });
 
+    if(!Modernizr.svg) {
+        $('img[src*="svg"]').attr('src', function() {
+            return $(this).attr('src').replace('.svg', '.png');
+        });
+}
    
 });
 

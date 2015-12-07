@@ -5,7 +5,7 @@ author: sachit
 modified: 05 Sep, 2015
 tags: [ phpunit, unit tests, automated testing, continuous integration, shippable]
 image:
-  feature: testing-ci/phpunit.png
+  feature: testing-ci/phpunit.svg
 ---
 
 Well I'm going to [present](http://sachit-singh.github.io/kswsbs/) today at the [14th PHP developers meetup](https://developers-nepal.github.io/php/meetups/05-Sep-2015/). I will be talking about [Automated](https://en.wikipedia.org/wiki/Test_automation) [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing) and [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration). I am going to be explaining about why testing, in general is important, the features of unit tests and why CI is cool.

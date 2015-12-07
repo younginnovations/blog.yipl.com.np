@@ -5,7 +5,7 @@ author: rishav_malla
 modified: 25 Sep, 2015
 tags:  [ app, awesome code, behat, chrome, concept, css framework, design, foundation, framework, html, innovation, jquery, js, open source, phpspec, safari, scss, vivaldi, android, animation, api, bdd, browser, business, cdn, cloud, code, company, composer.jsonvs composer.lock, css, cursor, design, docker, docker-compose, drag and drop cursor, dropbox, drupal, elk, file management, git, gitlab, health, javascript, jwt, laravel, logging, logo, microservices, nginx, nodejs, opera, php, podcast, responsive, sass, simple code, sleep basics, spark, startbucks, stripe, tbt, testing, tools, varnish, webdevelopment, wordpress, writing]
 image:
-  feature: weekly_illustration.png
+  feature: weekly_illustration.svg
 ---
 
 This week has been about knowledge and some good achievements. 
